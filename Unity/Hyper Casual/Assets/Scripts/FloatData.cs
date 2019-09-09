@@ -35,5 +35,4 @@ public class FloatData : MonoBehaviour
         }
         UpdateValueLimitZero(amount);
     }
-
 }
