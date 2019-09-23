@@ -11,8 +11,11 @@
           <e p="GameAction.cs" t="Include" />
           <e p="GameActionHandler.cs" t="Include" />
           <e p="ImageController.cs" t="Include" />
+          <e p="IntData.cs" t="Include" />
+          <e p="PlayerMovement.cs" t="Include" />
           <e p="RotateGameObject.cs" t="Include" />
-          <e p="TriggetEventBehavior.cs" t="Include" />
+          <e p="TransformController.cs" t="Include" />
+          <e p="TriggerEventBehavior.cs" t="Include" />
         </e>
       </e>
       <e p="Hyper Casual.sln" t="IncludeFlat" />

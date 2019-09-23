@@ -16,17 +16,17 @@ public class RotateGameObject : MonoBehaviour
     
     private void RotateTransform()
     {
-        if (Input.GetAxis("Horizontal") > 0)
+        if (Input.GetAxis("Rotation") > 0)
         {
             transform.Rotate(0f, -RotationSpeed, 0f);
         }
 
-        if (Input.GetAxis("Horizontal") < 0)
+        if (Input.GetAxis("Rotation") < 0)
         {
             transform.Rotate(0f, RotationSpeed, 0f);
         }
-        
-        if (Input.GetAxisRaw("Horizontal") < 0 || (Input.GetAxisRaw("Horizontal") > 0))
+
+        if (Input.GetAxisRaw("Rotation") < 0 || Input.GetAxisRaw("Rotation") > 0)
         {
             RotationSpeed += _increment * Time.deltaTime;
         }
@@ -36,6 +36,4 @@ public class RotateGameObject : MonoBehaviour
         }
         RotationSpeed = Mathf.Clamp (RotationSpeed, .3f, _maxSpeed);
     }
-
-
 }

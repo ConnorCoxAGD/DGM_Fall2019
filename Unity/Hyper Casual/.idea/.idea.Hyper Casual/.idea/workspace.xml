@@ -12,13 +12,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/../../../DGM1610_Spring2019/1610SideScroller/Assets/Scripts/Character Controller/SimpleMoveCharacter.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameAction.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/RotateGameObject.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../DGM1610_Spring2019/1610SideScroller/Assets/Scripts/MonoEvents.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameActionHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TransformController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEventBehavior.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/IntData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../DGM1610_Spring2019/1610SideScroller/Assets/Scripts/Character Controller/SimpleMoveCharacter.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameAction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ImageController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggetEventBehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -26,11 +29,16 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/Camera Controller.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CameraController.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/ImageController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/FloatData.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/GameAction.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/TriggetEventBehavior.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameAction.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GameActionHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ImageController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/IntData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RotateGameObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TransformController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" />
       </list>
     </option>
   </component>
@@ -87,6 +95,7 @@
       <workItem from="1567994701797" duration="3299000" />
       <workItem from="1568059623884" duration="4035000" />
       <workItem from="1568231944114" duration="1098000" />
+      <workItem from="1569267589923" duration="7660000" />
     </task>
     <servers />
   </component>
@@ -112,8 +121,12 @@
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="376" y="116" key="RiderGenerateDialog" />
+    <state x="376" y="116" key="RiderGenerateDialog/1920.1080" />
     <state x="199" y="163" key="SettingsEditor" />
     <state x="199" y="163" key="SettingsEditor/1920.1080" />
+    <state x="308" y="168" width="672" height="678" key="search.everywhere.popup" />
+    <state x="308" y="168" width="672" height="678" key="search.everywhere.popup/1920.1080" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

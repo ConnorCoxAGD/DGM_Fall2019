@@ -1,15 +1,23 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿using UnityEngine;
 using UnityEngine.UI;
 
-//[RequireComponent(typeof(Image))]
-//public class ImageController : MonoBehaviour
-//{
-//    private Image imageComponent;
-//    public UnityEvent UpdateImageEvent;
-//    Private void Start()
-//    {
-//        imageComponent = GetComponent<Image>();
-//    }
-//    
-//}
+[RequireComponent(typeof(Image))]
+public class ImageController : MonoBehaviour
+{
+    private Image imageComponent;
+    private void Start ()
+    {
+        imageComponent = GetComponent<Image>();
+    }
+	
+    public void UpdateImageComponent(float amount)
+    {
+        imageComponent.fillAmount += amount;
+    }
+	
+    public void UpdateImageComponent(FloatData dataObj)
+    {
+        imageComponent.fillAmount = dataObj.value;
+    }
+    
+}
