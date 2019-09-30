@@ -32,7 +32,6 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/Camera Controller.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CameraController.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/FloatData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/TriggetEventBehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GameAction.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GameActionHandler.cs" />
@@ -46,6 +45,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/TriggerEventBehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ActionCalls.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/EventBehaviors.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FloatData.cs" />
       </list>
     </option>
   </component>
@@ -103,7 +103,7 @@
       <workItem from="1568059623884" duration="4035000" />
       <workItem from="1568231944114" duration="1098000" />
       <workItem from="1569267589923" duration="7660000" />
-      <workItem from="1569872151427" duration="3189000" />
+      <workItem from="1569872151427" duration="3826000" />
     </task>
     <servers />
   </component>
