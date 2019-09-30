@@ -6,6 +6,12 @@ public class FloatData : ScriptableObject
 {
     public float value = 1f;
     public float maxValue = 1f;
+    
+    public void SetValue(float amount)
+    {
+        value = amount;
+    }
+    
     public void UpdateValue(float amount)
     {
         value += amount;
