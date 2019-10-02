@@ -9,6 +9,9 @@
         <e p="Scripts" t="Include">
           <e p="ActionCalls.cs" t="Include" />
           <e p="AIwithNavMesh.cs" t="Include" />
+          <e p="Coroutines.cs" t="Include" />
+          <e p="DraggableObj.cs" t="Include" />
+          <e p="DragMove.cs" t="Include" />
           <e p="EventBehaviors.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
           <e p="GameAction.cs" t="Include" />
