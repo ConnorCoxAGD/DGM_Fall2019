@@ -29,6 +29,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/EventBehaviors.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DragMove.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Collections.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -53,6 +54,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Draggable.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DragMove.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DraggableObj.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Collections.cs" />
       </list>
     </option>
   </component>
@@ -112,6 +114,7 @@
       <workItem from="1569267589923" duration="7660000" />
       <workItem from="1569872151427" duration="3826000" />
       <workItem from="1570043187823" duration="5560000" />
+      <workItem from="1570479206015" duration="1325000" />
     </task>
     <servers />
   </component>
