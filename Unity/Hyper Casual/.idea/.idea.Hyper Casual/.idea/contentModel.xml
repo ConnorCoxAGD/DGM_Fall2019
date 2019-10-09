@@ -6,6 +6,11 @@
     <e p="C:\Users\10873383\Documents\DGM_Fall2019\Unity\Hyper Casual" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="Classes" t="Include">
+          <e p="EnemyClass.cs" t="Include" />
+          <e p="PlayerClass.cs" t="Include" />
+          <e p="TurretClass.cs" t="Include" />
+        </e>
         <e p="Scripts" t="Include">
           <e p="ActionCalls.cs" t="Include" />
           <e p="AIwithNavMesh.cs" t="Include" />
