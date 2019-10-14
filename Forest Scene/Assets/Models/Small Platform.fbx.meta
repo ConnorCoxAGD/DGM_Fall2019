@@ -1,0 +1,321 @@
+fileFormatVersion: 2
+guid: b93720242e53dcf4980b5f55738b9210
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Fence_Detail
+    100002: Fence_Detail 1
+    100004: Fence_Detail1
+    100006: Fence_Detail1 1
+    100008: Plank
+    100010: plank
+    100012: plank1
+    100014: plank2
+    100016: plank3
+    100018: plank4
+    100020: plank5
+    100022: plank6
+    100024: rope_tie
+    100026: rope_tie 1
+    100028: rope_tie 2
+    100030: rope_tie1
+    100032: rope_tie10
+    100034: rope_tie11
+    100036: rope_tie2
+    100038: rope_tie3
+    100040: rope_tie4
+    100042: rope_tie4 1
+    100044: rope_tie4 2
+    100046: rope_tie4 3
+    100048: rope_tie4 4
+    100050: rope_tie4 5
+    100052: rope_tie4 6
+    100054: rope_tie4 7
+    100056: rope_tie5
+    100058: rope_tie5 1
+    100060: rope_tie5 2
+    100062: rope_tie5 3
+    100064: rope_tie5 4
+    100066: rope_tie5 5
+    100068: rope_tie5 6
+    100070: rope_tie5 7
+    100072: rope_tie6
+    100074: rope_tie6 1
+    100076: rope_tie7
+    100078: rope_tie7 1
+    100080: rope_tie8
+    100082: rope_tie8 1
+    100084: scaf_fence3
+    100086: Scaf_frame
+    100088: Scaf_frame1
+    100090: Scaf_frame2
+    100092: scaf_rail
+    100094: scaf_rail1
+    100096: scaf_support
+    100098: scaf_support1
+    100100: scaf_support2
+    100102: scaf_support3
+    100104: //RootNode
+    400000: Fence_Detail
+    400002: Fence_Detail 1
+    400004: Fence_Detail1
+    400006: Fence_Detail1 1
+    400008: Plank
+    400010: plank
+    400012: plank1
+    400014: plank2
+    400016: plank3
+    400018: plank4
+    400020: plank5
+    400022: plank6
+    400024: rope_tie
+    400026: rope_tie 1
+    400028: rope_tie 2
+    400030: rope_tie1
+    400032: rope_tie10
+    400034: rope_tie11
+    400036: rope_tie2
+    400038: rope_tie3
+    400040: rope_tie4
+    400042: rope_tie4 1
+    400044: rope_tie4 2
+    400046: rope_tie4 3
+    400048: rope_tie4 4
+    400050: rope_tie4 5
+    400052: rope_tie4 6
+    400054: rope_tie4 7
+    400056: rope_tie5
+    400058: rope_tie5 1
+    400060: rope_tie5 2
+    400062: rope_tie5 3
+    400064: rope_tie5 4
+    400066: rope_tie5 5
+    400068: rope_tie5 6
+    400070: rope_tie5 7
+    400072: rope_tie6
+    400074: rope_tie6 1
+    400076: rope_tie7
+    400078: rope_tie7 1
+    400080: rope_tie8
+    400082: rope_tie8 1
+    400084: scaf_fence3
+    400086: Scaf_frame
+    400088: Scaf_frame1
+    400090: Scaf_frame2
+    400092: scaf_rail
+    400094: scaf_rail1
+    400096: scaf_support
+    400098: scaf_support1
+    400100: scaf_support2
+    400102: scaf_support3
+    400104: //RootNode
+    2100000: lambert1
+    2300000: Fence_Detail
+    2300002: Fence_Detail 1
+    2300004: Fence_Detail1
+    2300006: Fence_Detail1 1
+    2300008: plank
+    2300010: plank1
+    2300012: plank2
+    2300014: plank3
+    2300016: plank4
+    2300018: plank5
+    2300020: plank6
+    2300022: rope_tie 2
+    2300024: rope_tie1
+    2300026: rope_tie2
+    2300028: rope_tie3
+    2300030: rope_tie4
+    2300032: rope_tie4 1
+    2300034: rope_tie4 2
+    2300036: rope_tie4 3
+    2300038: rope_tie4 4
+    2300040: rope_tie4 5
+    2300042: rope_tie4 6
+    2300044: rope_tie4 7
+    2300046: rope_tie5
+    2300048: rope_tie5 1
+    2300050: rope_tie5 2
+    2300052: rope_tie5 3
+    2300054: rope_tie5 4
+    2300056: rope_tie5 5
+    2300058: rope_tie5 6
+    2300060: rope_tie5 7
+    2300062: scaf_fence3
+    2300064: Scaf_frame
+    2300066: Scaf_frame1
+    2300068: Scaf_frame2
+    2300070: scaf_rail
+    2300072: scaf_rail1
+    2300074: scaf_support
+    2300076: scaf_support1
+    2300078: scaf_support2
+    2300080: scaf_support3
+    3300000: Fence_Detail
+    3300002: Fence_Detail 1
+    3300004: Fence_Detail1
+    3300006: Fence_Detail1 1
+    3300008: plank
+    3300010: plank1
+    3300012: plank2
+    3300014: plank3
+    3300016: plank4
+    3300018: plank5
+    3300020: plank6
+    3300022: rope_tie 2
+    3300024: rope_tie1
+    3300026: rope_tie2
+    3300028: rope_tie3
+    3300030: rope_tie4
+    3300032: rope_tie4 1
+    3300034: rope_tie4 2
+    3300036: rope_tie4 3
+    3300038: rope_tie4 4
+    3300040: rope_tie4 5
+    3300042: rope_tie4 6
+    3300044: rope_tie4 7
+    3300046: rope_tie5
+    3300048: rope_tie5 1
+    3300050: rope_tie5 2
+    3300052: rope_tie5 3
+    3300054: rope_tie5 4
+    3300056: rope_tie5 5
+    3300058: rope_tie5 6
+    3300060: rope_tie5 7
+    3300062: scaf_fence3
+    3300064: Scaf_frame
+    3300066: Scaf_frame1
+    3300068: Scaf_frame2
+    3300070: scaf_rail
+    3300072: scaf_rail1
+    3300074: scaf_support
+    3300076: scaf_support1
+    3300078: scaf_support2
+    3300080: scaf_support3
+    4300000: scaf_support
+    4300002: rope_tie
+    4300004: rope_tie1
+    4300006: scaf_support1
+    4300008: rope_tie2
+    4300010: rope_tie3
+    4300012: scaf_support2
+    4300014: rope_tie4
+    4300016: rope_tie5
+    4300018: scaf_support3
+    4300020: rope_tie4
+    4300022: rope_tie5
+    4300024: scaf_rail
+    4300026: Fence_Detail
+    4300028: Fence_Detail1
+    4300030: scaf_rail1
+    4300032: Fence_Detail
+    4300034: Fence_Detail1
+    4300036: scaf_fence3
+    4300038: Scaf_frame
+    4300040: rope_tie4
+    4300042: rope_tie5
+    4300044: rope_tie4
+    4300046: rope_tie5
+    4300048: Scaf_frame1
+    4300050: rope_tie4
+    4300052: rope_tie5
+    4300054: rope_tie4
+    4300056: rope_tie5
+    4300058: plank
+    4300060: plank1
+    4300062: plank2
+    4300064: plank3
+    4300066: plank4
+    4300068: plank5
+    4300070: plank6
+    4300072: Scaf_frame2
+    4300074: rope_tie4
+    4300076: rope_tie5
+    4300078: rope_tie4
+    4300080: rope_tie5
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
