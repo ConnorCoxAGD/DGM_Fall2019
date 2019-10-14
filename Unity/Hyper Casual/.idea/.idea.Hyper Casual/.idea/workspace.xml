@@ -12,23 +12,26 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RotateGameObject.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../DGM1610_Spring2019/1610SideScroller/Assets/Scripts/MonoEvents.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameActionHandler.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Coroutines.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TransformController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEventBehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/IntData.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../../DGM1610_Spring2019/1610SideScroller/Assets/Scripts/Character Controller/SimpleMoveCharacter.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameAction.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ActionCalls.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ImageController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DraggableObj.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AiWithNavMesh.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/EventBehaviors.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DragMove.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Collections.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RotateGameObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameActionHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Coroutines.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Classes/PlayerClass.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../DGM1610_Spring2019/1610SideScroller/Assets/Scripts/Character Controller/SimpleMoveCharacter.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Classes/EnemyClass.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AiWithNavMesh.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -37,7 +40,6 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/CameraController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/TriggetEventBehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GameAction.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/GameActionHandler.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ImageController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/RotateGameObject.cs" />
@@ -53,6 +55,13 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Draggable.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DragMove.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DraggableObj.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Collections.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/WeaponClass.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyClass.cs" />
+        <option value="$PROJECT_DIR$/Assets/Classes/PlayerClass.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameActionHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Classes/EndGameClass.cs" />
+        <option value="$PROJECT_DIR$/Assets/Classes/TowerClass.cs" />
       </list>
     </option>
   </component>
@@ -112,6 +121,8 @@
       <workItem from="1569267589923" duration="7660000" />
       <workItem from="1569872151427" duration="3826000" />
       <workItem from="1570043187823" duration="5560000" />
+      <workItem from="1570479206015" duration="1325000" />
+      <workItem from="1570648800141" duration="3344000" />
     </task>
     <servers />
   </component>
