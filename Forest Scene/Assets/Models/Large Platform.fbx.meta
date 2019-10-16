@@ -1,0 +1,1665 @@
+fileFormatVersion: 2
+guid: 80ebe2d2d60c1004c83696683e2142b4
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Fence_Detail
+    100002: Fence_Detail 1
+    100004: Fence_Detail1
+    100006: Fence_Detail1 1
+    100008: Fence_Detail2
+    100010: Fence_Detail2 1
+    100012: group2
+    100014: group2 1
+    100016: group2 2
+    100018: group3
+    100020: group3 1
+    100022: group3 2
+    100024: //RootNode
+    100026: Large_Scaffold 1
+    100028: Large_Scaffold1
+    100030: Large_Scaffold2
+    100032: plank
+    100034: plank 1
+    100036: plank 10
+    100038: plank 2
+    100040: plank 3
+    100042: plank 4
+    100044: plank 5
+    100046: plank 6
+    100048: plank 7
+    100050: plank 8
+    100052: plank 9
+    100054: plank1
+    100056: plank1 1
+    100058: plank1 2
+    100060: plank1 3
+    100062: plank1 4
+    100064: plank1 5
+    100066: plank1 6
+    100068: plank1 7
+    100070: plank10
+    100072: plank10 1
+    100074: plank10 2
+    100076: plank11
+    100078: plank11 1
+    100080: plank11 2
+    100082: plank12
+    100084: plank12 1
+    100086: plank12 2
+    100088: plank13
+    100090: plank13 1
+    100092: plank13 2
+    100094: plank14
+    100096: plank14 1
+    100098: plank14 2
+    100100: plank15
+    100102: plank15 1
+    100104: plank15 2
+    100106: plank16
+    100108: plank16 1
+    100110: plank16 2
+    100112: plank17
+    100114: plank17 1
+    100116: plank17 2
+    100118: plank18
+    100120: plank18 1
+    100122: plank18 2
+    100124: plank2
+    100126: plank2 1
+    100128: plank2 2
+    100130: plank2 3
+    100132: plank2 4
+    100134: plank2 5
+    100136: plank2 6
+    100138: plank2 7
+    100140: plank2 8
+    100142: plank2 9
+    100144: Plank3
+    100146: plank3
+    100148: Plank3 1
+    100150: plank3 1
+    100152: plank3 2
+    100154: plank3 3
+    100156: plank3 4
+    100158: plank3 5
+    100160: plank3 6
+    100162: plank3 7
+    100164: plank3 8
+    100166: plank3 9
+    100168: Plank4
+    100170: plank4
+    100172: Plank4 1
+    100174: plank4 1
+    100176: plank4 10
+    100178: plank4 2
+    100180: plank4 3
+    100182: plank4 4
+    100184: plank4 5
+    100186: plank4 6
+    100188: plank4 7
+    100190: plank4 8
+    100192: plank4 9
+    100194: Plank5
+    100196: plank5
+    100198: Plank5 1
+    100200: plank5 1
+    100202: plank5 10
+    100204: plank5 2
+    100206: plank5 3
+    100208: plank5 4
+    100210: plank5 5
+    100212: plank5 6
+    100214: plank5 7
+    100216: plank5 8
+    100218: plank5 9
+    100220: Plank6
+    100222: plank6
+    100224: Plank6 1
+    100226: plank6 1
+    100228: Plank6 2
+    100230: plank6 2
+    100232: plank6 3
+    100234: plank6 4
+    100236: plank6 5
+    100238: plank6 6
+    100240: plank6 7
+    100242: plank6 8
+    100244: Plank7
+    100246: plank7
+    100248: plank7 1
+    100250: plank7 2
+    100252: Plank8
+    100254: plank8
+    100256: plank8 1
+    100258: plank8 2
+    100260: plank9
+    100262: plank9 1
+    100264: plank9 2
+    100266: Plank_Front1
+    100268: Plank_Front1 1
+    100270: Plank_Front1 2
+    100272: Rail
+    100274: Rail 1
+    100276: Rail 2
+    100278: rope_tie
+    100280: rope_tie 1
+    100282: rope_tie 10
+    100284: rope_tie 11
+    100286: rope_tie 12
+    100288: rope_tie 13
+    100290: rope_tie 14
+    100292: rope_tie 15
+    100294: rope_tie 16
+    100296: rope_tie 17
+    100298: rope_tie 18
+    100300: rope_tie 19
+    100302: rope_tie 2
+    100304: rope_tie 20
+    100306: rope_tie 21
+    100308: rope_tie 22
+    100310: rope_tie 23
+    100312: rope_tie 24
+    100314: rope_tie 25
+    100316: rope_tie 26
+    100318: rope_tie 27
+    100320: rope_tie 28
+    100322: rope_tie 29
+    100324: rope_tie 3
+    100326: rope_tie 30
+    100328: rope_tie 31
+    100330: rope_tie 32
+    100332: rope_tie 33
+    100334: rope_tie 34
+    100336: rope_tie 35
+    100338: rope_tie 36
+    100340: rope_tie 37
+    100342: rope_tie 38
+    100344: rope_tie 39
+    100346: rope_tie 4
+    100348: rope_tie 40
+    100350: rope_tie 41
+    100352: rope_tie 5
+    100354: rope_tie 6
+    100356: rope_tie 7
+    100358: rope_tie 8
+    100360: rope_tie 9
+    100362: rope_tie1
+    100364: rope_tie1 1
+    100366: rope_tie1 10
+    100368: rope_tie1 11
+    100370: rope_tie1 12
+    100372: rope_tie1 13
+    100374: rope_tie1 14
+    100376: rope_tie1 2
+    100378: rope_tie1 3
+    100380: rope_tie1 4
+    100382: rope_tie1 5
+    100384: rope_tie1 6
+    100386: rope_tie1 7
+    100388: rope_tie1 8
+    100390: rope_tie1 9
+    100392: rope_tie10
+    100394: rope_tie10 1
+    100396: rope_tie10 2
+    100398: rope_tie10 3
+    100400: rope_tie10 4
+    100402: rope_tie10 5
+    100404: rope_tie10 6
+    100406: rope_tie10 7
+    100408: rope_tie10 8
+    100410: rope_tie11
+    100412: rope_tie11 1
+    100414: rope_tie11 2
+    100416: rope_tie11 3
+    100418: rope_tie11 4
+    100420: rope_tie11 5
+    100422: rope_tie11 6
+    100424: rope_tie11 7
+    100426: rope_tie11 8
+    100428: rope_tie12
+    100430: rope_tie13
+    100432: rope_tie2
+    100434: rope_tie2 1
+    100436: rope_tie2 10
+    100438: rope_tie2 2
+    100440: rope_tie2 3
+    100442: rope_tie2 4
+    100444: rope_tie2 5
+    100446: rope_tie2 6
+    100448: rope_tie2 7
+    100450: rope_tie2 8
+    100452: rope_tie2 9
+    100454: rope_tie3
+    100456: rope_tie3 1
+    100458: rope_tie3 10
+    100460: rope_tie3 2
+    100462: rope_tie3 3
+    100464: rope_tie3 4
+    100466: rope_tie3 5
+    100468: rope_tie3 6
+    100470: rope_tie3 7
+    100472: rope_tie3 8
+    100474: rope_tie3 9
+    100476: rope_tie4
+    100478: rope_tie4 1
+    100480: rope_tie4 10
+    100482: rope_tie4 11
+    100484: rope_tie4 12
+    100486: rope_tie4 13
+    100488: rope_tie4 14
+    100490: rope_tie4 15
+    100492: rope_tie4 16
+    100494: rope_tie4 17
+    100496: rope_tie4 18
+    100498: rope_tie4 19
+    100500: rope_tie4 2
+    100502: rope_tie4 20
+    100504: rope_tie4 21
+    100506: rope_tie4 22
+    100508: rope_tie4 23
+    100510: rope_tie4 24
+    100512: rope_tie4 25
+    100514: rope_tie4 3
+    100516: rope_tie4 4
+    100518: rope_tie4 5
+    100520: rope_tie4 6
+    100522: rope_tie4 7
+    100524: rope_tie4 8
+    100526: rope_tie4 9
+    100528: rope_tie5
+    100530: rope_tie5 1
+    100532: rope_tie5 10
+    100534: rope_tie5 11
+    100536: rope_tie5 12
+    100538: rope_tie5 13
+    100540: rope_tie5 14
+    100542: rope_tie5 15
+    100544: rope_tie5 16
+    100546: rope_tie5 17
+    100548: rope_tie5 18
+    100550: rope_tie5 19
+    100552: rope_tie5 2
+    100554: rope_tie5 20
+    100556: rope_tie5 21
+    100558: rope_tie5 22
+    100560: rope_tie5 23
+    100562: rope_tie5 24
+    100564: rope_tie5 25
+    100566: rope_tie5 3
+    100568: rope_tie5 4
+    100570: rope_tie5 5
+    100572: rope_tie5 6
+    100574: rope_tie5 7
+    100576: rope_tie5 8
+    100578: rope_tie5 9
+    100580: rope_tie8
+    100582: rope_tie8 1
+    100584: rope_tie8 10
+    100586: rope_tie8 11
+    100588: rope_tie8 2
+    100590: rope_tie8 3
+    100592: rope_tie8 4
+    100594: rope_tie8 5
+    100596: rope_tie8 6
+    100598: rope_tie8 7
+    100600: rope_tie8 8
+    100602: rope_tie8 9
+    100604: Scaf_frame3
+    100606: Scaf_frame3 1
+    100608: Scaf_frame4
+    100610: Scaf_frame4 1
+    100612: Scaf_frame4 2
+    100614: Scaf_frame5
+    100616: Scaf_frame5 1
+    100618: Scaf_frame5 2
+    100620: Scaf_frame6
+    100622: Scaf_frame6 1
+    100624: Scaf_frame6 2
+    100626: Scaf_frame7
+    100628: Scaf_frame7 1
+    100630: Scaf_frame7 2
+    100632: Scaf_frame8
+    100634: Scaf_frame8 1
+    100636: Scaf_frame8 2
+    100638: Scaf_frame9
+    100640: Scaf_frame9 1
+    100642: Scaf_frame9 2
+    100644: scaf_rail10
+    100646: scaf_rail11
+    100648: scaf_rail12
+    100650: scaf_rail12 1
+    100652: scaf_rail12 2
+    100654: scaf_rail5
+    100656: scaf_rail5 1
+    100658: scaf_rail5 2
+    100660: scaf_rail6
+    100662: scaf_rail6 1
+    100664: scaf_rail7
+    100666: scaf_rail7 1
+    100668: scaf_rail8
+    100670: scaf_rail8 1
+    100672: scaf_rail9
+    100674: scaf_rail9 1
+    100676: scaf_support10
+    100678: scaf_support10 1
+    100680: scaf_support10 2
+    100682: scaf_support11
+    100684: scaf_support11 1
+    100686: scaf_support11 2
+    100688: scaf_support12
+    100690: scaf_support12 1
+    100692: scaf_support12 2
+    100694: scaf_support13
+    100696: scaf_support13 1
+    100698: scaf_support13 2
+    100700: scaf_support14
+    100702: scaf_support14 1
+    100704: scaf_support14 2
+    100706: scaf_support15
+    100708: scaf_support15 1
+    100710: scaf_support15 2
+    100712: scaf_support16
+    100714: scaf_support16 1
+    100716: scaf_support16 2
+    100718: scaf_support8
+    100720: scaf_support8 1
+    100722: scaf_support8 2
+    100724: scaf_support9
+    100726: scaf_support9 1
+    100728: scaf_support9 2
+    400000: Fence_Detail
+    400002: Fence_Detail 1
+    400004: Fence_Detail1
+    400006: Fence_Detail1 1
+    400008: Fence_Detail2
+    400010: Fence_Detail2 1
+    400012: group2
+    400014: group2 1
+    400016: group2 2
+    400018: group3
+    400020: group3 1
+    400022: group3 2
+    400024: //RootNode
+    400026: Large_Scaffold 1
+    400028: Large_Scaffold1
+    400030: Large_Scaffold2
+    400032: plank
+    400034: plank 1
+    400036: plank 10
+    400038: plank 2
+    400040: plank 3
+    400042: plank 4
+    400044: plank 5
+    400046: plank 6
+    400048: plank 7
+    400050: plank 8
+    400052: plank 9
+    400054: plank1
+    400056: plank1 1
+    400058: plank1 2
+    400060: plank1 3
+    400062: plank1 4
+    400064: plank1 5
+    400066: plank1 6
+    400068: plank1 7
+    400070: plank10
+    400072: plank10 1
+    400074: plank10 2
+    400076: plank11
+    400078: plank11 1
+    400080: plank11 2
+    400082: plank12
+    400084: plank12 1
+    400086: plank12 2
+    400088: plank13
+    400090: plank13 1
+    400092: plank13 2
+    400094: plank14
+    400096: plank14 1
+    400098: plank14 2
+    400100: plank15
+    400102: plank15 1
+    400104: plank15 2
+    400106: plank16
+    400108: plank16 1
+    400110: plank16 2
+    400112: plank17
+    400114: plank17 1
+    400116: plank17 2
+    400118: plank18
+    400120: plank18 1
+    400122: plank18 2
+    400124: plank2
+    400126: plank2 1
+    400128: plank2 2
+    400130: plank2 3
+    400132: plank2 4
+    400134: plank2 5
+    400136: plank2 6
+    400138: plank2 7
+    400140: plank2 8
+    400142: plank2 9
+    400144: Plank3
+    400146: plank3
+    400148: Plank3 1
+    400150: plank3 1
+    400152: plank3 2
+    400154: plank3 3
+    400156: plank3 4
+    400158: plank3 5
+    400160: plank3 6
+    400162: plank3 7
+    400164: plank3 8
+    400166: plank3 9
+    400168: Plank4
+    400170: plank4
+    400172: Plank4 1
+    400174: plank4 1
+    400176: plank4 10
+    400178: plank4 2
+    400180: plank4 3
+    400182: plank4 4
+    400184: plank4 5
+    400186: plank4 6
+    400188: plank4 7
+    400190: plank4 8
+    400192: plank4 9
+    400194: Plank5
+    400196: plank5
+    400198: Plank5 1
+    400200: plank5 1
+    400202: plank5 10
+    400204: plank5 2
+    400206: plank5 3
+    400208: plank5 4
+    400210: plank5 5
+    400212: plank5 6
+    400214: plank5 7
+    400216: plank5 8
+    400218: plank5 9
+    400220: Plank6
+    400222: plank6
+    400224: Plank6 1
+    400226: plank6 1
+    400228: Plank6 2
+    400230: plank6 2
+    400232: plank6 3
+    400234: plank6 4
+    400236: plank6 5
+    400238: plank6 6
+    400240: plank6 7
+    400242: plank6 8
+    400244: Plank7
+    400246: plank7
+    400248: plank7 1
+    400250: plank7 2
+    400252: Plank8
+    400254: plank8
+    400256: plank8 1
+    400258: plank8 2
+    400260: plank9
+    400262: plank9 1
+    400264: plank9 2
+    400266: Plank_Front1
+    400268: Plank_Front1 1
+    400270: Plank_Front1 2
+    400272: Rail
+    400274: Rail 1
+    400276: Rail 2
+    400278: rope_tie
+    400280: rope_tie 1
+    400282: rope_tie 10
+    400284: rope_tie 11
+    400286: rope_tie 12
+    400288: rope_tie 13
+    400290: rope_tie 14
+    400292: rope_tie 15
+    400294: rope_tie 16
+    400296: rope_tie 17
+    400298: rope_tie 18
+    400300: rope_tie 19
+    400302: rope_tie 2
+    400304: rope_tie 20
+    400306: rope_tie 21
+    400308: rope_tie 22
+    400310: rope_tie 23
+    400312: rope_tie 24
+    400314: rope_tie 25
+    400316: rope_tie 26
+    400318: rope_tie 27
+    400320: rope_tie 28
+    400322: rope_tie 29
+    400324: rope_tie 3
+    400326: rope_tie 30
+    400328: rope_tie 31
+    400330: rope_tie 32
+    400332: rope_tie 33
+    400334: rope_tie 34
+    400336: rope_tie 35
+    400338: rope_tie 36
+    400340: rope_tie 37
+    400342: rope_tie 38
+    400344: rope_tie 39
+    400346: rope_tie 4
+    400348: rope_tie 40
+    400350: rope_tie 41
+    400352: rope_tie 5
+    400354: rope_tie 6
+    400356: rope_tie 7
+    400358: rope_tie 8
+    400360: rope_tie 9
+    400362: rope_tie1
+    400364: rope_tie1 1
+    400366: rope_tie1 10
+    400368: rope_tie1 11
+    400370: rope_tie1 12
+    400372: rope_tie1 13
+    400374: rope_tie1 14
+    400376: rope_tie1 2
+    400378: rope_tie1 3
+    400380: rope_tie1 4
+    400382: rope_tie1 5
+    400384: rope_tie1 6
+    400386: rope_tie1 7
+    400388: rope_tie1 8
+    400390: rope_tie1 9
+    400392: rope_tie10
+    400394: rope_tie10 1
+    400396: rope_tie10 2
+    400398: rope_tie10 3
+    400400: rope_tie10 4
+    400402: rope_tie10 5
+    400404: rope_tie10 6
+    400406: rope_tie10 7
+    400408: rope_tie10 8
+    400410: rope_tie11
+    400412: rope_tie11 1
+    400414: rope_tie11 2
+    400416: rope_tie11 3
+    400418: rope_tie11 4
+    400420: rope_tie11 5
+    400422: rope_tie11 6
+    400424: rope_tie11 7
+    400426: rope_tie11 8
+    400428: rope_tie12
+    400430: rope_tie13
+    400432: rope_tie2
+    400434: rope_tie2 1
+    400436: rope_tie2 10
+    400438: rope_tie2 2
+    400440: rope_tie2 3
+    400442: rope_tie2 4
+    400444: rope_tie2 5
+    400446: rope_tie2 6
+    400448: rope_tie2 7
+    400450: rope_tie2 8
+    400452: rope_tie2 9
+    400454: rope_tie3
+    400456: rope_tie3 1
+    400458: rope_tie3 10
+    400460: rope_tie3 2
+    400462: rope_tie3 3
+    400464: rope_tie3 4
+    400466: rope_tie3 5
+    400468: rope_tie3 6
+    400470: rope_tie3 7
+    400472: rope_tie3 8
+    400474: rope_tie3 9
+    400476: rope_tie4
+    400478: rope_tie4 1
+    400480: rope_tie4 10
+    400482: rope_tie4 11
+    400484: rope_tie4 12
+    400486: rope_tie4 13
+    400488: rope_tie4 14
+    400490: rope_tie4 15
+    400492: rope_tie4 16
+    400494: rope_tie4 17
+    400496: rope_tie4 18
+    400498: rope_tie4 19
+    400500: rope_tie4 2
+    400502: rope_tie4 20
+    400504: rope_tie4 21
+    400506: rope_tie4 22
+    400508: rope_tie4 23
+    400510: rope_tie4 24
+    400512: rope_tie4 25
+    400514: rope_tie4 3
+    400516: rope_tie4 4
+    400518: rope_tie4 5
+    400520: rope_tie4 6
+    400522: rope_tie4 7
+    400524: rope_tie4 8
+    400526: rope_tie4 9
+    400528: rope_tie5
+    400530: rope_tie5 1
+    400532: rope_tie5 10
+    400534: rope_tie5 11
+    400536: rope_tie5 12
+    400538: rope_tie5 13
+    400540: rope_tie5 14
+    400542: rope_tie5 15
+    400544: rope_tie5 16
+    400546: rope_tie5 17
+    400548: rope_tie5 18
+    400550: rope_tie5 19
+    400552: rope_tie5 2
+    400554: rope_tie5 20
+    400556: rope_tie5 21
+    400558: rope_tie5 22
+    400560: rope_tie5 23
+    400562: rope_tie5 24
+    400564: rope_tie5 25
+    400566: rope_tie5 3
+    400568: rope_tie5 4
+    400570: rope_tie5 5
+    400572: rope_tie5 6
+    400574: rope_tie5 7
+    400576: rope_tie5 8
+    400578: rope_tie5 9
+    400580: rope_tie8
+    400582: rope_tie8 1
+    400584: rope_tie8 10
+    400586: rope_tie8 11
+    400588: rope_tie8 2
+    400590: rope_tie8 3
+    400592: rope_tie8 4
+    400594: rope_tie8 5
+    400596: rope_tie8 6
+    400598: rope_tie8 7
+    400600: rope_tie8 8
+    400602: rope_tie8 9
+    400604: Scaf_frame3
+    400606: Scaf_frame3 1
+    400608: Scaf_frame4
+    400610: Scaf_frame4 1
+    400612: Scaf_frame4 2
+    400614: Scaf_frame5
+    400616: Scaf_frame5 1
+    400618: Scaf_frame5 2
+    400620: Scaf_frame6
+    400622: Scaf_frame6 1
+    400624: Scaf_frame6 2
+    400626: Scaf_frame7
+    400628: Scaf_frame7 1
+    400630: Scaf_frame7 2
+    400632: Scaf_frame8
+    400634: Scaf_frame8 1
+    400636: Scaf_frame8 2
+    400638: Scaf_frame9
+    400640: Scaf_frame9 1
+    400642: Scaf_frame9 2
+    400644: scaf_rail10
+    400646: scaf_rail11
+    400648: scaf_rail12
+    400650: scaf_rail12 1
+    400652: scaf_rail12 2
+    400654: scaf_rail5
+    400656: scaf_rail5 1
+    400658: scaf_rail5 2
+    400660: scaf_rail6
+    400662: scaf_rail6 1
+    400664: scaf_rail7
+    400666: scaf_rail7 1
+    400668: scaf_rail8
+    400670: scaf_rail8 1
+    400672: scaf_rail9
+    400674: scaf_rail9 1
+    400676: scaf_support10
+    400678: scaf_support10 1
+    400680: scaf_support10 2
+    400682: scaf_support11
+    400684: scaf_support11 1
+    400686: scaf_support11 2
+    400688: scaf_support12
+    400690: scaf_support12 1
+    400692: scaf_support12 2
+    400694: scaf_support13
+    400696: scaf_support13 1
+    400698: scaf_support13 2
+    400700: scaf_support14
+    400702: scaf_support14 1
+    400704: scaf_support14 2
+    400706: scaf_support15
+    400708: scaf_support15 1
+    400710: scaf_support15 2
+    400712: scaf_support16
+    400714: scaf_support16 1
+    400716: scaf_support16 2
+    400718: scaf_support8
+    400720: scaf_support8 1
+    400722: scaf_support8 2
+    400724: scaf_support9
+    400726: scaf_support9 1
+    400728: scaf_support9 2
+    2100000: Wood_Scaffold
+    2300000: Fence_Detail
+    2300002: Fence_Detail 1
+    2300004: Fence_Detail1
+    2300006: Fence_Detail1 1
+    2300008: Fence_Detail2
+    2300010: Fence_Detail2 1
+    2300012: plank
+    2300014: plank 1
+    2300016: plank 10
+    2300018: plank 2
+    2300020: plank 3
+    2300022: plank 4
+    2300024: plank 5
+    2300026: plank 6
+    2300028: plank 7
+    2300030: plank 8
+    2300032: plank 9
+    2300034: plank1
+    2300036: plank1 1
+    2300038: plank1 2
+    2300040: plank1 3
+    2300042: plank1 4
+    2300044: plank1 5
+    2300046: plank1 6
+    2300048: plank1 7
+    2300050: plank10
+    2300052: plank10 1
+    2300054: plank10 2
+    2300056: plank11
+    2300058: plank11 1
+    2300060: plank11 2
+    2300062: plank12
+    2300064: plank12 1
+    2300066: plank12 2
+    2300068: plank13
+    2300070: plank13 1
+    2300072: plank13 2
+    2300074: plank14
+    2300076: plank14 1
+    2300078: plank14 2
+    2300080: plank15
+    2300082: plank15 1
+    2300084: plank15 2
+    2300086: plank16
+    2300088: plank16 1
+    2300090: plank16 2
+    2300092: plank17
+    2300094: plank17 1
+    2300096: plank17 2
+    2300098: plank18
+    2300100: plank18 1
+    2300102: plank18 2
+    2300104: plank2
+    2300106: plank2 1
+    2300108: plank2 2
+    2300110: plank2 3
+    2300112: plank2 4
+    2300114: plank2 5
+    2300116: plank2 6
+    2300118: plank2 7
+    2300120: plank2 8
+    2300122: plank2 9
+    2300124: plank3
+    2300126: plank3 1
+    2300128: plank3 2
+    2300130: plank3 3
+    2300132: plank3 4
+    2300134: plank3 5
+    2300136: plank3 6
+    2300138: plank3 7
+    2300140: plank3 8
+    2300142: plank3 9
+    2300144: plank4
+    2300146: plank4 1
+    2300148: plank4 10
+    2300150: plank4 2
+    2300152: plank4 3
+    2300154: plank4 4
+    2300156: plank4 5
+    2300158: plank4 6
+    2300160: plank4 7
+    2300162: plank4 8
+    2300164: plank4 9
+    2300166: plank5
+    2300168: plank5 1
+    2300170: plank5 10
+    2300172: plank5 2
+    2300174: plank5 3
+    2300176: plank5 4
+    2300178: plank5 5
+    2300180: plank5 6
+    2300182: plank5 7
+    2300184: plank5 8
+    2300186: plank5 9
+    2300188: plank6
+    2300190: plank6 1
+    2300192: plank6 2
+    2300194: plank6 3
+    2300196: plank6 4
+    2300198: plank6 5
+    2300200: plank6 6
+    2300202: plank6 7
+    2300204: plank6 8
+    2300206: plank7
+    2300208: plank7 1
+    2300210: plank7 2
+    2300212: plank8
+    2300214: plank8 1
+    2300216: plank8 2
+    2300218: plank9
+    2300220: plank9 1
+    2300222: plank9 2
+    2300224: rope_tie 10
+    2300226: rope_tie 18
+    2300228: rope_tie 26
+    2300230: rope_tie 27
+    2300232: rope_tie 28
+    2300234: rope_tie 29
+    2300236: rope_tie 31
+    2300238: rope_tie 32
+    2300240: rope_tie 33
+    2300242: rope_tie 35
+    2300244: rope_tie 36
+    2300246: rope_tie 37
+    2300248: rope_tie 39
+    2300250: rope_tie 40
+    2300252: rope_tie 41
+    2300254: rope_tie1
+    2300256: rope_tie1 1
+    2300258: rope_tie1 10
+    2300260: rope_tie1 11
+    2300262: rope_tie1 12
+    2300264: rope_tie1 13
+    2300266: rope_tie1 14
+    2300268: rope_tie1 2
+    2300270: rope_tie1 3
+    2300272: rope_tie1 4
+    2300274: rope_tie1 5
+    2300276: rope_tie1 6
+    2300278: rope_tie1 7
+    2300280: rope_tie1 8
+    2300282: rope_tie1 9
+    2300284: rope_tie12
+    2300286: rope_tie13
+    2300288: rope_tie2
+    2300290: rope_tie2 1
+    2300292: rope_tie2 10
+    2300294: rope_tie2 2
+    2300296: rope_tie2 3
+    2300298: rope_tie2 4
+    2300300: rope_tie2 5
+    2300302: rope_tie2 6
+    2300304: rope_tie2 7
+    2300306: rope_tie2 8
+    2300308: rope_tie2 9
+    2300310: rope_tie3
+    2300312: rope_tie3 1
+    2300314: rope_tie3 10
+    2300316: rope_tie3 2
+    2300318: rope_tie3 3
+    2300320: rope_tie3 4
+    2300322: rope_tie3 5
+    2300324: rope_tie3 6
+    2300326: rope_tie3 7
+    2300328: rope_tie3 8
+    2300330: rope_tie3 9
+    2300332: rope_tie4
+    2300334: rope_tie4 1
+    2300336: rope_tie4 10
+    2300338: rope_tie4 11
+    2300340: rope_tie4 12
+    2300342: rope_tie4 13
+    2300344: rope_tie4 14
+    2300346: rope_tie4 15
+    2300348: rope_tie4 16
+    2300350: rope_tie4 17
+    2300352: rope_tie4 18
+    2300354: rope_tie4 19
+    2300356: rope_tie4 2
+    2300358: rope_tie4 20
+    2300360: rope_tie4 21
+    2300362: rope_tie4 22
+    2300364: rope_tie4 23
+    2300366: rope_tie4 24
+    2300368: rope_tie4 25
+    2300370: rope_tie4 3
+    2300372: rope_tie4 4
+    2300374: rope_tie4 5
+    2300376: rope_tie4 6
+    2300378: rope_tie4 7
+    2300380: rope_tie4 8
+    2300382: rope_tie4 9
+    2300384: rope_tie5
+    2300386: rope_tie5 1
+    2300388: rope_tie5 10
+    2300390: rope_tie5 11
+    2300392: rope_tie5 12
+    2300394: rope_tie5 13
+    2300396: rope_tie5 14
+    2300398: rope_tie5 15
+    2300400: rope_tie5 16
+    2300402: rope_tie5 17
+    2300404: rope_tie5 18
+    2300406: rope_tie5 19
+    2300408: rope_tie5 2
+    2300410: rope_tie5 20
+    2300412: rope_tie5 21
+    2300414: rope_tie5 22
+    2300416: rope_tie5 23
+    2300418: rope_tie5 24
+    2300420: rope_tie5 25
+    2300422: rope_tie5 3
+    2300424: rope_tie5 4
+    2300426: rope_tie5 5
+    2300428: rope_tie5 6
+    2300430: rope_tie5 7
+    2300432: rope_tie5 8
+    2300434: rope_tie5 9
+    2300436: Scaf_frame3
+    2300438: Scaf_frame3 1
+    2300440: Scaf_frame4
+    2300442: Scaf_frame4 1
+    2300444: Scaf_frame4 2
+    2300446: Scaf_frame5
+    2300448: Scaf_frame5 1
+    2300450: Scaf_frame5 2
+    2300452: Scaf_frame6
+    2300454: Scaf_frame6 1
+    2300456: Scaf_frame6 2
+    2300458: Scaf_frame7
+    2300460: Scaf_frame7 1
+    2300462: Scaf_frame7 2
+    2300464: Scaf_frame8
+    2300466: Scaf_frame8 1
+    2300468: Scaf_frame8 2
+    2300470: Scaf_frame9
+    2300472: Scaf_frame9 1
+    2300474: Scaf_frame9 2
+    2300476: scaf_rail10
+    2300478: scaf_rail11
+    2300480: scaf_rail12
+    2300482: scaf_rail12 1
+    2300484: scaf_rail12 2
+    2300486: scaf_rail5
+    2300488: scaf_rail5 1
+    2300490: scaf_rail5 2
+    2300492: scaf_rail6
+    2300494: scaf_rail6 1
+    2300496: scaf_rail7
+    2300498: scaf_rail7 1
+    2300500: scaf_rail8
+    2300502: scaf_rail8 1
+    2300504: scaf_rail9
+    2300506: scaf_rail9 1
+    2300508: scaf_support10
+    2300510: scaf_support10 1
+    2300512: scaf_support10 2
+    2300514: scaf_support11
+    2300516: scaf_support11 1
+    2300518: scaf_support11 2
+    2300520: scaf_support12
+    2300522: scaf_support12 1
+    2300524: scaf_support12 2
+    2300526: scaf_support13
+    2300528: scaf_support13 1
+    2300530: scaf_support13 2
+    2300532: scaf_support14
+    2300534: scaf_support14 1
+    2300536: scaf_support14 2
+    2300538: scaf_support15
+    2300540: scaf_support15 1
+    2300542: scaf_support15 2
+    2300544: scaf_support16
+    2300546: scaf_support16 1
+    2300548: scaf_support16 2
+    2300550: scaf_support8
+    2300552: scaf_support8 1
+    2300554: scaf_support8 2
+    2300556: scaf_support9
+    2300558: scaf_support9 1
+    2300560: scaf_support9 2
+    3300000: Fence_Detail
+    3300002: Fence_Detail 1
+    3300004: Fence_Detail1
+    3300006: Fence_Detail1 1
+    3300008: Fence_Detail2
+    3300010: Fence_Detail2 1
+    3300012: plank
+    3300014: plank 1
+    3300016: plank 10
+    3300018: plank 2
+    3300020: plank 3
+    3300022: plank 4
+    3300024: plank 5
+    3300026: plank 6
+    3300028: plank 7
+    3300030: plank 8
+    3300032: plank 9
+    3300034: plank1
+    3300036: plank1 1
+    3300038: plank1 2
+    3300040: plank1 3
+    3300042: plank1 4
+    3300044: plank1 5
+    3300046: plank1 6
+    3300048: plank1 7
+    3300050: plank10
+    3300052: plank10 1
+    3300054: plank10 2
+    3300056: plank11
+    3300058: plank11 1
+    3300060: plank11 2
+    3300062: plank12
+    3300064: plank12 1
+    3300066: plank12 2
+    3300068: plank13
+    3300070: plank13 1
+    3300072: plank13 2
+    3300074: plank14
+    3300076: plank14 1
+    3300078: plank14 2
+    3300080: plank15
+    3300082: plank15 1
+    3300084: plank15 2
+    3300086: plank16
+    3300088: plank16 1
+    3300090: plank16 2
+    3300092: plank17
+    3300094: plank17 1
+    3300096: plank17 2
+    3300098: plank18
+    3300100: plank18 1
+    3300102: plank18 2
+    3300104: plank2
+    3300106: plank2 1
+    3300108: plank2 2
+    3300110: plank2 3
+    3300112: plank2 4
+    3300114: plank2 5
+    3300116: plank2 6
+    3300118: plank2 7
+    3300120: plank2 8
+    3300122: plank2 9
+    3300124: plank3
+    3300126: plank3 1
+    3300128: plank3 2
+    3300130: plank3 3
+    3300132: plank3 4
+    3300134: plank3 5
+    3300136: plank3 6
+    3300138: plank3 7
+    3300140: plank3 8
+    3300142: plank3 9
+    3300144: plank4
+    3300146: plank4 1
+    3300148: plank4 10
+    3300150: plank4 2
+    3300152: plank4 3
+    3300154: plank4 4
+    3300156: plank4 5
+    3300158: plank4 6
+    3300160: plank4 7
+    3300162: plank4 8
+    3300164: plank4 9
+    3300166: plank5
+    3300168: plank5 1
+    3300170: plank5 10
+    3300172: plank5 2
+    3300174: plank5 3
+    3300176: plank5 4
+    3300178: plank5 5
+    3300180: plank5 6
+    3300182: plank5 7
+    3300184: plank5 8
+    3300186: plank5 9
+    3300188: plank6
+    3300190: plank6 1
+    3300192: plank6 2
+    3300194: plank6 3
+    3300196: plank6 4
+    3300198: plank6 5
+    3300200: plank6 6
+    3300202: plank6 7
+    3300204: plank6 8
+    3300206: plank7
+    3300208: plank7 1
+    3300210: plank7 2
+    3300212: plank8
+    3300214: plank8 1
+    3300216: plank8 2
+    3300218: plank9
+    3300220: plank9 1
+    3300222: plank9 2
+    3300224: rope_tie 10
+    3300226: rope_tie 18
+    3300228: rope_tie 26
+    3300230: rope_tie 27
+    3300232: rope_tie 28
+    3300234: rope_tie 29
+    3300236: rope_tie 31
+    3300238: rope_tie 32
+    3300240: rope_tie 33
+    3300242: rope_tie 35
+    3300244: rope_tie 36
+    3300246: rope_tie 37
+    3300248: rope_tie 39
+    3300250: rope_tie 40
+    3300252: rope_tie 41
+    3300254: rope_tie1
+    3300256: rope_tie1 1
+    3300258: rope_tie1 10
+    3300260: rope_tie1 11
+    3300262: rope_tie1 12
+    3300264: rope_tie1 13
+    3300266: rope_tie1 14
+    3300268: rope_tie1 2
+    3300270: rope_tie1 3
+    3300272: rope_tie1 4
+    3300274: rope_tie1 5
+    3300276: rope_tie1 6
+    3300278: rope_tie1 7
+    3300280: rope_tie1 8
+    3300282: rope_tie1 9
+    3300284: rope_tie12
+    3300286: rope_tie13
+    3300288: rope_tie2
+    3300290: rope_tie2 1
+    3300292: rope_tie2 10
+    3300294: rope_tie2 2
+    3300296: rope_tie2 3
+    3300298: rope_tie2 4
+    3300300: rope_tie2 5
+    3300302: rope_tie2 6
+    3300304: rope_tie2 7
+    3300306: rope_tie2 8
+    3300308: rope_tie2 9
+    3300310: rope_tie3
+    3300312: rope_tie3 1
+    3300314: rope_tie3 10
+    3300316: rope_tie3 2
+    3300318: rope_tie3 3
+    3300320: rope_tie3 4
+    3300322: rope_tie3 5
+    3300324: rope_tie3 6
+    3300326: rope_tie3 7
+    3300328: rope_tie3 8
+    3300330: rope_tie3 9
+    3300332: rope_tie4
+    3300334: rope_tie4 1
+    3300336: rope_tie4 10
+    3300338: rope_tie4 11
+    3300340: rope_tie4 12
+    3300342: rope_tie4 13
+    3300344: rope_tie4 14
+    3300346: rope_tie4 15
+    3300348: rope_tie4 16
+    3300350: rope_tie4 17
+    3300352: rope_tie4 18
+    3300354: rope_tie4 19
+    3300356: rope_tie4 2
+    3300358: rope_tie4 20
+    3300360: rope_tie4 21
+    3300362: rope_tie4 22
+    3300364: rope_tie4 23
+    3300366: rope_tie4 24
+    3300368: rope_tie4 25
+    3300370: rope_tie4 3
+    3300372: rope_tie4 4
+    3300374: rope_tie4 5
+    3300376: rope_tie4 6
+    3300378: rope_tie4 7
+    3300380: rope_tie4 8
+    3300382: rope_tie4 9
+    3300384: rope_tie5
+    3300386: rope_tie5 1
+    3300388: rope_tie5 10
+    3300390: rope_tie5 11
+    3300392: rope_tie5 12
+    3300394: rope_tie5 13
+    3300396: rope_tie5 14
+    3300398: rope_tie5 15
+    3300400: rope_tie5 16
+    3300402: rope_tie5 17
+    3300404: rope_tie5 18
+    3300406: rope_tie5 19
+    3300408: rope_tie5 2
+    3300410: rope_tie5 20
+    3300412: rope_tie5 21
+    3300414: rope_tie5 22
+    3300416: rope_tie5 23
+    3300418: rope_tie5 24
+    3300420: rope_tie5 25
+    3300422: rope_tie5 3
+    3300424: rope_tie5 4
+    3300426: rope_tie5 5
+    3300428: rope_tie5 6
+    3300430: rope_tie5 7
+    3300432: rope_tie5 8
+    3300434: rope_tie5 9
+    3300436: Scaf_frame3
+    3300438: Scaf_frame3 1
+    3300440: Scaf_frame4
+    3300442: Scaf_frame4 1
+    3300444: Scaf_frame4 2
+    3300446: Scaf_frame5
+    3300448: Scaf_frame5 1
+    3300450: Scaf_frame5 2
+    3300452: Scaf_frame6
+    3300454: Scaf_frame6 1
+    3300456: Scaf_frame6 2
+    3300458: Scaf_frame7
+    3300460: Scaf_frame7 1
+    3300462: Scaf_frame7 2
+    3300464: Scaf_frame8
+    3300466: Scaf_frame8 1
+    3300468: Scaf_frame8 2
+    3300470: Scaf_frame9
+    3300472: Scaf_frame9 1
+    3300474: Scaf_frame9 2
+    3300476: scaf_rail10
+    3300478: scaf_rail11
+    3300480: scaf_rail12
+    3300482: scaf_rail12 1
+    3300484: scaf_rail12 2
+    3300486: scaf_rail5
+    3300488: scaf_rail5 1
+    3300490: scaf_rail5 2
+    3300492: scaf_rail6
+    3300494: scaf_rail6 1
+    3300496: scaf_rail7
+    3300498: scaf_rail7 1
+    3300500: scaf_rail8
+    3300502: scaf_rail8 1
+    3300504: scaf_rail9
+    3300506: scaf_rail9 1
+    3300508: scaf_support10
+    3300510: scaf_support10 1
+    3300512: scaf_support10 2
+    3300514: scaf_support11
+    3300516: scaf_support11 1
+    3300518: scaf_support11 2
+    3300520: scaf_support12
+    3300522: scaf_support12 1
+    3300524: scaf_support12 2
+    3300526: scaf_support13
+    3300528: scaf_support13 1
+    3300530: scaf_support13 2
+    3300532: scaf_support14
+    3300534: scaf_support14 1
+    3300536: scaf_support14 2
+    3300538: scaf_support15
+    3300540: scaf_support15 1
+    3300542: scaf_support15 2
+    3300544: scaf_support16
+    3300546: scaf_support16 1
+    3300548: scaf_support16 2
+    3300550: scaf_support8
+    3300552: scaf_support8 1
+    3300554: scaf_support8 2
+    3300556: scaf_support9
+    3300558: scaf_support9 1
+    3300560: scaf_support9 2
+    4300000: plank
+    4300002: plank1
+    4300004: plank2
+    4300006: plank3
+    4300008: plank4
+    4300010: plank5
+    4300012: plank6
+    4300014: scaf_support9
+    4300016: rope_tie1
+    4300018: rope_tie
+    4300020: scaf_rail7
+    4300022: scaf_rail6
+    4300024: scaf_rail5
+    4300026: scaf_support8
+    4300028: rope_tie
+    4300030: rope_tie1
+    4300032: scaf_rail8
+    4300034: scaf_rail9
+    4300036: plank
+    4300038: plank2
+    4300040: plank3
+    4300042: plank4
+    4300044: plank5
+    4300046: plank6
+    4300048: plank
+    4300050: plank1
+    4300052: plank2
+    4300054: plank3
+    4300056: plank4
+    4300058: plank5
+    4300060: plank6
+    4300062: Scaf_frame3
+    4300064: Scaf_frame4
+    4300066: rope_tie4
+    4300068: rope_tie5
+    4300070: rope_tie4
+    4300072: rope_tie5
+    4300074: Scaf_frame5
+    4300076: rope_tie4
+    4300078: rope_tie5
+    4300080: rope_tie4
+    4300082: rope_tie5
+    4300084: Scaf_frame6
+    4300086: rope_tie4
+    4300088: rope_tie5
+    4300090: scaf_rail10
+    4300092: Fence_Detail
+    4300094: Fence_Detail1
+    4300096: Fence_Detail2
+    4300098: scaf_support10
+    4300100: rope_tie
+    4300102: rope_tie1
+    4300104: scaf_support11
+    4300106: rope_tie2
+    4300108: rope_tie3
+    4300110: rope_tie4
+    4300112: rope_tie5
+    4300114: scaf_support12
+    4300116: rope_tie2
+    4300118: rope_tie3
+    4300120: rope_tie4
+    4300122: rope_tie5
+    4300124: scaf_support13
+    4300126: rope_tie4
+    4300128: rope_tie5
+    4300130: scaf_rail11
+    4300132: Fence_Detail
+    4300134: Fence_Detail1
+    4300136: Fence_Detail2
+    4300138: scaf_support14
+    4300140: rope_tie
+    4300142: rope_tie1
+    4300144: scaf_support15
+    4300146: rope_tie
+    4300148: rope_tie1
+    4300150: scaf_support16
+    4300152: rope_tie2
+    4300154: rope_tie3
+    4300156: rope_tie4
+    4300158: rope_tie5
+    4300160: scaf_rail12
+    4300162: Scaf_frame7
+    4300164: Scaf_frame8
+    4300166: plank
+    4300168: plank1
+    4300170: plank2
+    4300172: plank3
+    4300174: plank4
+    4300176: plank5
+    4300178: plank6
+    4300180: Scaf_frame9
+    4300182: plank
+    4300184: plank4
+    4300186: plank5
+    4300188: plank10
+    4300190: plank9
+    4300192: plank8
+    4300194: plank7
+    4300196: plank11
+    4300198: plank12
+    4300200: plank18
+    4300202: plank17
+    4300204: plank16
+    4300206: plank15
+    4300208: plank14
+    4300210: plank13
+    4300212: plank
+    4300214: plank1
+    4300216: plank2
+    4300218: plank3
+    4300220: plank4
+    4300222: plank5
+    4300224: plank6
+    4300226: plank
+    4300228: plank1
+    4300230: plank2
+    4300232: plank3
+    4300234: plank4
+    4300236: plank5
+    4300238: plank6
+    4300240: scaf_support9
+    4300242: rope_tie1
+    4300244: rope_tie
+    4300246: scaf_rail7
+    4300248: scaf_rail6
+    4300250: scaf_rail5
+    4300252: scaf_support8
+    4300254: rope_tie
+    4300256: rope_tie1
+    4300258: scaf_rail8
+    4300260: scaf_rail9
+    4300262: plank
+    4300264: plank2
+    4300266: plank3
+    4300268: plank4
+    4300270: plank5
+    4300272: plank
+    4300274: plank1
+    4300276: plank2
+    4300278: plank3
+    4300280: plank4
+    4300282: plank5
+    4300284: plank6
+    4300286: Scaf_frame3
+    4300288: Scaf_frame4
+    4300290: rope_tie4
+    4300292: rope_tie5
+    4300294: rope_tie4
+    4300296: rope_tie5
+    4300298: Scaf_frame5
+    4300300: rope_tie4
+    4300302: rope_tie5
+    4300304: rope_tie4
+    4300306: rope_tie5
+    4300308: Scaf_frame6
+    4300310: scaf_support10
+    4300312: rope_tie
+    4300314: rope_tie1
+    4300316: scaf_support11
+    4300318: rope_tie2
+    4300320: rope_tie3
+    4300322: rope_tie4
+    4300324: rope_tie5
+    4300326: scaf_support12
+    4300328: rope_tie2
+    4300330: rope_tie3
+    4300332: rope_tie4
+    4300334: rope_tie5
+    4300336: scaf_support13
+    4300338: rope_tie2
+    4300340: rope_tie3
+    4300342: rope_tie12
+    4300344: rope_tie13
+    4300346: rope_tie4
+    4300348: rope_tie5
+    4300350: scaf_support14
+    4300352: rope_tie
+    4300354: rope_tie1
+    4300356: scaf_support15
+    4300358: rope_tie
+    4300360: rope_tie1
+    4300362: scaf_support16
+    4300364: rope_tie2
+    4300366: rope_tie3
+    4300368: rope_tie4
+    4300370: rope_tie5
+    4300372: scaf_rail12
+    4300374: Scaf_frame7
+    4300376: Scaf_frame8
+    4300378: plank
+    4300380: plank1
+    4300382: plank2
+    4300384: plank3
+    4300386: plank4
+    4300388: plank5
+    4300390: plank6
+    4300392: Scaf_frame9
+    4300394: plank10
+    4300396: plank9
+    4300398: plank8
+    4300400: plank7
+    4300402: plank11
+    4300404: plank12
+    4300406: plank18
+    4300408: plank17
+    4300410: plank16
+    4300412: plank15
+    4300414: plank14
+    4300416: plank13
+    4300418: scaf_support9
+    4300420: rope_tie1
+    4300422: rope_tie
+    4300424: scaf_rail5
+    4300426: scaf_support8
+    4300428: rope_tie
+    4300430: rope_tie1
+    4300432: Scaf_frame4
+    4300434: rope_tie4
+    4300436: rope_tie5
+    4300438: rope_tie4
+    4300440: rope_tie5
+    4300442: Scaf_frame5
+    4300444: rope_tie4
+    4300446: rope_tie5
+    4300448: rope_tie4
+    4300450: rope_tie5
+    4300452: Scaf_frame6
+    4300454: rope_tie4
+    4300456: rope_tie5
+    4300458: scaf_support10
+    4300460: rope_tie
+    4300462: rope_tie1
+    4300464: scaf_support11
+    4300466: rope_tie2
+    4300468: rope_tie3
+    4300470: rope_tie4
+    4300472: rope_tie5
+    4300474: scaf_support12
+    4300476: rope_tie2
+    4300478: rope_tie3
+    4300480: rope_tie4
+    4300482: rope_tie5
+    4300484: scaf_support13
+    4300486: rope_tie2
+    4300488: rope_tie3
+    4300490: rope_tie4
+    4300492: rope_tie5
+    4300494: scaf_support14
+    4300496: rope_tie
+    4300498: rope_tie1
+    4300500: scaf_support15
+    4300502: rope_tie
+    4300504: rope_tie1
+    4300506: scaf_support16
+    4300508: rope_tie2
+    4300510: rope_tie3
+    4300512: rope_tie4
+    4300514: rope_tie5
+    4300516: scaf_rail12
+    4300518: Scaf_frame7
+    4300520: Scaf_frame8
+    4300522: plank
+    4300524: plank1
+    4300526: plank2
+    4300528: plank3
+    4300530: plank4
+    4300532: plank5
+    4300534: plank6
+    4300536: Scaf_frame9
+    4300538: plank10
+    4300540: plank9
+    4300542: plank8
+    4300544: plank7
+    4300546: plank11
+    4300548: plank12
+    4300550: plank18
+    4300552: plank17
+    4300554: plank16
+    4300556: plank15
+    4300558: plank14
+    4300560: plank13
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,257 @@
+fileFormatVersion: 2
+guid: 0fff8790d699a9241b9f0bb749a7676c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: GateWall
+    100002: GateWall1
+    100004: //RootNode
+    100006: GateWayPil
+    100008: GateWayPil1
+    100010: GatewayTop
+    100012: Spear
+    100014: Spear 1
+    100016: Spear1
+    100018: Spear2
+    100020: Spear3
+    100022: Spear4
+    100024: Spear5
+    100026: Spear6
+    100028: Spear7
+    100030: SpearDag
+    100032: SpearDag 1
+    100034: SpearDag 2
+    100036: SpearDag 3
+    100038: SpearDag 4
+    100040: SpearDag 5
+    100042: SpearDag 6
+    100044: SpearDag 7
+    100046: SpearHold
+    100048: SpearHold 1
+    100050: SpearHold 2
+    100052: SpearHold 3
+    100054: SpearHold 4
+    100056: SpearHold 5
+    100058: SpearHold 6
+    100060: SpearHold 7
+    100062: SpearTie
+    100064: SpearTie 1
+    100066: SpearTie 2
+    100068: SpearTie 3
+    100070: SpearTie 4
+    100072: SpearTie 5
+    100074: SpearTie 6
+    100076: SpearTie 7
+    400000: GateWall
+    400002: GateWall1
+    400004: //RootNode
+    400006: GateWayPil
+    400008: GateWayPil1
+    400010: GatewayTop
+    400012: Spear
+    400014: Spear 1
+    400016: Spear1
+    400018: Spear2
+    400020: Spear3
+    400022: Spear4
+    400024: Spear5
+    400026: Spear6
+    400028: Spear7
+    400030: SpearDag
+    400032: SpearDag 1
+    400034: SpearDag 2
+    400036: SpearDag 3
+    400038: SpearDag 4
+    400040: SpearDag 5
+    400042: SpearDag 6
+    400044: SpearDag 7
+    400046: SpearHold
+    400048: SpearHold 1
+    400050: SpearHold 2
+    400052: SpearHold 3
+    400054: SpearHold 4
+    400056: SpearHold 5
+    400058: SpearHold 6
+    400060: SpearHold 7
+    400062: SpearTie
+    400064: SpearTie 1
+    400066: SpearTie 2
+    400068: SpearTie 3
+    400070: SpearTie 4
+    400072: SpearTie 5
+    400074: SpearTie 6
+    400076: SpearTie 7
+    2100000: Gateway_MAT
+    2300000: GateWall
+    2300002: GateWall1
+    2300004: GateWayPil
+    2300006: GateWayPil1
+    2300008: GatewayTop
+    2300010: SpearDag
+    2300012: SpearDag 1
+    2300014: SpearDag 2
+    2300016: SpearDag 3
+    2300018: SpearDag 4
+    2300020: SpearDag 5
+    2300022: SpearDag 6
+    2300024: SpearDag 7
+    2300026: SpearHold
+    2300028: SpearHold 1
+    2300030: SpearHold 2
+    2300032: SpearHold 3
+    2300034: SpearHold 4
+    2300036: SpearHold 5
+    2300038: SpearHold 6
+    2300040: SpearHold 7
+    2300042: SpearTie
+    2300044: SpearTie 1
+    2300046: SpearTie 2
+    2300048: SpearTie 3
+    2300050: SpearTie 4
+    2300052: SpearTie 5
+    2300054: SpearTie 6
+    2300056: SpearTie 7
+    3300000: GateWall
+    3300002: GateWall1
+    3300004: GateWayPil
+    3300006: GateWayPil1
+    3300008: GatewayTop
+    3300010: SpearDag
+    3300012: SpearDag 1
+    3300014: SpearDag 2
+    3300016: SpearDag 3
+    3300018: SpearDag 4
+    3300020: SpearDag 5
+    3300022: SpearDag 6
+    3300024: SpearDag 7
+    3300026: SpearHold
+    3300028: SpearHold 1
+    3300030: SpearHold 2
+    3300032: SpearHold 3
+    3300034: SpearHold 4
+    3300036: SpearHold 5
+    3300038: SpearHold 6
+    3300040: SpearHold 7
+    3300042: SpearTie
+    3300044: SpearTie 1
+    3300046: SpearTie 2
+    3300048: SpearTie 3
+    3300050: SpearTie 4
+    3300052: SpearTie 5
+    3300054: SpearTie 6
+    3300056: SpearTie 7
+    4300000: GateWayPil
+    4300002: GatewayTop
+    4300004: GateWall
+    4300006: GateWall1
+    4300008: GateWayPil1
+    4300010: SpearDag
+    4300012: SpearHold
+    4300014: SpearTie
+    4300016: SpearDag
+    4300018: SpearHold
+    4300020: SpearTie
+    4300022: SpearDag
+    4300024: SpearHold
+    4300026: SpearTie
+    4300028: SpearDag
+    4300030: SpearHold
+    4300032: SpearTie
+    4300034: SpearDag
+    4300036: SpearHold
+    4300038: SpearTie
+    4300040: SpearDag
+    4300042: SpearHold
+    4300044: SpearTie
+    4300046: SpearDag
+    4300048: SpearHold
+    4300050: SpearTie
+    4300052: SpearDag
+    4300054: SpearHold
+    4300056: SpearTie
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
