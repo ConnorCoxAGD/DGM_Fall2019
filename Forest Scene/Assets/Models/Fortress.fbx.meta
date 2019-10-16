@@ -28,6 +28,7 @@ ModelImporter:
     2100000: lambert1
     2100002: Fortress_Top_MAT
     2100004: Fortress_Bottom_MAT
+    2100006: Fortress_Pillar_MAT
     2300000: Arch
     2300002: Fortress_Corner
     2300004: Fortress_Corner2

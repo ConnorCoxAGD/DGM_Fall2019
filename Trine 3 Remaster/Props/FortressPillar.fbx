@@ -1,18 +1,18 @@
-; FBX 7.4.0 project file
+; FBX 7.5.0 project file
 ; ----------------------------------------------------
 
 FBXHeaderExtension:  {
 	FBXHeaderVersion: 1003
-	FBXVersion: 7400
+	FBXVersion: 7500
 	CreationTimeStamp:  {
 		Version: 1000
 		Year: 2019
 		Month: 10
-		Day: 14
-		Hour: 16
-		Minute: 11
-		Second: 8
-		Millisecond: 87
+		Day: 16
+		Hour: 4
+		Minute: 37
+		Second: 32
+		Millisecond: 577
 	}
 	Creator: "FBX SDK/FBX Plugins version 2018.1.1"
 	SceneInfo: "SceneInfo::GlobalInfo", "UserData" {
@@ -28,21 +28,21 @@ FBXHeaderExtension:  {
 			Comment: ""
 		}
 		Properties70:  {
-			P: "DocumentUrl", "KString", "Url", "", "C:\Users\10873383\Documents\DGM_Fall2019\Trine 3 Remaster\Props\FortressPillar.fbx"
-			P: "SrcDocumentUrl", "KString", "Url", "", "C:\Users\10873383\Documents\DGM_Fall2019\Trine 3 Remaster\Props\FortressPillar.fbx"
+			P: "DocumentUrl", "KString", "Url", "", "C:\Users\conno\Documents\DGM_Fall2019\Trine 3 Remaster\Props\FortressPillar.fbx"
+			P: "SrcDocumentUrl", "KString", "Url", "", "C:\Users\conno\Documents\DGM_Fall2019\Trine 3 Remaster\Props\FortressPillar.fbx"
 			P: "Original", "Compound", "", ""
 			P: "Original|ApplicationVendor", "KString", "", "", "Autodesk"
 			P: "Original|ApplicationName", "KString", "", "", "Maya"
 			P: "Original|ApplicationVersion", "KString", "", "", "201800"
-			P: "Original|DateTime_GMT", "DateTime", "", "", "14/10/2019 22:11:08.084"
-			P: "Original|FileName", "KString", "", "", "C:\Users\10873383\Documents\DGM_Fall2019\Trine 3 Remaster\Props\FortressPillar.fbx"
+			P: "Original|DateTime_GMT", "DateTime", "", "", "16/10/2019 10:37:32.575"
+			P: "Original|FileName", "KString", "", "", "C:\Users\conno\Documents\DGM_Fall2019\Trine 3 Remaster\Props\FortressPillar.fbx"
 			P: "LastSaved", "Compound", "", ""
 			P: "LastSaved|ApplicationVendor", "KString", "", "", "Autodesk"
 			P: "LastSaved|ApplicationName", "KString", "", "", "Maya"
 			P: "LastSaved|ApplicationVersion", "KString", "", "", "201800"
-			P: "LastSaved|DateTime_GMT", "DateTime", "", "", "14/10/2019 22:11:08.084"
-			P: "Original|ApplicationActiveProject", "KString", "", "", "C:\Users\10873383\Documents\DGM_Fall2019\Trine 3 Remaster\Props"
-			P: "Original|ApplicationNativeFile", "KString", "", "", "C:\Users\10873383\Documents\DGM_Fall2019\Trine 3 Remaster\Props.ma"
+			P: "LastSaved|DateTime_GMT", "DateTime", "", "", "16/10/2019 10:37:32.575"
+			P: "Original|ApplicationActiveProject", "KString", "", "", "C:\Users\conno\Documents\DGM_Fall2019\Trine 3 Remaster\Props"
+			P: "Original|ApplicationNativeFile", "KString", "", "", "C:\Users\conno\Documents\DGM_Fall2019\Trine 3 Remaster\Props.ma"
 		}
 	}
 }
@@ -60,7 +60,7 @@ GlobalSettings:  {
 		P: "UnitScaleFactor", "double", "Number", "",100
 		P: "OriginalUnitScaleFactor", "double", "Number", "",1
 		P: "AmbientColor", "ColorRGB", "Color", "",0,0,0
-		P: "DefaultCamera", "KString", "", "", "persp1"
+		P: "DefaultCamera", "KString", "", "", "Producer Perspective"
 		P: "TimeMode", "enum", "", "",11
 		P: "TimeProtocol", "enum", "", "",2
 		P: "SnapOnFrameMode", "enum", "", "",0
@@ -77,7 +77,7 @@ GlobalSettings:  {
 
 Documents:  {
 	Count: 1
-	Document: 2511187625888, "", "Scene" {
+	Document: 2210520489280, "", "Scene" {
 		Properties70:  {
 			P: "SourceObject", "object", "", ""
 			P: "ActiveAnimStackName", "KString", "", "", "Take 001"
@@ -97,37 +97,9 @@ References:  {
 
 Definitions:  {
 	Version: 100
-	Count: 6
+	Count: 4
 	ObjectType: "GlobalSettings" {
 		Count: 1
-	}
-	ObjectType: "AnimationStack" {
-		Count: 1
-		PropertyTemplate: "FbxAnimStack" {
-			Properties70:  {
-				P: "Description", "KString", "", "", ""
-				P: "LocalStart", "KTime", "Time", "",0
-				P: "LocalStop", "KTime", "Time", "",0
-				P: "ReferenceStart", "KTime", "Time", "",0
-				P: "ReferenceStop", "KTime", "Time", "",0
-			}
-		}
-	}
-	ObjectType: "AnimationLayer" {
-		Count: 1
-		PropertyTemplate: "FbxAnimLayer" {
-			Properties70:  {
-				P: "Weight", "Number", "", "A",100
-				P: "Mute", "bool", "", "",0
-				P: "Solo", "bool", "", "",0
-				P: "Lock", "bool", "", "",0
-				P: "Color", "ColorRGB", "Color", "",0.8,0.8,0.8
-				P: "BlendMode", "enum", "", "",0
-				P: "RotationAccumulationMode", "enum", "", "",0
-				P: "ScaleAccumulationMode", "enum", "", "",0
-				P: "BlendModeBypass", "ULongLong", "", "",0
-			}
-		}
 	}
 	ObjectType: "Geometry" {
 		Count: 1
@@ -144,9 +116,9 @@ Definitions:  {
 	}
 	ObjectType: "Material" {
 		Count: 1
-		PropertyTemplate: "FbxSurfaceLambert" {
+		PropertyTemplate: "FbxSurfacePhong" {
 			Properties70:  {
-				P: "ShadingModel", "KString", "", "", "Lambert"
+				P: "ShadingModel", "KString", "", "", "Phong"
 				P: "MultiLayer", "bool", "", "",0
 				P: "EmissiveColor", "Color", "", "A",0,0,0
 				P: "EmissiveFactor", "Number", "", "A",1
@@ -163,6 +135,11 @@ Definitions:  {
 				P: "DisplacementFactor", "double", "Number", "",1
 				P: "VectorDisplacementColor", "ColorRGB", "Color", "",0,0,0
 				P: "VectorDisplacementFactor", "double", "Number", "",1
+				P: "SpecularColor", "Color", "", "A",0.2,0.2,0.2
+				P: "SpecularFactor", "Number", "", "A",1
+				P: "ShininessExponent", "Number", "", "A",20
+				P: "ReflectionColor", "Color", "", "A",0,0,0
+				P: "ReflectionFactor", "Number", "", "A",1
 			}
 		}
 	}
@@ -250,7 +227,7 @@ Definitions:  {
 ;------------------------------------------------------------------
 
 Objects:  {
-	Geometry: 2511183482496, "Geometry::", "Mesh" {
+	Geometry: 2210496336624, "Geometry::", "Mesh" {
 		Vertices: *2991 {
 			a: -206.217651367188,169.779083251953,19.3971176147461,-211.639099121094,169.779083251953,18.5372676849365,-216.531112670898,169.779083251953,16.0448970794678,-220.412567138672,169.779083251953,12.1640529632568,-222.905731201172,169.779083251953,7.27178812026978,-223.764450073242,169.779083251953,1.84952771663666,-222.905731201172,169.779083251953,-3.57279300689697,-220.412567138672,169.779083251953,-8.46348476409912,-216.531112670898,169.779083251953,-12.345724105835,-211.639099121094,169.779083251953,-14.8380317687988,-206.217651367188,169.779083251953,-15.6965141296387,-200.795272827148,169.779083251953,-14.8380317687988,-195.903244018555,169.779083251953,-12.345724105835,-192.021789550781,169.779083251953,-8.46348476409912,-189.529510498047,169.779083251953,-3.57279300689697,-188.670379638672,169.779083251953,1.84952771663666,-189.529510498047,169.779083251953,7.27178812026978,-192.021789550781,169.779083251953,12.1640529632568,-195.903244018555,169.779083251953,16.0448970794678,-200.795272827148,169.779083251953,18.5372676849365,-218.354156494141,174.066986083984,18.5546684265137,-222.922180175781,174.066986083984,13.985954284668,-225.854949951172,174.066986083984,8.23044300079346,-226.864868164063,174.066986083984,1.84946811199188,-225.854949951172,174.066986083984,-4.53198289871216,-222.922180175781,174.066986083984,-10.2869453430176,-218.354156494141,174.066986083984,-14.855731010437,-212.597946166992,174.066986083984,-17.7868309020996,-206.217651367188,174.066986083984,-18.7986965179443,-199.837066650391,174.066986083984,-17.7868309020996,-194.080841064453,174.066986083984,-14.855731010437,-189.51237487793,174.066986083984,-10.2869453430176,-186.57942199707,174.066986083984,-4.53198289871216,-185.569458007813,174.066986083984,1.84946811199188,-186.57942199707,174.066986083984,8.23044300079346,-189.51237487793,174.066986083984,13.985954284668,-194.080841064453,174.066986083984,18.5546684265137,-199.837066650391,174.066986083984,21.4878368377686,-206.217651367188,174.066986083984,22.4970245361328,
 -212.597946166992,174.066986083984,21.4878368377686,-212.709335327148,181.169082641602,21.8304309844971,-218.565780639648,181.169082641602,18.8444633483887,-223.213333129883,181.169082641602,14.1976099014282,-226.197052001953,181.169082641602,8.34104537963867,-227.225250244141,181.169082641602,1.84946811199188,-226.197052001953,181.169082641602,-4.64210939407349,-223.213333129883,181.169082641602,-10.4986028671265,-218.565780639648,181.169082641602,-15.1455278396606,-212.709335327148,181.169082641602,-18.12917137146,-206.217651367188,181.169082641602,-19.1573696136475,-199.725616455078,181.169082641602,-18.12917137146,-193.869491577148,181.169082641602,-15.1455278396606,-189.221008300781,181.169082641602,-10.4986028671265,-186.237121582031,181.169082641602,-4.64210939407349,-185.208953857422,181.169082641602,1.84946811199188,-186.237121582031,181.169082641602,8.34104537963867,-189.221008300781,181.169082641602,14.1976099014282,-193.869491577148,181.169082641602,18.8444633483887,-199.725616455078,181.169082641602,21.8304309844971,-206.217651367188,181.169082641602,22.856424331665,-206.217651367188,193.503631591797,18.8621616363525,-211.474517822266,193.503631591797,18.0303192138672,-216.217132568359,193.503631591797,15.613883972168,-219.98014831543,193.503631591797,11.848931312561,-222.39697265625,193.503631591797,7.10624217987061,-223.229736328125,193.503631591797,1.84946811199188,-222.39697265625,193.503631591797,-3.40724730491638,-219.98014831543,193.503631591797,-8.14992237091064,-216.217132568359,193.503631591797,-11.9123668670654,-211.474517822266,193.503631591797,-14.3290004730225,-206.217651367188,193.503631591797,-15.1631059646606,-200.960357666016,193.503631591797,-14.3290004730225,-196.218124389648,193.503631591797,-11.9123668670654,-192.454223632813,193.503631591797,-8.14992237091064,-190.037292480469,193.503631591797,-3.40724730491638,-189.205001831055,193.503631591797,1.84946811199188,-190.037292480469,193.503631591797,7.10624217987061,-192.454223632813,193.503631591797,11.848931312561,-196.218124389648,193.503631591797,15.613883972168,
@@ -485,7 +462,7 @@ Objects:  {
 			}
 		}
 	}
-	Model: 2510899468976, "Model::Fortress_Pillar", "Mesh" {
+	Model: 2210643021552, "Model::Fortress_Pillar", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "RotationPivot", "Vector3D", "Vector", "",-2.06217432461227,1.37927169322222,0.0185077919761169
@@ -501,30 +478,26 @@ Objects:  {
 		Shading: T
 		Culling: "CullingOff"
 	}
-	Material: 2511073053760, "Material::lambert1", "" {
+	Material: 2210531391808, "Material::Fortress_Pillar_MAT", "" {
 		Version: 102
-		ShadingModel: "lambert"
+		ShadingModel: "phong"
 		MultiLayer: 0
 		Properties70:  {
 			P: "AmbientColor", "Color", "", "A",0,0,0
-			P: "DiffuseColor", "Color", "", "A",0.5,0.5,0.5
+			P: "DiffuseColor", "Color", "", "A",0.0687000006437302,0.146899998188019,0.166999995708466
 			P: "DiffuseFactor", "Number", "", "A",0.800000011920929
 			P: "TransparencyFactor", "Number", "", "A",1
+			P: "SpecularColor", "Color", "", "A",0.5,0.5,0.5
+			P: "ShininessExponent", "Number", "", "A",6.31179093816824
+			P: "ReflectionFactor", "Number", "", "A",0.5
 			P: "Emissive", "Vector3D", "Vector", "",0,0,0
 			P: "Ambient", "Vector3D", "Vector", "",0,0,0
-			P: "Diffuse", "Vector3D", "Vector", "",0.400000005960464,0.400000005960464,0.400000005960464
+			P: "Diffuse", "Vector3D", "Vector", "",0.054960001333952,0.117520000301599,0.133599998557568
+			P: "Specular", "Vector3D", "Vector", "",0.5,0.5,0.5
+			P: "Shininess", "double", "Number", "",6.31179093816824
 			P: "Opacity", "double", "Number", "",1
+			P: "Reflectivity", "double", "Number", "",0
 		}
-	}
-	AnimationStack: 2511066472880, "AnimStack::Take 001", "" {
-		Properties70:  {
-			P: "LocalStart", "KTime", "Time", "",1924423250
-			P: "LocalStop", "KTime", "Time", "",230930790000
-			P: "ReferenceStart", "KTime", "Time", "",1924423250
-			P: "ReferenceStop", "KTime", "Time", "",230930790000
-		}
-	}
-	AnimationLayer: 2510976115232, "AnimLayer::BaseLayer", "" {
 	}
 }
 
@@ -534,25 +507,11 @@ Objects:  {
 Connections:  {
 	
 	;Model::Fortress_Pillar, Model::RootNode
-	C: "OO",2510899468976,0
-	
-	;AnimLayer::BaseLayer, AnimStack::Take 001
-	C: "OO",2510976115232,2511066472880
+	C: "OO",2210643021552,0
 	
 	;Geometry::, Model::Fortress_Pillar
-	C: "OO",2511183482496,2510899468976
+	C: "OO",2210496336624,2210643021552
 	
-	;Material::lambert1, Model::Fortress_Pillar
-	C: "OO",2511073053760,2510899468976
-}
-;Takes section
-;----------------------------------------------------
-
-Takes:  {
-	Current: "Take 001"
-	Take: "Take 001" {
-		FileName: "Take_001.tak"
-		LocalTime: 1924423250,230930790000
-		ReferenceTime: 1924423250,230930790000
-	}
+	;Material::Fortress_Pillar_MAT, Model::Fortress_Pillar
+	C: "OO",2210531391808,2210643021552
 }
