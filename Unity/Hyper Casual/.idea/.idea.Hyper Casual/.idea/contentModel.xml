@@ -21,15 +21,17 @@
           <e p="DraggableObj.cs" t="Include" />
           <e p="DragMove.cs" t="Include" />
           <e p="EventBehaviors.cs" t="Include" />
+          <e p="EventListening.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
           <e p="GameAction.cs" t="Include" />
           <e p="GameActionHandler.cs" t="Include" />
           <e p="ImageController.cs" t="Include" />
           <e p="IntData.cs" t="Include" />
+          <e p="Interfaces.cs" t="Include" />
           <e p="MouseEvents.cs" t="Include" />
           <e p="PlayerMovement.cs" t="Include" />
+          <e p="PowerUp.cs" t="Include" />
           <e p="RotateGameObject.cs" t="Include" />
-          <e p="SingleMouseEvents.cs" t="Include" />
           <e p="TransformController.cs" t="Include" />
           <e p="TriggerEventBehavior.cs" t="Include" />
           <e p="UpdateEvents.cs" t="Include" />
