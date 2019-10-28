@@ -7,20 +7,50 @@ ModelImporter:
     100002: Branch
     100004: Branch1
     100006: Tree_Trunk
+    100008: Branch2
+    100010: Tree_Root
+    100012: Tree_Root1
+    100014: Tree_Root2
+    100016: Tree_Root3
+    100018: Tree_Root4
     400000: //RootNode
     400002: Branch
     400004: Branch1
     400006: Tree_Trunk
+    400008: Branch2
+    400010: Tree_Root
+    400012: Tree_Root1
+    400014: Tree_Root2
+    400016: Tree_Root3
+    400018: Tree_Root4
     2100000: Tree_MAT
     2300000: Branch
     2300002: Branch1
     2300004: Tree_Trunk
+    2300006: Branch2
+    2300008: Tree_Root
+    2300010: Tree_Root1
+    2300012: Tree_Root2
+    2300014: Tree_Root3
+    2300016: Tree_Root4
     3300000: Branch
     3300002: Branch1
     3300004: Tree_Trunk
+    3300006: Branch2
+    3300008: Tree_Root
+    3300010: Tree_Root1
+    3300012: Tree_Root2
+    3300014: Tree_Root3
+    3300016: Tree_Root4
     4300000: Tree_Trunk
     4300002: Branch
     4300004: Branch1
+    4300006: Tree_Root1
+    4300008: Tree_Root
+    4300010: Tree_Root2
+    4300012: Tree_Root3
+    4300014: Branch2
+    4300016: Tree_Root4
   externalObjects: {}
   materials:
     importMaterials: 1

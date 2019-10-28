@@ -6,16 +6,31 @@ ModelImporter:
     100000: Big_Vine
     100002: //RootNode
     100004: Vine_Piece
+    100006: Hanging_Leaves
+    100008: Vine_Leaves
+    100010: Vine_Piece1
     400000: Big_Vine
     400002: //RootNode
     400004: Vine_Piece
+    400006: Hanging_Leaves
+    400008: Vine_Leaves
+    400010: Vine_Piece1
     2100000: Foliage_MAT
     2300000: Big_Vine
     2300002: Vine_Piece
+    2300004: Hanging_Leaves
+    2300006: Vine_Leaves
+    2300008: Vine_Piece1
     3300000: Big_Vine
     3300002: Vine_Piece
+    3300004: Hanging_Leaves
+    3300006: Vine_Leaves
+    3300008: Vine_Piece1
     4300000: Vine_Piece
     4300002: Big_Vine
+    4300004: Vine_Piece1
+    4300006: Hanging_Leaves
+    4300008: Vine_Leaves
   externalObjects: {}
   materials:
     importMaterials: 1

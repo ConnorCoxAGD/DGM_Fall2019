@@ -12,6 +12,31 @@ ModelImporter:
     100012: Stem
     100014: //RootNode
     100016: StrangePlant 1
+    100018: Leaf2
+    100020: Leaf2 1
+    100022: Leaf3
+    100024: Leaf6
+    100026: Pestil
+    100028: Pestil 1
+    100030: Pestil 2
+    100032: Pestil 3
+    100034: Pestil1
+    100036: Pestil2
+    100038: Petal6
+    100040: Purple_Pod
+    100042: Purple_Pod 1
+    100044: Purple_Pod 2
+    100046: Purple_Pod1
+    100048: Purple_Pod2
+    100050: Purple_Pod2 1
+    100052: Purple_Pod2 2
+    100054: Purple_Pod3
+    100056: Short_Stem4
+    100058: Short_Stem5
+    100060: Short_Stem6
+    100062: Small_Plant1
+    100064: Stem1
+    100066: StrangePlant_Details
     400000: Petal
     400002: Petal1
     400004: Petal2
@@ -21,7 +46,34 @@ ModelImporter:
     400012: Stem
     400014: //RootNode
     400016: StrangePlant 1
+    400018: Leaf2
+    400020: Leaf2 1
+    400022: Leaf3
+    400024: Leaf6
+    400026: Pestil
+    400028: Pestil 1
+    400030: Pestil 2
+    400032: Pestil 3
+    400034: Pestil1
+    400036: Pestil2
+    400038: Petal6
+    400040: Purple_Pod
+    400042: Purple_Pod 1
+    400044: Purple_Pod 2
+    400046: Purple_Pod1
+    400048: Purple_Pod2
+    400050: Purple_Pod2 1
+    400052: Purple_Pod2 2
+    400054: Purple_Pod3
+    400056: Short_Stem4
+    400058: Short_Stem5
+    400060: Short_Stem6
+    400062: Small_Plant1
+    400064: Stem1
+    400066: StrangePlant_Details
     2100000: Foliage_MAT
+    2100002: Decorative_Pillar_MAT
+    2100004: lambert1
     2300000: Petal
     2300002: Petal1
     2300004: Petal2
@@ -30,6 +82,24 @@ ModelImporter:
     2300010: Petal5
     2300012: Stem
     2300014: StrangePlant 1
+    2300016: Leaf2
+    2300018: Leaf2 1
+    2300020: Leaf3
+    2300022: Leaf6
+    2300024: Pestil 1
+    2300026: Pestil 2
+    2300028: Pestil 3
+    2300030: Petal6
+    2300032: Purple_Pod
+    2300034: Purple_Pod 1
+    2300036: Purple_Pod 2
+    2300038: Purple_Pod1
+    2300040: Purple_Pod2
+    2300042: Purple_Pod2 1
+    2300044: Purple_Pod2 2
+    2300046: Purple_Pod3
+    2300048: Stem1
+    2300050: StrangePlant_Details
     3300000: Petal
     3300002: Petal1
     3300004: Petal2
@@ -38,6 +108,24 @@ ModelImporter:
     3300010: Petal5
     3300012: Stem
     3300014: StrangePlant 1
+    3300016: Leaf2
+    3300018: Leaf2 1
+    3300020: Leaf3
+    3300022: Leaf6
+    3300024: Pestil 1
+    3300026: Pestil 2
+    3300028: Pestil 3
+    3300030: Petal6
+    3300032: Purple_Pod
+    3300034: Purple_Pod 1
+    3300036: Purple_Pod 2
+    3300038: Purple_Pod1
+    3300040: Purple_Pod2
+    3300042: Purple_Pod2 1
+    3300044: Purple_Pod2 2
+    3300046: Purple_Pod3
+    3300048: Stem1
+    3300050: StrangePlant_Details
     4300000: Stem
     4300002: StrangePlant
     4300004: Petal
@@ -46,6 +134,24 @@ ModelImporter:
     4300010: Petal3
     4300012: Petal4
     4300014: Petal5
+    4300016: Pestil
+    4300018: Purple_Pod
+    4300020: Purple_Pod1
+    4300022: Purple_Pod2
+    4300024: Pestil
+    4300026: Purple_Pod
+    4300028: Purple_Pod2
+    4300030: Pestil
+    4300032: Purple_Pod
+    4300034: Purple_Pod2
+    4300036: Purple_Pod3
+    4300038: Petal6
+    4300040: Stem1
+    4300042: Leaf2
+    4300044: Leaf3
+    4300046: Leaf6
+    4300048: Leaf2
+    4300050: StrangePlant_Details
   externalObjects: {}
   materials:
     importMaterials: 1

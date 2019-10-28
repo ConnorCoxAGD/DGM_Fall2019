@@ -8,24 +8,29 @@ ModelImporter:
     100004: Tall_Grass_Blade7
     100006: Tall_Grass_Blade8
     100008: Tall_Grass_Blade9
+    100010: Tall_Grass_Blade10
     400000: //RootNode
     400002: Tall_Grass_Blade
     400004: Tall_Grass_Blade7
     400006: Tall_Grass_Blade8
     400008: Tall_Grass_Blade9
+    400010: Tall_Grass_Blade10
     2100000: Foliage_MAT
     2300000: Tall_Grass_Blade
     2300002: Tall_Grass_Blade7
     2300004: Tall_Grass_Blade8
     2300006: Tall_Grass_Blade9
+    2300008: Tall_Grass_Blade10
     3300000: Tall_Grass_Blade
     3300002: Tall_Grass_Blade7
     3300004: Tall_Grass_Blade8
     3300006: Tall_Grass_Blade9
+    3300008: Tall_Grass_Blade10
     4300000: Tall_Grass_Blade
     4300002: Tall_Grass_Blade7
     4300004: Tall_Grass_Blade8
     4300006: Tall_Grass_Blade9
+    4300008: Tall_Grass_Blade10
   externalObjects: {}
   materials:
     importMaterials: 1

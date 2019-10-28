@@ -14,6 +14,27 @@ ModelImporter:
     100016: Stem 1
     100018: Stem 2
     100020: //RootNode
+    100022: Leaf1 1
+    100024: Leaf2
+    100026: Leaf2 1
+    100028: Leaf2 2
+    100030: Leaf2 3
+    100032: Leaf3
+    100034: Leaf4
+    100036: Leaf5
+    100038: Main_Stem
+    100040: Short_Stem
+    100042: Short_Stem1
+    100044: Short_Stem2
+    100046: Short_Stem3
+    100048: Stem1
+    100050: Stem1 1
+    100052: Stem1 2
+    100054: Stem1 3
+    100056: Stem1 4
+    100058: Stem2
+    100060: Stem2 1
+    100062: Stem3
     400000: group4
     400002: group5
     400004: group6
@@ -25,6 +46,27 @@ ModelImporter:
     400016: Stem 1
     400018: Stem 2
     400020: //RootNode
+    400022: Leaf1 1
+    400024: Leaf2
+    400026: Leaf2 1
+    400028: Leaf2 2
+    400030: Leaf2 3
+    400032: Leaf3
+    400034: Leaf4
+    400036: Leaf5
+    400038: Main_Stem
+    400040: Short_Stem
+    400042: Short_Stem1
+    400044: Short_Stem2
+    400046: Short_Stem3
+    400048: Stem1
+    400050: Stem1 1
+    400052: Stem1 2
+    400054: Stem1 3
+    400056: Stem1 4
+    400058: Stem2
+    400060: Stem2 1
+    400062: Stem3
     2100000: Foliage_MAT
     2300000: Leaf
     2300002: Leaf 1
@@ -33,6 +75,20 @@ ModelImporter:
     2300008: Stem
     2300010: Stem 1
     2300012: Stem 2
+    2300014: Leaf1 1
+    2300016: Leaf2
+    2300018: Leaf2 1
+    2300020: Leaf2 2
+    2300022: Leaf2 3
+    2300024: Leaf3
+    2300026: Leaf4
+    2300028: Leaf5
+    2300030: Stem1 1
+    2300032: Stem1 2
+    2300034: Stem1 3
+    2300036: Stem1 4
+    2300038: Stem2
+    2300040: Stem2 1
     3300000: Leaf
     3300002: Leaf 1
     3300004: Leaf 2
@@ -40,6 +96,20 @@ ModelImporter:
     3300008: Stem
     3300010: Stem 1
     3300012: Stem 2
+    3300014: Leaf1 1
+    3300016: Leaf2
+    3300018: Leaf2 1
+    3300020: Leaf2 2
+    3300022: Leaf2 3
+    3300024: Leaf3
+    3300026: Leaf4
+    3300028: Leaf5
+    3300030: Stem1 1
+    3300032: Stem1 2
+    3300034: Stem1 3
+    3300036: Stem1 4
+    3300038: Stem2
+    3300040: Stem2 1
     4300000: Stem
     4300002: Leaf
     4300004: Stem
@@ -47,6 +117,20 @@ ModelImporter:
     4300008: Stem
     4300010: Leaf
     4300012: Leaf1
+    4300014: Stem2
+    4300016: Stem2
+    4300018: Leaf1
+    4300020: Leaf2
+    4300022: Stem1
+    4300024: Leaf2
+    4300026: Stem1
+    4300028: Leaf2
+    4300030: Stem1
+    4300032: Leaf3
+    4300034: Leaf4
+    4300036: Leaf5
+    4300038: Leaf2
+    4300040: Stem1
   externalObjects: {}
   materials:
     importMaterials: 1
