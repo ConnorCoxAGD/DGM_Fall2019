@@ -10,5 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 504a5ee27428f53449d48070947626db, type: 3}
-  m_Name: Character Prime
+  m_Name: Camera Move
   m_EditorClassIdentifier: 
+  speed: 10
+  orientSpeed: 2

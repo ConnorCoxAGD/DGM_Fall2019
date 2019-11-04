@@ -15,21 +15,21 @@
     <setting file="file://$PROJECT_DIR$/../../../DGM1610_Spring2019/1610SideScroller/Assets/Scripts/MonoEvents.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TransformController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEventBehavior.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Classes/TriggerClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/IntData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameAction.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Classes/ClassName.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ActionCalls.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AnimController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ImageController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DraggableObj.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UpdateEvents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Classes/DefensePointClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/EventBehaviors.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DragMove.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Collections.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Debugger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/RotateGameObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MatchPosition.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameActionHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Coroutines.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Character Scripts/CharacterBase.cs" root0="FORCE_HIGHLIGHTING" />
@@ -44,7 +44,6 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Camera Controller.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CameraController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/TriggetEventBehavior.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/GameAction.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ImageController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/RotateGameObject.cs" />
@@ -63,7 +62,6 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/WeaponClass.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/EnemyClass.cs" />
         <option value="$PROJECT_DIR$/Assets/Classes/PlayerClass.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/GameActionHandler.cs" />
         <option value="$PROJECT_DIR$/Assets/Classes/EndGameClass.cs" />
         <option value="$PROJECT_DIR$/Assets/Classes/TowerClass.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" />
@@ -79,10 +77,17 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Character Scripts/CharacterPrime.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Character Scripts/CameraMovement.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Character Scripts/CharacterBase.cs" />
-        <option value="$PROJECT_DIR$/Assets/Classes/EnemyClass.cs" />
-        <option value="$PROJECT_DIR$/Assets/Classes/TurretClass.cs" />
+        <option value="$PROJECT_DIR$/Assets/Classes/ObjClass.cs" />
         <option value="$PROJECT_DIR$/Assets/Classes/TriggerClass.cs" />
         <option value="$PROJECT_DIR$/Assets/Classes/ClassName.cs" />
+        <option value="$PROJECT_DIR$/Assets/Classes/ClassObj.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameAction.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameActionHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Classes/SpawnClass.cs" />
+        <option value="$PROJECT_DIR$/Assets/Classes/TurretClass.cs" />
+        <option value="$PROJECT_DIR$/Assets/Classes/EnemyClass.cs" />
+        <option value="$PROJECT_DIR$/Assets/Classes/DefensePointClass.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MatchPosition.cs" />
       </list>
     </option>
   </component>

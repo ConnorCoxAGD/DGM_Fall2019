@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 [CreateAssetMenu]
-public class CharacterPrime : CharacterBase
+public class CameraMove : CharacterBase
 {
     public override void Move()
     {

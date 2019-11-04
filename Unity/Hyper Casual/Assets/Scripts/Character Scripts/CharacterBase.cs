@@ -7,7 +7,7 @@ public abstract class CharacterBase : ScriptableObject
     protected Vector3 Orientation;
 
     public float speed = 10f;
-    public float orientSpeed = 12f;
+    public float orientSpeed = 2f;
     
     public abstract void Move();
 
