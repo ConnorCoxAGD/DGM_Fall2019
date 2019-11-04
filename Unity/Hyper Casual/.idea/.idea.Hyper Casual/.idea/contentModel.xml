@@ -7,17 +7,16 @@
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Classes" t="Include">
-          <e p="EnemyClass.cs" t="Include" />
-          <e p="PlayerClass.cs" t="Include" />
-          <e p="TurretClass.cs" t="Include" />
+          <e p="ClassName.cs" t="Include" />
+          <e p="TriggerClass.cs" t="Include" />
         </e>
         <e p="Scripts" t="Include">
           <e p="ActionCalls.cs" t="Include" />
           <e p="AIwithNavMesh.cs" t="Include" />
           <e p="AnimController.cs" t="Include" />
           <e p="Character Scripts" t="Include">
+            <e p="CameraMove.cs" t="Include" />
             <e p="CharacterBase.cs" t="Include" />
-            <e p="CharacterPrime.cs" t="Include" />
           </e>
           <e p="Collections.cs" t="Include" />
           <e p="Coroutines.cs" t="Include" />
@@ -31,7 +30,6 @@
           <e p="ImageController.cs" t="Include" />
           <e p="IntData.cs" t="Include" />
           <e p="MouseEvents.cs" t="Include" />
-          <e p="PlayerMovement.cs" t="Include" />
           <e p="RotateGameObject.cs" t="Include" />
           <e p="TransformController.cs" t="Include" />
           <e p="TriggerEventBehavior.cs" t="Include" />
