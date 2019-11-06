@@ -1270,6 +1270,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3825d7db63baf8d4fa01fbdd47fbe9af, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Name: 
+  m_EditorClassIdentifier: 
   gameActionObj: {fileID: 0}
 --- !u!65 &1686372633
 BoxCollider:
@@ -1416,7 +1420,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1881207542}
   - component: {fileID: 1881207545}
-  - component: {fileID: 1881207544}
   - component: {fileID: 1881207543}
   m_Layer: 10
   m_Name: Trigger
@@ -1448,53 +1451,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 1881207541}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 88b695a745a5ceb428537a54dcbd7259, type: 3}
+  m_Script: {fileID: 11500000, guid: c4148fef61ac35b42b7174ea827d4b63, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  triggerEnterEvent:
-    m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 360394474}
-        m_MethodName: 
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
-  TriggerExitEvent:
-    m_PersistentCalls:
-      m_Calls: []
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
-  TriggerStayEvent:
-    m_PersistentCalls:
-      m_Calls: []
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
---- !u!114 &1881207544
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1881207541}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f12a437299c4e0d4d94cb962ad25fb63, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  OnRunEvent:
-    m_PersistentCalls:
-      m_Calls: []
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
-  holdTime: 0.1
+  SpecifiedID: {fileID: 11400000, guid: be806a2d7f47f704cb21a63d56182416, type: 2}
+  targets: []
 --- !u!136 &1881207545
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -1509,6 +1470,41 @@ CapsuleCollider:
   m_Height: 18.05
   m_Direction: 1
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &1890432505 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6688313081084563079, guid: ce97347d8e233e54580931dc8ce444c3,
+    type: 3}
+  m_PrefabInstance: {fileID: 6688313080759168150}
+  m_PrefabAsset: {fileID: 0}
+--- !u!54 &1890432508
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1890432505}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
+--- !u!114 &1890432509
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1890432505}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc7602292aa013146988ca0ba0cdb439, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ID: {fileID: 11400000, guid: be806a2d7f47f704cb21a63d56182416, type: 2}
 --- !u!1 &1935103246
 GameObject:
   m_ObjectHideFlags: 0
