@@ -35,6 +35,7 @@ ModelImporter:
     100058: Stem2
     100060: Stem2 1
     100062: Stem3
+    100064: Tall_Plant
     400000: group4
     400002: group5
     400004: group6
@@ -67,7 +68,9 @@ ModelImporter:
     400058: Stem2
     400060: Stem2 1
     400062: Stem3
+    400064: Tall_Plant
     2100000: Foliage_MAT
+    2100002: Foreground_MAT
     2300000: Leaf
     2300002: Leaf 1
     2300004: Leaf 2
@@ -89,6 +92,7 @@ ModelImporter:
     2300036: Stem1 4
     2300038: Stem2
     2300040: Stem2 1
+    2300042: Tall_Plant
     3300000: Leaf
     3300002: Leaf 1
     3300004: Leaf 2
@@ -110,6 +114,7 @@ ModelImporter:
     3300036: Stem1 4
     3300038: Stem2
     3300040: Stem2 1
+    3300042: Tall_Plant
     4300000: Stem
     4300002: Leaf
     4300004: Stem
@@ -131,6 +136,7 @@ ModelImporter:
     4300036: Leaf5
     4300038: Leaf2
     4300040: Stem1
+    4300042: Tall_Plant
   externalObjects: {}
   materials:
     importMaterials: 1

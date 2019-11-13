@@ -9,25 +9,36 @@ ModelImporter:
     100006: rope_tie3
     100008: scaf_rail13
     100010: scaf_support17
+    100012: scaf_rail
+    100014: scaf_support
     400000: //RootNode
     400002: rope_tie
     400004: rope_tie2
     400006: rope_tie3
     400008: scaf_rail13
     400010: scaf_support17
+    400012: scaf_rail
+    400014: scaf_support
     2100000: Wood_Scaffold
+    2100002: Foreground_MAT
     2300000: rope_tie2
     2300002: rope_tie3
     2300004: scaf_rail13
     2300006: scaf_support17
+    2300008: scaf_rail
+    2300010: scaf_support
     3300000: rope_tie2
     3300002: rope_tie3
     3300004: scaf_rail13
     3300006: scaf_support17
+    3300008: scaf_rail
+    3300010: scaf_support
     4300000: scaf_support17
     4300002: rope_tie2
     4300004: rope_tie3
     4300006: scaf_rail13
+    4300008: scaf_rail
+    4300010: scaf_support
   externalObjects: {}
   materials:
     importMaterials: 1

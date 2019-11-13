@@ -4,10 +4,15 @@ ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
+    100002: TrineAngle
     400000: //RootNode
+    400002: TrineAngle
     2100000: Interactable_MAT
+    2100002: Midground_MAT
     2300000: //RootNode
+    2300002: TrineAngle
     3300000: //RootNode
+    3300002: TrineAngle
     4300000: TrineAngle
   externalObjects: {}
   materials:

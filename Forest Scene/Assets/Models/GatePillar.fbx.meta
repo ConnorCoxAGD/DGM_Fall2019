@@ -4,12 +4,18 @@ ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
+    100002: PillarG_low
     400000: //RootNode
+    400002: PillarG_low
     2100000: lambert1
     2100002: Decorative_Pillar_MAT
+    2100004: Foreground_MAT
     2300000: //RootNode
+    2300002: PillarG_low
     3300000: //RootNode
+    3300002: PillarG_low
     4300000: Pillar
+    4300002: PillarG_low
   externalObjects: {}
   materials:
     importMaterials: 1

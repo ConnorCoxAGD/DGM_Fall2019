@@ -11,6 +11,7 @@ ModelImporter:
     100010: plank5
     100012: plank6
     100014: //RootNode
+    100016: planks
     400000: plank
     400002: plank1
     400004: plank2
@@ -19,7 +20,9 @@ ModelImporter:
     400010: plank5
     400012: plank6
     400014: //RootNode
+    400016: planks
     2100000: Wood_Scaffold
+    2100002: Foreground_MAT
     2300000: plank
     2300002: plank1
     2300004: plank2
@@ -27,6 +30,7 @@ ModelImporter:
     2300008: plank4
     2300010: plank5
     2300012: plank6
+    2300014: planks
     3300000: plank
     3300002: plank1
     3300004: plank2
@@ -34,6 +38,7 @@ ModelImporter:
     3300008: plank4
     3300010: plank5
     3300012: plank6
+    3300014: planks
     4300000: plank
     4300002: plank1
     4300004: plank2
@@ -41,6 +46,7 @@ ModelImporter:
     4300008: plank4
     4300010: plank5
     4300012: plank6
+    4300014: planks
   externalObjects: {}
   materials:
     importMaterials: 1

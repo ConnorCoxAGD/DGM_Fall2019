@@ -37,6 +37,7 @@ ModelImporter:
     100062: Small_Plant1
     100064: Stem1
     100066: StrangePlant_Details
+    100068: StrangePlant
     400000: Petal
     400002: Petal1
     400004: Petal2
@@ -71,9 +72,11 @@ ModelImporter:
     400062: Small_Plant1
     400064: Stem1
     400066: StrangePlant_Details
+    400068: StrangePlant
     2100000: Foliage_MAT
     2100002: Decorative_Pillar_MAT
     2100004: lambert1
+    2100006: Foreground_MAT
     2300000: Petal
     2300002: Petal1
     2300004: Petal2
@@ -100,6 +103,7 @@ ModelImporter:
     2300046: Purple_Pod3
     2300048: Stem1
     2300050: StrangePlant_Details
+    2300052: StrangePlant
     3300000: Petal
     3300002: Petal1
     3300004: Petal2
@@ -126,6 +130,7 @@ ModelImporter:
     3300046: Purple_Pod3
     3300048: Stem1
     3300050: StrangePlant_Details
+    3300052: StrangePlant
     4300000: Stem
     4300002: StrangePlant
     4300004: Petal

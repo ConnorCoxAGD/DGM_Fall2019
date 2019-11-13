@@ -14,6 +14,7 @@ ModelImporter:
     100016: Stem1
     100018: Stem4
     100020: Stem5
+    100022: Small_Plant
     400000: Leaf2
     400002: Leaf2 1
     400004: Leaf3
@@ -25,7 +26,9 @@ ModelImporter:
     400016: Stem1
     400018: Stem4
     400020: Stem5
+    400022: Small_Plant
     2100000: Foliage_MAT
+    2100002: Foreground_MAT
     2300000: Leaf2
     2300002: Leaf2 1
     2300004: Leaf3
@@ -33,6 +36,7 @@ ModelImporter:
     2300008: Stem1
     2300010: Stem4
     2300012: Stem5
+    2300014: Small_Plant
     3300000: Leaf2
     3300002: Leaf2 1
     3300004: Leaf3
@@ -40,6 +44,7 @@ ModelImporter:
     3300008: Stem1
     3300010: Stem4
     3300012: Stem5
+    3300014: Small_Plant
     4300000: Stem1
     4300002: Leaf2
     4300004: Leaf3
@@ -47,6 +52,7 @@ ModelImporter:
     4300008: Stem5
     4300010: Leaf6
     4300012: Leaf2
+    4300014: Small_Plant
   externalObjects: {}
   materials:
     importMaterials: 1

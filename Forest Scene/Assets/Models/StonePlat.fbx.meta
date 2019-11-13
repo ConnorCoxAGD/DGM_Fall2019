@@ -20,6 +20,7 @@ ModelImporter:
     400012: Rock9
     400014: //RootNode
     2100000: Rocks_MAT
+    2100002: Midground_MAT
     2300000: Rock2
     2300002: Rock3
     2300004: Rock5
@@ -27,6 +28,7 @@ ModelImporter:
     2300008: Rock7
     2300010: Rock8
     2300012: Rock9
+    2300014: //RootNode
     3300000: Rock2
     3300002: Rock3
     3300004: Rock5
@@ -34,6 +36,7 @@ ModelImporter:
     3300008: Rock7
     3300010: Rock8
     3300012: Rock9
+    3300014: //RootNode
     4300000: Rock2
     4300002: Rock5
     4300004: Rock3

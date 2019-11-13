@@ -13,6 +13,7 @@ ModelImporter:
     100014: Fern_Small_Leaf16
     100016: Fern_Small_Leaf7
     100018: Fern_Small_Leaf8
+    100020: Fern_Base
     400000: //RootNode
     400002: Fern_Leaf
     400004: Fern_Leaf1
@@ -23,8 +24,10 @@ ModelImporter:
     400014: Fern_Small_Leaf16
     400016: Fern_Small_Leaf7
     400018: Fern_Small_Leaf8
+    400020: Fern_Base
     2100000: lambert1
     2100002: Foliage_MAT
+    2100004: Foreground_MAT
     2300000: //RootNode
     2300002: Fern_Leaf
     2300004: Fern_Leaf1
@@ -35,6 +38,7 @@ ModelImporter:
     2300014: Fern_Small_Leaf16
     2300016: Fern_Small_Leaf7
     2300018: Fern_Small_Leaf8
+    2300020: Fern_Base
     3300000: //RootNode
     3300002: Fern_Leaf
     3300004: Fern_Leaf1
@@ -45,6 +49,7 @@ ModelImporter:
     3300014: Fern_Small_Leaf16
     3300016: Fern_Small_Leaf7
     3300018: Fern_Small_Leaf8
+    3300020: Fern_Base
     4300000: Fern_Base
     4300002: Fern_Leaf5
     4300004: Fern_Leaf4

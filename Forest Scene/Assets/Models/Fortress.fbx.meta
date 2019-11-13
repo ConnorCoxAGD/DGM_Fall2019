@@ -14,6 +14,15 @@ ModelImporter:
     100016: Fortress_Pillar1
     100018: Fortress_Pillar2
     100020: Fortress_Wall
+    100022: Fortress
+    100024: FortressPillar
+    100026: FortressPillar 1
+    100028: FortressPillar1
+    100030: High_Detail
+    100032: Mid_Detail
+    100034: transform1
+    100036: transform2
+    100038: transform3
     400000: Arch
     400002: //RootNode
     400004: Fortress_Bottom
@@ -25,10 +34,21 @@ ModelImporter:
     400016: Fortress_Pillar1
     400018: Fortress_Pillar2
     400020: Fortress_Wall
+    400022: Fortress
+    400024: FortressPillar
+    400026: FortressPillar 1
+    400028: FortressPillar1
+    400030: High_Detail
+    400032: Mid_Detail
+    400034: transform1
+    400036: transform2
+    400038: transform3
     2100000: lambert1
     2100002: Fortress_Top_MAT
     2100004: Fortress_Bottom_MAT
     2100006: Fortress_Pillar_MAT
+    2100008: Foreground_MAT
+    2100010: Midground_MAT
     2300000: Arch
     2300002: Fortress_Corner
     2300004: Fortress_Corner2
@@ -38,6 +58,7 @@ ModelImporter:
     2300012: Fortress_Pillar1
     2300014: Fortress_Pillar2
     2300016: Fortress_Wall
+    2300018: FortressPillar
     3300000: Arch
     3300002: Fortress_Corner
     3300004: Fortress_Corner2
@@ -47,6 +68,7 @@ ModelImporter:
     3300012: Fortress_Pillar1
     3300014: Fortress_Pillar2
     3300016: Fortress_Wall
+    3300018: FortressPillar
     4300000: Fortress_Pillar2
     4300002: Fortress_Pillar1
     4300004: Arch
@@ -56,6 +78,7 @@ ModelImporter:
     4300012: Fortress_Corner
     4300014: Fortress_Corner4
     4300016: Fortress_Corner3
+    4300018: FortressPillar
   externalObjects: {}
   materials:
     importMaterials: 1

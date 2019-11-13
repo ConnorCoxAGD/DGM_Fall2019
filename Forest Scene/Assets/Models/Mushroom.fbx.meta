@@ -4,10 +4,15 @@ ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
+    100002: Mushroom
     400000: //RootNode
+    400002: Mushroom
     2100000: Foliage_MAT
+    2100002: Foreground_MAT
     2300000: //RootNode
+    2300002: Mushroom
     3300000: //RootNode
+    3300002: Mushroom
     4300000: Mushroom
   externalObjects: {}
   materials:

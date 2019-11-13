@@ -4,11 +4,17 @@ ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
+    100002: Stone
     400000: //RootNode
+    400002: Stone
     2100000: Rocks_MAT
+    2100002: Midground_MAT
     2300000: //RootNode
+    2300002: Stone
     3300000: //RootNode
+    3300002: Stone
     4300000: Rock1
+    4300002: Stone
   externalObjects: {}
   materials:
     importMaterials: 1

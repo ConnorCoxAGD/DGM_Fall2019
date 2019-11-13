@@ -368,6 +368,7 @@ ModelImporter:
     100724: scaf_support9
     100726: scaf_support9 1
     100728: scaf_support9 2
+    100730: Large_Scaffold
     400000: Fence_Detail
     400002: Fence_Detail 1
     400004: Fence_Detail1
@@ -733,7 +734,9 @@ ModelImporter:
     400724: scaf_support9
     400726: scaf_support9 1
     400728: scaf_support9 2
+    400730: Large_Scaffold
     2100000: Wood_Scaffold
+    2100002: Foreground_MAT
     2300000: Fence_Detail
     2300002: Fence_Detail 1
     2300004: Fence_Detail1
@@ -1015,6 +1018,7 @@ ModelImporter:
     2300556: scaf_support9
     2300558: scaf_support9 1
     2300560: scaf_support9 2
+    2300562: Large_Scaffold
     3300000: Fence_Detail
     3300002: Fence_Detail 1
     3300004: Fence_Detail1
@@ -1296,6 +1300,7 @@ ModelImporter:
     3300556: scaf_support9
     3300558: scaf_support9 1
     3300560: scaf_support9 2
+    3300562: Large_Scaffold
     4300000: plank
     4300002: plank1
     4300004: plank2
@@ -1577,6 +1582,7 @@ ModelImporter:
     4300556: plank15
     4300558: plank14
     4300560: plank13
+    4300562: Large_Scaffold
   externalObjects: {}
   materials:
     importMaterials: 1

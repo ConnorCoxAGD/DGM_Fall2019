@@ -24,6 +24,8 @@ ModelImporter:
     400016: Tree_Root3
     400018: Tree_Root4
     2100000: Tree_MAT
+    2100002: Midground_MAT
+    2100004: Foreground_MAT
     2300000: Branch
     2300002: Branch1
     2300004: Tree_Trunk
@@ -33,6 +35,7 @@ ModelImporter:
     2300012: Tree_Root2
     2300014: Tree_Root3
     2300016: Tree_Root4
+    2300018: //RootNode
     3300000: Branch
     3300002: Branch1
     3300004: Tree_Trunk
@@ -42,6 +45,7 @@ ModelImporter:
     3300012: Tree_Root2
     3300014: Tree_Root3
     3300016: Tree_Root4
+    3300018: //RootNode
     4300000: Tree_Trunk
     4300002: Branch
     4300004: Branch1
@@ -51,6 +55,7 @@ ModelImporter:
     4300012: Tree_Root3
     4300014: Branch2
     4300016: Tree_Root4
+    4300018: tree
   externalObjects: {}
   materials:
     importMaterials: 1
