@@ -23,6 +23,16 @@ ModelImporter:
     100034: transform1
     100036: transform2
     100038: transform3
+    100040: polySurface11
+    100042: polySurface11 1
+    100044: polySurface12
+    100046: polySurface13
+    100048: polySurface14
+    100050: polySurface15
+    100052: transform5
+    100054: transform6
+    100056: transform7
+    100058: transform8
     400000: Arch
     400002: //RootNode
     400004: Fortress_Bottom
@@ -43,6 +53,16 @@ ModelImporter:
     400034: transform1
     400036: transform2
     400038: transform3
+    400040: polySurface11
+    400042: polySurface11 1
+    400044: polySurface12
+    400046: polySurface13
+    400048: polySurface14
+    400050: polySurface15
+    400052: transform5
+    400054: transform6
+    400056: transform7
+    400058: transform8
     2100000: lambert1
     2100002: Fortress_Top_MAT
     2100004: Fortress_Bottom_MAT
@@ -59,6 +79,9 @@ ModelImporter:
     2300014: Fortress_Pillar2
     2300016: Fortress_Wall
     2300018: FortressPillar
+    2300020: polySurface11
+    2300022: polySurface13
+    2300024: polySurface14
     3300000: Arch
     3300002: Fortress_Corner
     3300004: Fortress_Corner2
@@ -69,6 +92,9 @@ ModelImporter:
     3300014: Fortress_Pillar2
     3300016: Fortress_Wall
     3300018: FortressPillar
+    3300020: polySurface11
+    3300022: polySurface13
+    3300024: polySurface14
     4300000: Fortress_Pillar2
     4300002: Fortress_Pillar1
     4300004: Arch
@@ -79,6 +105,9 @@ ModelImporter:
     4300014: Fortress_Corner4
     4300016: Fortress_Corner3
     4300018: FortressPillar
+    4300020: polySurface13
+    4300022: polySurface14
+    4300024: polySurface11
   externalObjects: {}
   materials:
     importMaterials: 1
