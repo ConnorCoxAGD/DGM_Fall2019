@@ -13,6 +13,22 @@ ModelImporter:
     100014: Tree_Root2
     100016: Tree_Root3
     100018: Tree_Root4
+    100020: Mid_Detail
+    100022: polySurface1
+    100024: polySurface10
+    100026: polySurface2
+    100028: polySurface3
+    100030: polySurface5
+    100032: polySurface6
+    100034: polySurface7
+    100036: polySurface8
+    100038: polySurface9
+    100040: Rock7
+    100042: transform4
+    100044: tree
+    100046: Low_Detail
+    100048: Mountain
+    100050: Terrain
     400000: //RootNode
     400002: Branch
     400004: Branch1
@@ -23,9 +39,26 @@ ModelImporter:
     400014: Tree_Root2
     400016: Tree_Root3
     400018: Tree_Root4
+    400020: Mid_Detail
+    400022: polySurface1
+    400024: polySurface10
+    400026: polySurface2
+    400028: polySurface3
+    400030: polySurface5
+    400032: polySurface6
+    400034: polySurface7
+    400036: polySurface8
+    400038: polySurface9
+    400040: Rock7
+    400042: transform4
+    400044: tree
+    400046: Low_Detail
+    400048: Mountain
+    400050: Terrain
     2100000: Tree_MAT
     2100002: Midground_MAT
     2100004: Foreground_MAT
+    2100006: Background_MAT
     2300000: Branch
     2300002: Branch1
     2300004: Tree_Trunk
@@ -36,6 +69,18 @@ ModelImporter:
     2300014: Tree_Root3
     2300016: Tree_Root4
     2300018: //RootNode
+    2300020: polySurface1
+    2300022: polySurface10
+    2300024: polySurface2
+    2300026: polySurface3
+    2300028: polySurface5
+    2300030: polySurface6
+    2300032: polySurface7
+    2300034: polySurface8
+    2300036: polySurface9
+    2300038: Rock7
+    2300040: Mountain
+    2300042: Terrain
     3300000: Branch
     3300002: Branch1
     3300004: Tree_Trunk
@@ -46,6 +91,18 @@ ModelImporter:
     3300014: Tree_Root3
     3300016: Tree_Root4
     3300018: //RootNode
+    3300020: polySurface1
+    3300022: polySurface10
+    3300024: polySurface2
+    3300026: polySurface3
+    3300028: polySurface5
+    3300030: polySurface6
+    3300032: polySurface7
+    3300034: polySurface8
+    3300036: polySurface9
+    3300038: Rock7
+    3300040: Mountain
+    3300042: Terrain
     4300000: Tree_Trunk
     4300002: Branch
     4300004: Branch1
@@ -56,6 +113,18 @@ ModelImporter:
     4300014: Branch2
     4300016: Tree_Root4
     4300018: tree
+    4300020: polySurface1
+    4300022: polySurface2
+    4300024: polySurface3
+    4300026: polySurface5
+    4300028: polySurface6
+    4300030: polySurface7
+    4300032: polySurface8
+    4300034: polySurface9
+    4300036: polySurface10
+    4300038: Rock7
+    4300040: Mountain
+    4300042: Terrain
   externalObjects: {}
   materials:
     importMaterials: 1

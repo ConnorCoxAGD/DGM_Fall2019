@@ -11,6 +11,9 @@ ModelImporter:
     100010: Rock8
     100012: Rock9
     100014: //RootNode
+    100016: polySurface10
+    100018: transform4
+    100020: tree
     400000: Rock2
     400002: Rock3
     400004: Rock5
@@ -19,6 +22,9 @@ ModelImporter:
     400010: Rock8
     400012: Rock9
     400014: //RootNode
+    400016: polySurface10
+    400018: transform4
+    400020: tree
     2100000: Rocks_MAT
     2100002: Midground_MAT
     2300000: Rock2
@@ -29,6 +35,7 @@ ModelImporter:
     2300010: Rock8
     2300012: Rock9
     2300014: //RootNode
+    2300016: polySurface10
     3300000: Rock2
     3300002: Rock3
     3300004: Rock5
@@ -37,6 +44,7 @@ ModelImporter:
     3300010: Rock8
     3300012: Rock9
     3300014: //RootNode
+    3300016: polySurface10
     4300000: Rock2
     4300002: Rock5
     4300004: Rock3
@@ -44,6 +52,7 @@ ModelImporter:
     4300008: Rock9
     4300010: Rock7
     4300012: Rock6
+    4300014: polySurface10
   externalObjects: {}
   materials:
     importMaterials: 1
