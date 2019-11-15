@@ -14,6 +14,13 @@ ModelImporter:
     100016: polySurface10
     100018: transform4
     100020: tree
+    100022: High_Detail
+    100024: MossVine19
+    100026: MossVine20
+    100028: MossVine21
+    100030: MossVine22
+    100032: MossVine23
+    100034: MossVine24
     400000: Rock2
     400002: Rock3
     400004: Rock5
@@ -25,8 +32,16 @@ ModelImporter:
     400016: polySurface10
     400018: transform4
     400020: tree
+    400022: High_Detail
+    400024: MossVine19
+    400026: MossVine20
+    400028: MossVine21
+    400030: MossVine22
+    400032: MossVine23
+    400034: MossVine24
     2100000: Rocks_MAT
     2100002: Midground_MAT
+    2100004: Foreground_MAT
     2300000: Rock2
     2300002: Rock3
     2300004: Rock5
@@ -36,6 +51,12 @@ ModelImporter:
     2300012: Rock9
     2300014: //RootNode
     2300016: polySurface10
+    2300018: MossVine19
+    2300020: MossVine20
+    2300022: MossVine21
+    2300024: MossVine22
+    2300026: MossVine23
+    2300028: MossVine24
     3300000: Rock2
     3300002: Rock3
     3300004: Rock5
@@ -45,6 +66,12 @@ ModelImporter:
     3300012: Rock9
     3300014: //RootNode
     3300016: polySurface10
+    3300018: MossVine19
+    3300020: MossVine20
+    3300022: MossVine21
+    3300024: MossVine22
+    3300026: MossVine23
+    3300028: MossVine24
     4300000: Rock2
     4300002: Rock5
     4300004: Rock3
@@ -53,6 +80,12 @@ ModelImporter:
     4300010: Rock7
     4300012: Rock6
     4300014: polySurface10
+    4300016: MossVine19
+    4300018: MossVine20
+    4300020: MossVine21
+    4300022: MossVine22
+    4300024: MossVine23
+    4300026: MossVine24
   externalObjects: {}
   materials:
     importMaterials: 1

@@ -15,6 +15,7 @@ ModelImporter:
     100018: tree
     100020: Tree_Root
     100022: Tree_Root1
+    100024: Vine
     400000: Big_Vine
     400002: //RootNode
     400004: Vine_Piece
@@ -27,6 +28,7 @@ ModelImporter:
     400018: tree
     400020: Tree_Root
     400022: Tree_Root1
+    400024: Vine
     2100000: Foliage_MAT
     2100002: Foreground_MAT
     2300000: Big_Vine
@@ -37,6 +39,7 @@ ModelImporter:
     2300010: polySurface4
     2300012: Tree_Root
     2300014: Tree_Root1
+    2300016: Vine
     3300000: Big_Vine
     3300002: Vine_Piece
     3300004: Hanging_Leaves
@@ -45,6 +48,7 @@ ModelImporter:
     3300010: polySurface4
     3300012: Tree_Root
     3300014: Tree_Root1
+    3300016: Vine
     4300000: Vine_Piece
     4300002: Big_Vine
     4300004: Vine_Piece1
@@ -53,6 +57,7 @@ ModelImporter:
     4300010: Tree_Root1
     4300012: Tree_Root
     4300014: polySurface4
+    4300016: Vine
   externalObjects: {}
   materials:
     importMaterials: 1

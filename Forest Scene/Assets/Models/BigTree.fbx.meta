@@ -29,6 +29,20 @@ ModelImporter:
     100046: Low_Detail
     100048: Mountain
     100050: Terrain
+    100052: High_Detail
+    100054: MossVine26
+    100056: MossVine27
+    100058: MossVine28
+    100060: MossVine29
+    100062: MossVine30
+    100064: MossVine31
+    100066: MossVine32
+    100068: MossVine33
+    100070: MossVine34
+    100072: MossVine35
+    100074: MossVine36
+    100076: MossVine37
+    100078: MossVine38
     400000: //RootNode
     400002: Branch
     400004: Branch1
@@ -55,6 +69,20 @@ ModelImporter:
     400046: Low_Detail
     400048: Mountain
     400050: Terrain
+    400052: High_Detail
+    400054: MossVine26
+    400056: MossVine27
+    400058: MossVine28
+    400060: MossVine29
+    400062: MossVine30
+    400064: MossVine31
+    400066: MossVine32
+    400068: MossVine33
+    400070: MossVine34
+    400072: MossVine35
+    400074: MossVine36
+    400076: MossVine37
+    400078: MossVine38
     2100000: Tree_MAT
     2100002: Midground_MAT
     2100004: Foreground_MAT
@@ -81,6 +109,19 @@ ModelImporter:
     2300038: Rock7
     2300040: Mountain
     2300042: Terrain
+    2300044: MossVine26
+    2300046: MossVine27
+    2300048: MossVine28
+    2300050: MossVine29
+    2300052: MossVine30
+    2300054: MossVine31
+    2300056: MossVine32
+    2300058: MossVine33
+    2300060: MossVine34
+    2300062: MossVine35
+    2300064: MossVine36
+    2300066: MossVine37
+    2300068: MossVine38
     3300000: Branch
     3300002: Branch1
     3300004: Tree_Trunk
@@ -103,6 +144,19 @@ ModelImporter:
     3300038: Rock7
     3300040: Mountain
     3300042: Terrain
+    3300044: MossVine26
+    3300046: MossVine27
+    3300048: MossVine28
+    3300050: MossVine29
+    3300052: MossVine30
+    3300054: MossVine31
+    3300056: MossVine32
+    3300058: MossVine33
+    3300060: MossVine34
+    3300062: MossVine35
+    3300064: MossVine36
+    3300066: MossVine37
+    3300068: MossVine38
     4300000: Tree_Trunk
     4300002: Branch
     4300004: Branch1
@@ -125,6 +179,19 @@ ModelImporter:
     4300038: Rock7
     4300040: Mountain
     4300042: Terrain
+    4300044: MossVine26
+    4300046: MossVine27
+    4300048: MossVine28
+    4300050: MossVine29
+    4300052: MossVine30
+    4300054: MossVine31
+    4300056: MossVine32
+    4300058: MossVine33
+    4300060: MossVine34
+    4300062: MossVine35
+    4300064: MossVine36
+    4300066: MossVine37
+    4300068: MossVine38
   externalObjects: {}
   materials:
     importMaterials: 1
