@@ -22,7 +22,6 @@
             <e p="CharacterBase.cs" t="Include" />
           </e>
           <e p="Coin.cs" t="Include" />
-          <e p="CoinCollection.cs" t="Include" />
           <e p="CoinPowerUp.cs" t="Include" />
           <e p="Collections.cs" t="Include" />
           <e p="Coroutines.cs" t="Include" />
@@ -43,6 +42,12 @@
           <e p="TriggerEventBehavior.cs" t="Include" />
           <e p="TriggerID.cs" t="Include" />
           <e p="UpdateEvents.cs" t="Include" />
+        </e>
+        <e p="Weapons" t="Include">
+          <e p="AmmoHandler.cs" t="Include" />
+          <e p="WeaponButtonHandler.cs" t="Include" />
+          <e p="WeaponConfig.cs" t="Include" />
+          <e p="WeaponHandler.cs" t="Include" />
         </e>
       </e>
       <e p="Hyper Casual.sln" t="IncludeFlat" />
