@@ -20,12 +20,13 @@
     <setting file="file://$PROJECT_DIR$/Assets/Weapons/WeaponButtonHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/IntData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameAction.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Weapons/AmmoHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Turrets/TurretTarget.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AnimController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ActionCalls.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ImageController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DraggableObj.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UpdateEvents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Turrets/TurretHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/EventBehaviors.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Collections.cs" root0="FORCE_HIGHLIGHTING" />
@@ -34,16 +35,16 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/RotateGameObject.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameActionHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Coroutines.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Turrets/TurretConfig.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MouseEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../DGM1610_Spring2019/1610SideScroller/Assets/Scripts/Character Controller/SimpleMoveCharacter.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AiWithNavMesh.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MatchPosition.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TargetArray.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/IntData.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Coroutines.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/TriggerEventBehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Draggable.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DragMove.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DraggableObj.cs" />
@@ -89,9 +90,12 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/CoinCollection.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/WeaponConfig.cs" />
         <option value="$PROJECT_DIR$/Assets/Weapons/AmmoHandler.cs" />
-        <option value="$PROJECT_DIR$/Assets/Weapons/WeaponButtonHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Turrets/TurretConfig.cs" />
         <option value="$PROJECT_DIR$/Assets/Weapons/WeaponHandler.cs" />
         <option value="$PROJECT_DIR$/Assets/Weapons/WeaponConfig.cs" />
+        <option value="$PROJECT_DIR$/Assets/Weapons/WeaponButtonHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Turrets/TurretHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Turrets/TurretTarget.cs" />
       </list>
     </option>
   </component>
@@ -160,7 +164,7 @@
       <workItem from="1572464970234" duration="3692000" />
       <workItem from="1573022039601" duration="4449000" />
       <workItem from="1573678272371" duration="2325000" />
-      <workItem from="1574108526756" duration="4898000" />
+      <workItem from="1574108526756" duration="9816000" />
     </task>
     <servers />
   </component>

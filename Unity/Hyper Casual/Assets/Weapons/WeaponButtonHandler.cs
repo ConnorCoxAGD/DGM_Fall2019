@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
+
 [RequireComponent(typeof(Button))]
 [RequireComponent(typeof(Image))]
 [RequireComponent(typeof(Text))]
@@ -9,7 +10,6 @@ public class WeaponButtonHandler : MonoBehaviour
     private Button _weaponButton;
     private Image buttonImg;
     private Text buttonText;
-    
     private void Start()
     {
         _weaponButton = GetComponent<Button>();
@@ -18,10 +18,11 @@ public class WeaponButtonHandler : MonoBehaviour
         buttonImg.color = weaponObj.weaponColor;
         buttonText = GetComponentInChildren<Text>();
         buttonText.text = weaponObj.name + " Fire";
+        weaponObj.collectWeaponAction = OnCollectWeapon;
         _weaponButton.interactable = false;
     }
 
-    public void OnCollectWeapon()
+    private void OnCollectWeapon()
     {
         _weaponButton.interactable = true;
     }

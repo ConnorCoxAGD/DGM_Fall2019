@@ -43,8 +43,13 @@
           <e p="TriggerID.cs" t="Include" />
           <e p="UpdateEvents.cs" t="Include" />
         </e>
-        <e p="Weapons" t="Include">
+        <e p="Turrets" t="Include">
           <e p="AmmoHandler.cs" t="Include" />
+          <e p="TurretConfig.cs" t="Include" />
+          <e p="TurretHandler.cs" t="Include" />
+          <e p="TurretTarget.cs" t="Include" />
+        </e>
+        <e p="Weapons" t="Include">
           <e p="WeaponButtonHandler.cs" t="Include" />
           <e p="WeaponConfig.cs" t="Include" />
           <e p="WeaponHandler.cs" t="Include" />

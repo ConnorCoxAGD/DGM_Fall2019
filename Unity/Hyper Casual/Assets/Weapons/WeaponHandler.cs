@@ -1,13 +1,8 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-using UnityEngine.Experimental.Rendering;
+﻿using UnityEngine;
 
 public class WeaponHandler : MonoBehaviour
 {
     public WeaponConfig weaponObj;
-
     void Start()
     {
         weaponObj.weaponFireAction = Fire;
@@ -21,7 +16,7 @@ public class WeaponHandler : MonoBehaviour
         renderer.material.color = weaponObj.weaponColor;
     }
 
-    public void OnTriggerEnter(Collider other)
+    private void OnTriggerEnter(Collider other)
     {
         weaponObj.RaiseCollectAction();
     }
