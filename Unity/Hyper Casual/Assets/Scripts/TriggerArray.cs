@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class TargetArray : MonoBehaviour
+public class TriggerArray : MonoBehaviour
 {
     public NameID SpecifiedID;
     public List<GameObject> targets = new List<GameObject>();

@@ -37,17 +37,17 @@
           <e p="MatchPosition.cs" t="Include" />
           <e p="MouseEvents.cs" t="Include" />
           <e p="RotateGameObject.cs" t="Include" />
-          <e p="TargetArray.cs" t="Include" />
           <e p="TransformController.cs" t="Include" />
+          <e p="TriggerArray.cs" t="Include" />
           <e p="TriggerEventBehavior.cs" t="Include" />
           <e p="TriggerID.cs" t="Include" />
           <e p="UpdateEvents.cs" t="Include" />
         </e>
         <e p="Turrets" t="Include">
           <e p="AmmoHandler.cs" t="Include" />
+          <e p="TurretAim.cs" t="Include" />
           <e p="TurretConfig.cs" t="Include" />
           <e p="TurretHandler.cs" t="Include" />
-          <e p="TurretTarget.cs" t="Include" />
         </e>
         <e p="Weapons" t="Include">
           <e p="WeaponButtonHandler.cs" t="Include" />
