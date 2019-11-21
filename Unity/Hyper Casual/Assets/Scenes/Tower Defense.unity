@@ -5769,6 +5769,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 367695333}
+  - component: {fileID: 367695329}
   m_Layer: 10
   m_Name: Turret
   m_TagString: Untagged
@@ -5776,6 +5777,20 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!114 &367695329
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 367695328}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6568e51505df0a49a048db8fd98a7f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  turretObj: {fileID: 11400000, guid: 8df722edba3b1bc4b8150fa6d5010b70, type: 2}
+  holdTime: 0.1
 --- !u!4 &367695333
 Transform:
   m_ObjectHideFlags: 0
@@ -32118,6 +32133,8 @@ GameObject:
   - component: {fileID: 1881207542}
   - component: {fileID: 1881207545}
   - component: {fileID: 1881207544}
+  - component: {fileID: 1881207546}
+  - component: {fileID: 1881207543}
   m_Layer: 10
   m_Name: Trigger
   m_TagString: Untagged
@@ -32139,6 +32156,22 @@ Transform:
   m_Father: {fileID: 367695333}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!54 &1881207543
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1881207541}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!114 &1881207544
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32152,9 +32185,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   SpecifiedID: {fileID: 11400000, guid: be806a2d7f47f704cb21a63d56182416, type: 2}
+  turretObj: {fileID: 367695329}
   targets: []
   turretGun: {fileID: 2098260709}
-  aimTurret: {fileID: 0}
+  isFiring: 0
 --- !u!136 &1881207545
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -32169,6 +32203,19 @@ CapsuleCollider:
   m_Height: 18.05
   m_Direction: 1
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &1881207546
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1881207541}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a4afcc1a614a414c938b803624e09ad, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Forces: {x: 1, y: 0, z: 0}
 --- !u!1 &1886532908
 GameObject:
   m_ObjectHideFlags: 0
@@ -36097,6 +36144,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   turretObj: {fileID: 0}
+  holdTime: 0.1
 --- !u!1 &2098270763
 GameObject:
   m_ObjectHideFlags: 0
