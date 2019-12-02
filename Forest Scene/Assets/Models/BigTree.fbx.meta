@@ -192,7 +192,17 @@ ModelImporter:
     4300064: MossVine36
     4300066: MossVine37
     4300068: MossVine38
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Foreground_MAT
+    second: {fileID: 2100000, guid: 769ce2b5f1a0f1e42bb3ee5fb4141c93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Midground_MAT
+    second: {fileID: 2100000, guid: 60c94c5286e0d5047bee8accdc6efdef, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
