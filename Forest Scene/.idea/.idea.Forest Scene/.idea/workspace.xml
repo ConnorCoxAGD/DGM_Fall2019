@@ -8,18 +8,34 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Texture Maps/Materials/Double-Sided Face.shader" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Temp/GeneratedFromSurface-Custom-Double-Sided Face.shader" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Temp/Compiled-Custom-Double-Sided Face.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Texture Maps/Materials/NewUnlitShader.shader" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Texture Maps/Materials/Double-Sided Face.shader" />
+        <option value="$PROJECT_DIR$/Assets/Texture Maps/Materials/FoliageWind.shader" />
+        <option value="$PROJECT_DIR$/Assets/Texture Maps/Materials/Foliage.shader" />
+        <option value="$PROJECT_DIR$/Assets/Texture Maps/Materials/NewUnlitShader.shader" />
       </list>
     </option>
   </component>
@@ -72,6 +88,7 @@
       <updated>1573683808340</updated>
       <workItem from="1573683811441" duration="599000" />
       <workItem from="1574449521682" duration="4812000" />
+      <workItem from="1575320253649" duration="10431000" />
     </task>
     <servers />
   </component>
