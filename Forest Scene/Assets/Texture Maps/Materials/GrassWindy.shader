@@ -1,4 +1,4 @@
-﻿Shader "Nature/GrassWindy"
+﻿Shader "Foliage/HangingFoliage"
 {
     Properties
     {
@@ -11,11 +11,8 @@
         
         _WorldSize("World Size", vector) = (1, 1, 1, 1)
         _WindSpeed ("Wind Speed", vector) = (1, 1, 1, 1)
-        _WaveAmp ("Wave Amplitude", range (0,2)) = 1
+        _WaveAmp ("Wave Amplitude", range (0,3)) = 1
         _WaveSpeed ("Wave Speed", range (0,5)) = 1
-        _FoliageDis ("Foliage Displacement", range (0,1)) = 0.5
-        _HeightControl ("Height Control", float) = 1.0
-        _HeightFactor ("Height Factor", float) = 1.0
     }
     SubShader
     {
@@ -25,7 +22,6 @@
         CGPROGRAM
         #pragma surface surf Standard fullforwardshadows
         #pragma vertex vert
-        #pragma target 3.0
 
         sampler2D _MainTex;
         sampler2D _WindTex;
@@ -33,25 +29,24 @@
         struct Input
         {
             float2 uv_MainTex;
-            float2 uv_WindTex;
-        };
-        struct vertexInput
-        {
-            float4 vertex : POSITION;
-            float3 normal : NORMAL;
-        };
-        struct vertexOutput
-        {
-            float4 pos : SV_Position;
-            float3 normal : NORMAL;
         };
 
         half _Glossiness;
         half _Metallic;
         fixed4 _Color;
         
-        float _WaveAmp, _WaveSpeed, _FoliageDis, _HeightControl, _HeightFactor;
-        float4 _WorldSize, _WindSpeed;
+        float _WaveAmp, _WaveSpeed;
+        float4 _WindTex_ST, _WorldSize, _WindSpeed;
+        
+        void vert (inout appdata_full v)
+        {
+            float3 worldPos = mul(v.vertex, unity_ObjectToWorld).xyz;
+            float2 samplePos = worldPos.xz/_WorldSize.xz;
+            samplePos += _Time.x * _WindSpeed.xz;
+            float windSample = tex2Dlod(_WindTex, float4(samplePos, 0, 0));
+            v.vertex.x += cos(_WaveSpeed*windSample) * _WaveAmp;
+            v.vertex.z += sin(_WaveSpeed*windSample) * _WaveAmp;
+        }
 
         void surf (Input IN, inout SurfaceOutputStandard o)
         {

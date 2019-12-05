@@ -13,7 +13,7 @@ Shader "Foliage/GroundedFoliage"
         
         _WorldSize("World Size", vector) = (1, 1, 1, 1)
         _WindSpeed ("Wind Speed", vector) = (1, 1, 1, 1)
-        _WaveAmp ("Wave Amplitude", range (0,2)) = 1
+        _WaveAmp ("Wave Amplitude", range (0,3)) = 1
         _WaveSpeed ("Wave Speed", range (0,5)) = 1
         _HeightControl ("Height Control", float) = 1
         _HeightFactor ("Height Factor", float) = 1.0
@@ -47,12 +47,11 @@ Shader "Foliage/GroundedFoliage"
         {
             float3 worldPos = mul(v.vertex, unity_ObjectToWorld).xyz;
             float2 samplePos = worldPos.xz/_WorldSize.xz;
-            float localPos = mul(v.vertex, unity_WorldToObject).y;
             samplePos += _Time.x * _WindSpeed.xz;
             float windSample = tex2Dlod(_WindTex, float4(samplePos, 0, 0));
-            float heightFactor = localPos > _HeightControl;
-            v.vertex.x += cos(_WaveSpeed*windSample)*_WaveAmp * heightFactor;
-            v.vertex.z += sin(_WaveSpeed*windSample)*_WaveAmp * heightFactor;
+            float heightFactor = worldPos.y >= _HeightControl;
+            v.vertex.x += cos((_WaveSpeed*windSample)*_WaveAmp) * heightFactor;
+            v.vertex.z += sin((_WaveSpeed*windSample)*_WaveAmp) * heightFactor;
         }
 
         void surf (Input IN, inout SurfaceOutputStandard o)
