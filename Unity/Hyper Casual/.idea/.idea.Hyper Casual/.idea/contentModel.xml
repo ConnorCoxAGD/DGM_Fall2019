@@ -13,6 +13,12 @@
           <e p="NameID.cs" t="Include" />
           <e p="ObjectID.cs" t="Include" />
         </e>
+        <e p="Models" t="Include">
+          <e p="Materials" t="Include">
+            <e p="GroundedFoliage.shader" t="Include" />
+            <e p="HangingFoliage.shader" t="Include" />
+          </e>
+        </e>
         <e p="Scripts" t="Include">
           <e p="ActionCalls.cs" t="Include" />
           <e p="AIwithNavMesh.cs" t="Include" />
