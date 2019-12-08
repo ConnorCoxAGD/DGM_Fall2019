@@ -10,32 +10,75 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Models/Materials/GroundedFoliage.shader">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/TriggerArray.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="40" column="32" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
+            <state relative-caret-position="165">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
               <folding>
-                <marker date="1575776276133" expanded="true" signature="103:2368" ph="{...}" />
-                <marker date="1575776276133" expanded="true" signature="124:831" ph="{...}" />
-                <marker date="1575776276133" expanded="true" signature="850:2343" ph="{...}" />
-                <marker date="1575776276133" expanded="true" signature="945:2332" ph="{...}" />
+                <marker date="1575780304902" expanded="true" signature="6:52" ph="..." />
+                <marker date="1575780304902" expanded="true" signature="95:508" ph="{...}" />
+                <marker date="1575780304902" expanded="true" signature="272:405" ph="{...}" />
+                <marker date="1575780304902" expanded="true" signature="338:399" ph="{...}" />
+                <marker date="1575780304902" expanded="true" signature="454:506" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/TriggerArray.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/Turrets/TurretConfig.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state>
               <folding>
-                <marker date="1575267175750" expanded="false" signature="6:52" ph="..." />
-                <marker date="1575267175750" expanded="true" signature="95:536" ph="{...}" />
-                <marker date="1575267175750" expanded="true" signature="273:436" ph="{...}" />
-                <marker date="1575267175750" expanded="true" signature="339:430" ph="{...}" />
-                <marker date="1575267175750" expanded="true" signature="482:534" ph="{...}" />
+                <marker date="1575267176230" expanded="false" signature="6:44" ph="..." />
+                <marker date="1575267176230" expanded="true" signature="107:301" ph="{...}" />
+                <marker date="1575267176230" expanded="true" signature="251:299" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Turrets/TurretHandler.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+              <folding>
+                <marker date="1575780090858" expanded="false" signature="6:78" ph="..." />
+                <marker date="1575780090858" expanded="true" signature="122:474" ph="{...}" />
+                <marker date="1575780090858" expanded="true" signature="210:274" ph="{...}" />
+                <marker date="1575780090858" expanded="true" signature="302:348" ph="{...}" />
+                <marker date="1575780090858" expanded="true" signature="382:472" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Turrets/TurretAim.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="428">
+              <caret line="29" column="26" lean-forward="true" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+              <folding>
+                <marker date="1575781233354" expanded="true" signature="6:44" ph="..." />
+                <marker date="1575781233354" expanded="true" signature="83:723" ph="{...}" />
+                <marker date="1575781233354" expanded="true" signature="277:597" ph="{...}" />
+                <marker date="1575781233354" expanded="true" signature="314:591" ph="{...}" />
+                <marker date="1575781233354" expanded="true" signature="631:721" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Turrets/AmmoHandler.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+              <folding>
+                <marker date="1575781233296" expanded="true" signature="97:328" ph="{...}" />
+                <marker date="1575781233296" expanded="true" signature="190:326" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -62,14 +105,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EventBehaviors.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Models/Materials/GroundedFoliage.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DraggableObj.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AnimController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Debugger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ActionCalls.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../../DGM1610_Spring2019/1610SideScroller/Assets/Scripts/MonoEvents.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Models/Materials/HangingFoliage.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Collections.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggerArray.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
@@ -77,20 +117,27 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Coroutines.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MouseEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameAction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Turrets/TurretHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Turrets/TurretConfig.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/IntData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Turrets/TurretAim.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Turrets/AmmoHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AiWithNavMesh.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Forest Scene/Assets/Texture Maps/Materials/HangingFoliage.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEventBehavior.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TransformController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../DGM1610_Spring2019/1610SideScroller/Assets/Scripts/Character Controller/SimpleMoveCharacter.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EventBehaviors.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../DGM1610_Spring2019/1610SideScroller/Assets/Scripts/MonoEvents.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Models/Materials/HangingFoliage.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DragMove.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/RotateGameObject.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UpdateEvents.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TransformController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ImageController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../../DGM1610_Spring2019/1610SideScroller/Assets/Scripts/Character Controller/SimpleMoveCharacter.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/WeaponClass.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/EnemyClass.cs" />
         <option value="$PROJECT_DIR$/Assets/Classes/PlayerClass.cs" />
         <option value="$PROJECT_DIR$/Assets/Classes/EndGameClass.cs" />
@@ -136,19 +183,20 @@
         <option value="$PROJECT_DIR$/Assets/Turrets/TurretTarget.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/TargetArray.cs" />
         <option value="$PROJECT_DIR$/Assets/Turrets/TurretConfig.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/TriggerArray.cs" />
-        <option value="$PROJECT_DIR$/Assets/Turrets/TurretAim.cs" />
-        <option value="$PROJECT_DIR$/Assets/Turrets/TurretHandler.cs" />
         <option value="$PROJECT_DIR$/Assets/Models/Materials/HangingFoliage.shader" />
         <option value="$PROJECT_DIR$/Assets/Models/Materials/GroundedFoliage.shader" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TriggerArray.cs" />
+        <option value="$PROJECT_DIR$/Assets/Turrets/AmmoHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Turrets/TurretHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Turrets/TurretAim.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="132" />
-    <option name="y" value="31" />
+    <option name="x" value="306" />
+    <option name="y" value="16" />
     <option name="width" value="1176" />
-    <option name="height" value="812" />
+    <option name="height" value="718" />
   </component>
   <component name="ProjectId" id="1QcAfp4E5yhZtu7c1glPvEmpr8Z" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -222,12 +270,12 @@
       <workItem from="1574108526756" duration="9816000" />
       <workItem from="1574281804139" duration="12842000" />
       <workItem from="1575654268225" duration="3237000" />
-      <workItem from="1575771538498" duration="4979000" />
+      <workItem from="1575771538498" duration="6685000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4979000" />
+    <option name="totallyTimeSpent" value="6685000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -239,7 +287,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="132" y="31" width="1176" height="812" extended-state="0" />
+    <frame x="306" y="16" width="1176" height="718" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -332,20 +380,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TriggerArray.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <marker date="1575267175750" expanded="false" signature="6:52" ph="..." />
-            <marker date="1575267175750" expanded="true" signature="95:536" ph="{...}" />
-            <marker date="1575267175750" expanded="true" signature="273:436" ph="{...}" />
-            <marker date="1575267175750" expanded="true" signature="339:430" ph="{...}" />
-            <marker date="1575267175750" expanded="true" signature="482:534" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Models/Materials/HangingFoliage.shader">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
@@ -359,15 +393,91 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../../Forest Scene/Assets/Texture Maps/Materials/HangingFoliage.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1575776276095" expanded="true" signature="32:2066" ph="{...}" />
+            <marker date="1575776276095" expanded="true" signature="53:653" ph="{...}" />
+            <marker date="1575776276095" expanded="true" signature="672:2041" ph="{...}" />
+            <marker date="1575776276095" expanded="true" signature="767:2030" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Models/Materials/GroundedFoliage.shader">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
+        <state relative-caret-position="300">
           <caret line="40" column="32" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
           <folding>
             <marker date="1575776276133" expanded="true" signature="103:2368" ph="{...}" />
             <marker date="1575776276133" expanded="true" signature="124:831" ph="{...}" />
             <marker date="1575776276133" expanded="true" signature="850:2343" ph="{...}" />
             <marker date="1575776276133" expanded="true" signature="945:2332" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TriggerArray.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <marker date="1575780304902" expanded="true" signature="6:52" ph="..." />
+            <marker date="1575780304902" expanded="true" signature="95:508" ph="{...}" />
+            <marker date="1575780304902" expanded="true" signature="272:405" ph="{...}" />
+            <marker date="1575780304902" expanded="true" signature="338:399" ph="{...}" />
+            <marker date="1575780304902" expanded="true" signature="454:506" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Turrets/TurretConfig.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1575267176230" expanded="false" signature="6:44" ph="..." />
+            <marker date="1575267176230" expanded="true" signature="107:301" ph="{...}" />
+            <marker date="1575267176230" expanded="true" signature="251:299" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Turrets/AmmoHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+          <folding>
+            <marker date="1575781233296" expanded="true" signature="97:328" ph="{...}" />
+            <marker date="1575781233296" expanded="true" signature="190:326" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Turrets/TurretHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+          <folding>
+            <marker date="1575780090858" expanded="false" signature="6:78" ph="..." />
+            <marker date="1575780090858" expanded="true" signature="122:474" ph="{...}" />
+            <marker date="1575780090858" expanded="true" signature="210:274" ph="{...}" />
+            <marker date="1575780090858" expanded="true" signature="302:348" ph="{...}" />
+            <marker date="1575780090858" expanded="true" signature="382:472" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Turrets/TurretAim.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="29" column="26" lean-forward="true" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+          <folding>
+            <marker date="1575781233354" expanded="true" signature="6:44" ph="..." />
+            <marker date="1575781233354" expanded="true" signature="83:723" ph="{...}" />
+            <marker date="1575781233354" expanded="true" signature="277:597" ph="{...}" />
+            <marker date="1575781233354" expanded="true" signature="314:591" ph="{...}" />
+            <marker date="1575781233354" expanded="true" signature="631:721" ph="{...}" />
           </folding>
         </state>
       </provider>

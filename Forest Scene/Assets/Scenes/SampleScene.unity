@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 170076734}
-  m_IndirectSpecularColor: {r: 0.5559893, g: 0.7961059, b: 0.64201486, a: 1}
+  m_IndirectSpecularColor: {r: 0.51761836, g: 0.78107244, b: 0.48987067, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1901,7 +1901,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.36320752, g: 1, b: 0.57314616, a: 0}
+  m_BackGroundColor: {r: 0.92265, g: 1, b: 0, a: 0}
   m_projectionMatrixMode: 2
   m_SensorSize: {x: 35.999928, y: 23.999952}
   m_LensShift: {x: 0, y: 0}
@@ -32994,9 +32994,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   sharedProfile: {fileID: 11400000, guid: c7ff4e1915a087940841df47dd7f56ef, type: 2}
   isGlobal: 1
-  blendDistance: 0
+  blendDistance: 2.3
   weight: 1
-  priority: 0
+  priority: 26.55
 --- !u!4 &1388326155
 Transform:
   m_ObjectHideFlags: 0
@@ -46358,7 +46358,7 @@ Light:
   m_Enabled: 1
   serializedVersion: 8
   m_Type: 2
-  m_Color: {r: 0.95520055, g: 1, b: 0.5707547, a: 1}
+  m_Color: {r: 0.94708145, g: 1, b: 0, a: 1}
   m_Intensity: 1
   m_Range: 59.143326
   m_SpotAngle: 30

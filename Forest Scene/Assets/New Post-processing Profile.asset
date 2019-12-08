@@ -41,7 +41,7 @@ MonoBehaviour:
     value: 1.53
   color:
     overrideState: 1
-    value: {r: 0, g: 0.28992164, b: 0.33962262, a: 1}
+    value: {r: 0.046900857, g: 0.2264151, b: 0, a: 1}
   ambientOnly:
     overrideState: 1
     value: 1
@@ -56,7 +56,7 @@ MonoBehaviour:
     value: -12
   thicknessModifier:
     overrideState: 1
-    value: 1.57
+    value: 2.18
   directLightingStrength:
     overrideState: 1
     value: 0
@@ -91,25 +91,25 @@ MonoBehaviour:
     defaultState: 1
   tonemapper:
     overrideState: 1
-    value: 3
+    value: 1
   toneCurveToeStrength:
     overrideState: 1
-    value: 0.31
+    value: 0
   toneCurveToeLength:
     overrideState: 1
-    value: 0.13
+    value: 0.34
   toneCurveShoulderStrength:
     overrideState: 1
-    value: 0.97
+    value: 0.43
   toneCurveShoulderLength:
     overrideState: 1
     value: 0.18
   toneCurveShoulderAngle:
     overrideState: 1
-    value: 1
+    value: 0.41
   toneCurveGamma:
     overrideState: 1
-    value: 1.27
+    value: 0.96
   ldrLut:
     overrideState: 1
     value: {fileID: 0}
@@ -119,28 +119,28 @@ MonoBehaviour:
     value: 1
   temperature:
     overrideState: 1
-    value: 26.63
+    value: 15.19
   tint:
     overrideState: 1
     value: 31.11
   colorFilter:
-    overrideState: 1
-    value: {r: 1, g: 1, b: 1, a: 1}
+    overrideState: 0
+    value: {r: 0.16411248, g: 0.18867922, b: 0.14862938, a: 1}
   hueShift:
-    overrideState: 1
+    overrideState: 0
     value: 0
   saturation:
     overrideState: 1
-    value: 7.38
+    value: 14.7
   brightness:
     overrideState: 1
     value: 0
   postExposure:
-    overrideState: 1
-    value: 0
+    overrideState: 0
+    value: -0.2
   contrast:
-    overrideState: 1
-    value: 2.3
+    overrideState: 0
+    value: 7.7
   mixerRedOutRedIn:
     overrideState: 1
     value: 100
@@ -170,13 +170,13 @@ MonoBehaviour:
     value: 100
   lift:
     overrideState: 1
-    value: {x: 1, y: 1, z: 1, w: 0}
+    value: {x: 0.8608885, y: 0.96128315, z: 1, w: 0}
   gamma:
     overrideState: 1
-    value: {x: 1, y: 1, z: 1, w: 0}
+    value: {x: 0.7597895, y: 1, z: 0.92217165, w: 0}
   gain:
     overrideState: 1
-    value: {x: 1, y: 1, z: 1, w: 0}
+    value: {x: 0.68153393, y: 0.80175734, z: 1, w: 0}
   masterCurve:
     overrideState: 1
     value:
@@ -1423,16 +1423,16 @@ MonoBehaviour:
     value: 1
   filtering:
     overrideState: 1
-    value: {x: 73.25782, y: 88.30457}
+    value: {x: 73.70967, y: 97.94621}
   minLuminance:
     overrideState: 1
-    value: -0.76
+    value: -2.41
   maxLuminance:
     overrideState: 1
-    value: 0.44
+    value: 4.9
   keyValue:
     overrideState: 1
-    value: 0.86
+    value: 1.01
   eyeAdaptation:
     overrideState: 1
     value: 1

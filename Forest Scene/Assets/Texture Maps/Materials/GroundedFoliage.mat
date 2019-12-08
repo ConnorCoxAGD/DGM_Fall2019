@@ -11,7 +11,7 @@ Material:
   m_Shader: {fileID: 4800000, guid: 5bd84229c971c424a8218ff39799339c, type: 3}
   m_ShaderKeywords: _EMISSION _METALLICGLOSSMAP _NORMALMAP
   m_LightmapFlags: 2
-  m_EnableInstancingVariants: 1
+  m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: 2600
   stringTagMap: {}
@@ -47,6 +47,10 @@ Material:
         m_Texture: {fileID: 2800000, guid: dbf307c1ffb3bc347ba94fce4faaa21f, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 2800000, guid: 283393ad7e7633740963fb5f20885847, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _OcclusionMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -62,7 +66,7 @@ Material:
     m_Floats:
     - _BlueInfluence: 1
     - _BumpScale: 1
-    - _Cutoff: 0.5
+    - _Cutoff: 0
     - _DetailNormalMapScale: 1
     - _Displacement: 0.5
     - _DstBlend: 0
@@ -71,10 +75,10 @@ Material:
     - _GlossMapScale: 1
     - _Glossiness: 0.44
     - _GlossyReflections: 1
-    - _HeightControl: -0.46
+    - _HeightControl: -0.05
     - _HeightFactor: 2
     - _Influence: 0.647
-    - _Metallic: 0.44
+    - _Metallic: 0.49
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
@@ -85,8 +89,8 @@ Material:
     - _SrcBlend: 1
     - _StutterInfluence: 0.471
     - _UVSec: 0
-    - _WaveAmp: 0.44
-    - _WaveSpeed: 3.36
+    - _WaveAmp: 3
+    - _WaveSpeed: 0.82
     - _WindAmount: 2.36
     - _WindAmp: 0.013
     - _WindFreq: 24.7
@@ -111,6 +115,6 @@ Material:
     - _EmissionColor: {r: 0.13710424, g: 0.7075472, b: 0, a: 1}
     - _Tint: {r: 1, g: 1, b: 1, a: 1}
     - _WindDir: {r: 3.23, g: 1, b: 1, a: 1.27}
-    - _WindSpeed: {r: 4.48, g: 1, b: 15.14, a: 1}
+    - _WindSpeed: {r: 8.69, g: 1, b: 1, a: 1}
     - _WorldSize: {r: 1, g: 1, b: 1, a: 1}
     - _wind_dir: {r: 0.5, g: 0.05, b: 0.5, a: 0}
