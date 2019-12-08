@@ -8,6 +8,7 @@ Shader "Foliage/GroundedFoliage"
         _MainTex ("Albedo (RGB)", 2D) = "white" {}
         _Glossiness ("Smoothness", Range(0,1)) = 0.5
         _Metallic ("Metallic", Range(0,1)) = 0.0
+        _NormalMap ("Normal Map", 2D) = "bump" {}
         
         _WindTex ("Wind Gradient", 2D) = "white" {}
         
@@ -17,28 +18,32 @@ Shader "Foliage/GroundedFoliage"
         _WaveSpeed ("Wave Speed", range (0,5)) = 1
         _HeightControl ("Height Control", float) = 1
         _HeightFactor ("Height Factor", float) = 1.0
+        
+        _Cutoff ("Alpha Cutoff", Range(0,1)) = 0.5
     }
     SubShader
     {
-        Tags { "RenderType"="Opaque" }
+        Tags { "Queue"="Transparent"}
         LOD 200
+        Cull [_Cull]
 
         CGPROGRAM
         #pragma surface surf Standard fullforwardshadows
         #pragma vertex vert
-        #pragma target 3.0
 
         sampler2D _MainTex;
+        sampler2D _NormalMap;
         sampler2D _WindTex;
 
         struct Input
         {
             float2 uv_MainTex;
+            float2 uv_NormalMap;
         };
 
         half _Glossiness;
-        half _Metallic;
         fixed4 _Color;
+        fixed _Cutoff;
         
         float _WaveAmp, _WaveSpeed, _HeightControl, _HeightFactor;
         float4 _WindTex_ST, _WorldSize, _WindSpeed;
@@ -57,8 +62,9 @@ Shader "Foliage/GroundedFoliage"
         void surf (Input IN, inout SurfaceOutputStandard o)
         {
             fixed4 c = tex2D (_MainTex, IN.uv_MainTex) * _Color;
+            clip(c.a - _Cutoff);
             o.Albedo = c.rgb;
-            o.Metallic = _Metallic;
+            o.Normal = UnpackNormal (tex2D (_NormalMap, IN.uv_NormalMap));
             o.Smoothness = _Glossiness;
             o.Alpha = c.a;
         }

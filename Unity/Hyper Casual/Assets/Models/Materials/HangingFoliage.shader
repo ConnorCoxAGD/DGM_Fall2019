@@ -14,14 +14,13 @@
         _WindSpeed ("Wind Speed", vector) = (1, 1, 1, 1)
         _WaveAmp ("Wave Amplitude", range (0,3)) = 1
         _WaveSpeed ("Wave Speed", range (0,5)) = 1
+        
+        _Cutoff ("Alpha Cutoff", Range(0,1)) = 0.5
     }
     SubShader
     {
-        Tags { "Queue"="Transparent" "RenderType"="Transparent" "IgnoreProjector"="True" }
+        Tags { "Queue"="Transparent"}
         LOD 200
-        ZWrite Off
-        Blend SrcAlpha OneMinusSrcAlpha
-        AlphaToMask On
         Cull [_Cull]
 
         CGPROGRAM
@@ -40,6 +39,7 @@
 
         half _Glossiness;
         fixed4 _Color;
+        fixed _Cutoff;
         
         float _WaveAmp, _WaveSpeed;
         float4 _WindTex_ST, _WorldSize, _WindSpeed;
@@ -57,6 +57,7 @@
         void surf (Input IN, inout SurfaceOutputStandard o)
         {
             fixed4 c = tex2D (_MainTex, IN.uv_MainTex) * _Color;
+            clip(c.a - _Cutoff);
             o.Albedo = c.rgb;
             o.Smoothness = _Glossiness;
             o.Normal = UnpackNormal (tex2D (_NormalMap, IN.uv_NormalMap));
