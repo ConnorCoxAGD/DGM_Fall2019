@@ -1,6 +1,4 @@
-﻿// Upgrade NOTE: replaced '_World2Object' with 'unity_WorldToObject'
-
-Shader "Foliage/GroundedFoliage"
+﻿Shader "Foliage/GroundedFoliage"
 {
     Properties
     {
@@ -9,6 +7,8 @@ Shader "Foliage/GroundedFoliage"
         _Glossiness ("Smoothness", Range(0,1)) = 0.5
         _Metallic ("Metallic", Range(0,1)) = 0.0
         _NormalMap ("Normal Map", 2D) = "bump" {}
+        _EmissionMap ("Emission Map", 2D) = "black" {}
+        _EmissionColor ("Emission Color", Color) = (0,0,0)
         
         _WindTex ("Wind Gradient", 2D) = "white" {}
         
@@ -33,16 +33,19 @@ Shader "Foliage/GroundedFoliage"
 
         sampler2D _MainTex;
         sampler2D _NormalMap;
+        sampler2D _EmissionMap;
         sampler2D _WindTex;
 
         struct Input
         {
             float2 uv_MainTex;
             float2 uv_NormalMap;
+            float2 uv_EmissionMap;
         };
 
         half _Glossiness;
         fixed4 _Color;
+        fixed4 _EmissionColor;
         fixed _Cutoff;
         
         float _WaveAmp, _WaveSpeed, _HeightControl, _HeightFactor;
@@ -63,6 +66,7 @@ Shader "Foliage/GroundedFoliage"
         {
             fixed4 c = tex2D (_MainTex, IN.uv_MainTex) * _Color;
             clip(c.a - _Cutoff);
+            o.Emission = tex2D(_EmissionMap, IN.uv_MainTex).rgb * _EmissionColor.rgb;
             o.Albedo = c.rgb;
             o.Normal = UnpackNormal (tex2D (_NormalMap, IN.uv_NormalMap));
             o.Smoothness = _Glossiness;
