@@ -4,7 +4,6 @@ using UnityEngine;
 public class TriggerArray : MonoBehaviour
 {
     public NameID SpecifiedID;
-    public TurretHandler turretObj;
     public List<GameObject> targets = new List<GameObject>();
 
     public void OnTriggerEnter(Collider obj)
