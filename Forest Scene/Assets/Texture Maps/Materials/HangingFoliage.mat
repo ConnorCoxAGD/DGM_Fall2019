@@ -83,11 +83,11 @@ Material:
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _UVSec: 0
-    - _WaveAmp: 1.97
-    - _WaveSpeed: 2.14
+    - _WaveAmp: 1.58
+    - _WaveSpeed: 3.21
     - _ZWrite: 1
     m_Colors:
-    - _Color: {r: 0.10466878, g: 0.1509434, b: 0, a: 1}
-    - _EmissionColor: {r: 0.7735849, g: 0.7735849, b: 0.7735849, a: 1}
+    - _Color: {r: 0.23673905, g: 0.3773585, b: 0.25283974, a: 1}
+    - _EmissionColor: {r: 0.5471698, g: 0.5471698, b: 0.5471698, a: 1}
     - _WindSpeed: {r: -9.04, g: 1, b: 1, a: 1}
     - _WorldSize: {r: 1, g: 1, b: 1, a: 1}
