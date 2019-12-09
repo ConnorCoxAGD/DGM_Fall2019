@@ -88,6 +88,6 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - _Color: {r: 0.23673905, g: 0.3773585, b: 0.25283974, a: 1}
-    - _EmissionColor: {r: 0.5471698, g: 0.5471698, b: 0.5471698, a: 1}
+    - _EmissionColor: {r: 0.8901077, g: 0.9245283, b: 0.70211816, a: 1}
     - _WindSpeed: {r: -9.04, g: 1, b: 1, a: 1}
     - _WorldSize: {r: 1, g: 1, b: 1, a: 1}
