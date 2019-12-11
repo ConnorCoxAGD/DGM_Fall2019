@@ -1,0 +1,1099 @@
+fileFormatVersion: 2
+guid: b00d4ceadbf2e4a40aa2283961b1762d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Barn
+    100002: Chimney
+    100004: distanceDimension10
+    100006: distanceDimension10 1
+    100008: distanceDimension10 10
+    100010: distanceDimension10 11
+    100012: distanceDimension10 12
+    100014: distanceDimension10 13
+    100016: distanceDimension10 14
+    100018: distanceDimension10 15
+    100020: distanceDimension10 16
+    100022: distanceDimension10 17
+    100024: distanceDimension10 18
+    100026: distanceDimension10 19
+    100028: distanceDimension10 2
+    100030: distanceDimension10 20
+    100032: distanceDimension10 21
+    100034: distanceDimension10 22
+    100036: distanceDimension10 23
+    100038: distanceDimension10 24
+    100040: distanceDimension10 25
+    100042: distanceDimension10 26
+    100044: distanceDimension10 27
+    100046: distanceDimension10 28
+    100048: distanceDimension10 29
+    100050: distanceDimension10 3
+    100052: distanceDimension10 30
+    100054: distanceDimension10 31
+    100056: distanceDimension10 32
+    100058: distanceDimension10 33
+    100060: distanceDimension10 34
+    100062: distanceDimension10 35
+    100064: distanceDimension10 36
+    100066: distanceDimension10 37
+    100068: distanceDimension10 38
+    100070: distanceDimension10 39
+    100072: distanceDimension10 4
+    100074: distanceDimension10 40
+    100076: distanceDimension10 41
+    100078: distanceDimension10 42
+    100080: distanceDimension10 43
+    100082: distanceDimension10 44
+    100084: distanceDimension10 45
+    100086: distanceDimension10 46
+    100088: distanceDimension10 47
+    100090: distanceDimension10 5
+    100092: distanceDimension10 6
+    100094: distanceDimension10 7
+    100096: distanceDimension10 8
+    100098: distanceDimension10 9
+    100100: distanceDimension9
+    100102: distanceDimension9 1
+    100104: distanceDimension9 10
+    100106: distanceDimension9 11
+    100108: distanceDimension9 12
+    100110: distanceDimension9 13
+    100112: distanceDimension9 14
+    100114: distanceDimension9 15
+    100116: distanceDimension9 16
+    100118: distanceDimension9 17
+    100120: distanceDimension9 18
+    100122: distanceDimension9 19
+    100124: distanceDimension9 2
+    100126: distanceDimension9 20
+    100128: distanceDimension9 21
+    100130: distanceDimension9 22
+    100132: distanceDimension9 23
+    100134: distanceDimension9 24
+    100136: distanceDimension9 25
+    100138: distanceDimension9 26
+    100140: distanceDimension9 27
+    100142: distanceDimension9 28
+    100144: distanceDimension9 29
+    100146: distanceDimension9 3
+    100148: distanceDimension9 30
+    100150: distanceDimension9 31
+    100152: distanceDimension9 32
+    100154: distanceDimension9 33
+    100156: distanceDimension9 34
+    100158: distanceDimension9 35
+    100160: distanceDimension9 36
+    100162: distanceDimension9 37
+    100164: distanceDimension9 38
+    100166: distanceDimension9 39
+    100168: distanceDimension9 4
+    100170: distanceDimension9 40
+    100172: distanceDimension9 41
+    100174: distanceDimension9 42
+    100176: distanceDimension9 43
+    100178: distanceDimension9 44
+    100180: distanceDimension9 45
+    100182: distanceDimension9 46
+    100184: distanceDimension9 47
+    100186: distanceDimension9 5
+    100188: distanceDimension9 6
+    100190: distanceDimension9 7
+    100192: distanceDimension9 8
+    100194: distanceDimension9 9
+    100196: Door
+    100198: Door1
+    100200: Fence_Post5
+    100202: Fence_Post6
+    100204: Fence_Post7
+    100206: Garage_Door
+    100208: group1
+    100210: group2
+    100212: group3
+    100214: group4
+    100216: HayBale
+    100218: HayBale 1
+    100220: HayBale 2
+    100222: HayBale 3
+    100224: HayBale1
+    100226: HayBale1 1
+    100228: HayBale1 2
+    100230: HayBale1 3
+    100232: Haybale2
+    100234: Haybale2 1
+    100236: Haybale2 2
+    100238: Haybale2 3
+    100240: HayBale3
+    100242: Haybale3
+    100244: HayBale3 1
+    100246: Haybale3 1
+    100248: HayBale3 2
+    100250: Haybale3 2
+    100252: HayBale3 3
+    100254: Haybale3 3
+    100256: HayBale4
+    100258: Haybale4
+    100260: HayBale4 1
+    100262: Haybale4 1
+    100264: HayBale4 2
+    100266: Haybale4 2
+    100268: HayBale4 3
+    100270: Haybale4 3
+    100272: HayBale5
+    100274: HayBale5 1
+    100276: HayBale5 2
+    100278: HayBale5 3
+    100280: HayBale6
+    100282: HayBale6 1
+    100284: HayBale6 2
+    100286: HayBale6 3
+    100288: HayBale7
+    100290: HayBale7 1
+    100292: HayBale7 2
+    100294: HayBale7 3
+    100296: HayBale8
+    100298: HayBale8 1
+    100300: HayBale8 2
+    100302: HayBale8 3
+    100304: HayBale9
+    100306: HayBale9 1
+    100308: HayBale9 2
+    100310: HayBale9 3
+    100312: HayBales
+    100314: House
+    100316: House1
+    100318: Lamp
+    100320: Lantern
+    100322: locator16
+    100324: locator16 1
+    100326: locator16 10
+    100328: locator16 11
+    100330: locator16 12
+    100332: locator16 13
+    100334: locator16 14
+    100336: locator16 15
+    100338: locator16 16
+    100340: locator16 17
+    100342: locator16 18
+    100344: locator16 19
+    100346: locator16 2
+    100348: locator16 20
+    100350: locator16 21
+    100352: locator16 22
+    100354: locator16 23
+    100356: locator16 24
+    100358: locator16 25
+    100360: locator16 26
+    100362: locator16 27
+    100364: locator16 28
+    100366: locator16 29
+    100368: locator16 3
+    100370: locator16 30
+    100372: locator16 31
+    100374: locator16 32
+    100376: locator16 33
+    100378: locator16 34
+    100380: locator16 35
+    100382: locator16 36
+    100384: locator16 37
+    100386: locator16 38
+    100388: locator16 39
+    100390: locator16 4
+    100392: locator16 40
+    100394: locator16 41
+    100396: locator16 42
+    100398: locator16 43
+    100400: locator16 44
+    100402: locator16 45
+    100404: locator16 46
+    100406: locator16 47
+    100408: locator16 5
+    100410: locator16 6
+    100412: locator16 7
+    100414: locator16 8
+    100416: locator16 9
+    100418: locator17
+    100420: locator17 1
+    100422: locator17 10
+    100424: locator17 11
+    100426: locator17 12
+    100428: locator17 13
+    100430: locator17 14
+    100432: locator17 15
+    100434: locator17 16
+    100436: locator17 17
+    100438: locator17 18
+    100440: locator17 19
+    100442: locator17 2
+    100444: locator17 20
+    100446: locator17 21
+    100448: locator17 22
+    100450: locator17 23
+    100452: locator17 24
+    100454: locator17 25
+    100456: locator17 26
+    100458: locator17 27
+    100460: locator17 28
+    100462: locator17 29
+    100464: locator17 3
+    100466: locator17 30
+    100468: locator17 31
+    100470: locator17 32
+    100472: locator17 33
+    100474: locator17 34
+    100476: locator17 35
+    100478: locator17 36
+    100480: locator17 37
+    100482: locator17 38
+    100484: locator17 39
+    100486: locator17 4
+    100488: locator17 40
+    100490: locator17 41
+    100492: locator17 42
+    100494: locator17 43
+    100496: locator17 44
+    100498: locator17 45
+    100500: locator17 46
+    100502: locator17 47
+    100504: locator17 5
+    100506: locator17 6
+    100508: locator17 7
+    100510: locator17 8
+    100512: locator17 9
+    100514: locator18
+    100516: locator18 1
+    100518: locator18 10
+    100520: locator18 11
+    100522: locator18 12
+    100524: locator18 13
+    100526: locator18 14
+    100528: locator18 15
+    100530: locator18 16
+    100532: locator18 17
+    100534: locator18 18
+    100536: locator18 19
+    100538: locator18 2
+    100540: locator18 20
+    100542: locator18 21
+    100544: locator18 22
+    100546: locator18 23
+    100548: locator18 24
+    100550: locator18 25
+    100552: locator18 26
+    100554: locator18 27
+    100556: locator18 28
+    100558: locator18 29
+    100560: locator18 3
+    100562: locator18 30
+    100564: locator18 31
+    100566: locator18 32
+    100568: locator18 33
+    100570: locator18 34
+    100572: locator18 35
+    100574: locator18 36
+    100576: locator18 37
+    100578: locator18 38
+    100580: locator18 39
+    100582: locator18 4
+    100584: locator18 40
+    100586: locator18 41
+    100588: locator18 42
+    100590: locator18 43
+    100592: locator18 44
+    100594: locator18 45
+    100596: locator18 46
+    100598: locator18 47
+    100600: locator18 5
+    100602: locator18 6
+    100604: locator18 7
+    100606: locator18 8
+    100608: locator18 9
+    100610: locator19
+    100612: locator19 1
+    100614: locator19 10
+    100616: locator19 11
+    100618: locator19 12
+    100620: locator19 13
+    100622: locator19 14
+    100624: locator19 15
+    100626: locator19 16
+    100628: locator19 17
+    100630: locator19 18
+    100632: locator19 19
+    100634: locator19 2
+    100636: locator19 20
+    100638: locator19 21
+    100640: locator19 22
+    100642: locator19 23
+    100644: locator19 24
+    100646: locator19 25
+    100648: locator19 26
+    100650: locator19 27
+    100652: locator19 28
+    100654: locator19 29
+    100656: locator19 3
+    100658: locator19 30
+    100660: locator19 31
+    100662: locator19 32
+    100664: locator19 33
+    100666: locator19 34
+    100668: locator19 35
+    100670: locator19 36
+    100672: locator19 37
+    100674: locator19 38
+    100676: locator19 39
+    100678: locator19 4
+    100680: locator19 40
+    100682: locator19 41
+    100684: locator19 42
+    100686: locator19 43
+    100688: locator19 44
+    100690: locator19 45
+    100692: locator19 46
+    100694: locator19 47
+    100696: locator19 5
+    100698: locator19 6
+    100700: locator19 7
+    100702: locator19 8
+    100704: locator19 9
+    100706: Orange_Sun
+    100708: pCube1
+    100710: Pillar
+    100712: Pillar1
+    100714: pointLight1
+    100716: pointLight2
+    100718: Porch
+    100720: Porch_Roof
+    100722: //RootNode
+    100724: Shadow
+    100726: StairCase
+    100728: terrain
+    100730: transform1
+    100732: transform10
+    100734: transform11
+    100736: transform12
+    100738: transform13
+    100740: transform14
+    100742: transform15
+    100744: transform16
+    100746: transform17
+    100748: transform18
+    100750: transform19
+    100752: transform2
+    100754: transform20
+    100756: transform21
+    100758: transform22
+    100760: transform23
+    100762: transform24
+    100764: transform25
+    100766: transform26
+    100768: transform27
+    100770: transform3
+    100772: transform4
+    100774: transform5
+    100776: transform6
+    100778: transform7
+    100780: transform8
+    100782: transform9
+    100784: Wall_Panel
+    100786: Wall_Panel1
+    100788: Wall_Panel2
+    100790: Wall_Panel3
+    100792: Wall_Panel4
+    100794: Wall_Panel5
+    100796: Wall_Panel6
+    100798: Window
+    100800: Window1
+    100802: Window2
+    100804: Window3
+    100806: Window4
+    100808: Window5
+    100810: Window6
+    100812: Window7
+    100814: Window8
+    100816: Window9
+    400000: Barn
+    400002: Chimney
+    400004: distanceDimension10
+    400006: distanceDimension10 1
+    400008: distanceDimension10 10
+    400010: distanceDimension10 11
+    400012: distanceDimension10 12
+    400014: distanceDimension10 13
+    400016: distanceDimension10 14
+    400018: distanceDimension10 15
+    400020: distanceDimension10 16
+    400022: distanceDimension10 17
+    400024: distanceDimension10 18
+    400026: distanceDimension10 19
+    400028: distanceDimension10 2
+    400030: distanceDimension10 20
+    400032: distanceDimension10 21
+    400034: distanceDimension10 22
+    400036: distanceDimension10 23
+    400038: distanceDimension10 24
+    400040: distanceDimension10 25
+    400042: distanceDimension10 26
+    400044: distanceDimension10 27
+    400046: distanceDimension10 28
+    400048: distanceDimension10 29
+    400050: distanceDimension10 3
+    400052: distanceDimension10 30
+    400054: distanceDimension10 31
+    400056: distanceDimension10 32
+    400058: distanceDimension10 33
+    400060: distanceDimension10 34
+    400062: distanceDimension10 35
+    400064: distanceDimension10 36
+    400066: distanceDimension10 37
+    400068: distanceDimension10 38
+    400070: distanceDimension10 39
+    400072: distanceDimension10 4
+    400074: distanceDimension10 40
+    400076: distanceDimension10 41
+    400078: distanceDimension10 42
+    400080: distanceDimension10 43
+    400082: distanceDimension10 44
+    400084: distanceDimension10 45
+    400086: distanceDimension10 46
+    400088: distanceDimension10 47
+    400090: distanceDimension10 5
+    400092: distanceDimension10 6
+    400094: distanceDimension10 7
+    400096: distanceDimension10 8
+    400098: distanceDimension10 9
+    400100: distanceDimension9
+    400102: distanceDimension9 1
+    400104: distanceDimension9 10
+    400106: distanceDimension9 11
+    400108: distanceDimension9 12
+    400110: distanceDimension9 13
+    400112: distanceDimension9 14
+    400114: distanceDimension9 15
+    400116: distanceDimension9 16
+    400118: distanceDimension9 17
+    400120: distanceDimension9 18
+    400122: distanceDimension9 19
+    400124: distanceDimension9 2
+    400126: distanceDimension9 20
+    400128: distanceDimension9 21
+    400130: distanceDimension9 22
+    400132: distanceDimension9 23
+    400134: distanceDimension9 24
+    400136: distanceDimension9 25
+    400138: distanceDimension9 26
+    400140: distanceDimension9 27
+    400142: distanceDimension9 28
+    400144: distanceDimension9 29
+    400146: distanceDimension9 3
+    400148: distanceDimension9 30
+    400150: distanceDimension9 31
+    400152: distanceDimension9 32
+    400154: distanceDimension9 33
+    400156: distanceDimension9 34
+    400158: distanceDimension9 35
+    400160: distanceDimension9 36
+    400162: distanceDimension9 37
+    400164: distanceDimension9 38
+    400166: distanceDimension9 39
+    400168: distanceDimension9 4
+    400170: distanceDimension9 40
+    400172: distanceDimension9 41
+    400174: distanceDimension9 42
+    400176: distanceDimension9 43
+    400178: distanceDimension9 44
+    400180: distanceDimension9 45
+    400182: distanceDimension9 46
+    400184: distanceDimension9 47
+    400186: distanceDimension9 5
+    400188: distanceDimension9 6
+    400190: distanceDimension9 7
+    400192: distanceDimension9 8
+    400194: distanceDimension9 9
+    400196: Door
+    400198: Door1
+    400200: Fence_Post5
+    400202: Fence_Post6
+    400204: Fence_Post7
+    400206: Garage_Door
+    400208: group1
+    400210: group2
+    400212: group3
+    400214: group4
+    400216: HayBale
+    400218: HayBale 1
+    400220: HayBale 2
+    400222: HayBale 3
+    400224: HayBale1
+    400226: HayBale1 1
+    400228: HayBale1 2
+    400230: HayBale1 3
+    400232: Haybale2
+    400234: Haybale2 1
+    400236: Haybale2 2
+    400238: Haybale2 3
+    400240: HayBale3
+    400242: Haybale3
+    400244: HayBale3 1
+    400246: Haybale3 1
+    400248: HayBale3 2
+    400250: Haybale3 2
+    400252: HayBale3 3
+    400254: Haybale3 3
+    400256: HayBale4
+    400258: Haybale4
+    400260: HayBale4 1
+    400262: Haybale4 1
+    400264: HayBale4 2
+    400266: Haybale4 2
+    400268: HayBale4 3
+    400270: Haybale4 3
+    400272: HayBale5
+    400274: HayBale5 1
+    400276: HayBale5 2
+    400278: HayBale5 3
+    400280: HayBale6
+    400282: HayBale6 1
+    400284: HayBale6 2
+    400286: HayBale6 3
+    400288: HayBale7
+    400290: HayBale7 1
+    400292: HayBale7 2
+    400294: HayBale7 3
+    400296: HayBale8
+    400298: HayBale8 1
+    400300: HayBale8 2
+    400302: HayBale8 3
+    400304: HayBale9
+    400306: HayBale9 1
+    400308: HayBale9 2
+    400310: HayBale9 3
+    400312: HayBales
+    400314: House
+    400316: House1
+    400318: Lamp
+    400320: Lantern
+    400322: locator16
+    400324: locator16 1
+    400326: locator16 10
+    400328: locator16 11
+    400330: locator16 12
+    400332: locator16 13
+    400334: locator16 14
+    400336: locator16 15
+    400338: locator16 16
+    400340: locator16 17
+    400342: locator16 18
+    400344: locator16 19
+    400346: locator16 2
+    400348: locator16 20
+    400350: locator16 21
+    400352: locator16 22
+    400354: locator16 23
+    400356: locator16 24
+    400358: locator16 25
+    400360: locator16 26
+    400362: locator16 27
+    400364: locator16 28
+    400366: locator16 29
+    400368: locator16 3
+    400370: locator16 30
+    400372: locator16 31
+    400374: locator16 32
+    400376: locator16 33
+    400378: locator16 34
+    400380: locator16 35
+    400382: locator16 36
+    400384: locator16 37
+    400386: locator16 38
+    400388: locator16 39
+    400390: locator16 4
+    400392: locator16 40
+    400394: locator16 41
+    400396: locator16 42
+    400398: locator16 43
+    400400: locator16 44
+    400402: locator16 45
+    400404: locator16 46
+    400406: locator16 47
+    400408: locator16 5
+    400410: locator16 6
+    400412: locator16 7
+    400414: locator16 8
+    400416: locator16 9
+    400418: locator17
+    400420: locator17 1
+    400422: locator17 10
+    400424: locator17 11
+    400426: locator17 12
+    400428: locator17 13
+    400430: locator17 14
+    400432: locator17 15
+    400434: locator17 16
+    400436: locator17 17
+    400438: locator17 18
+    400440: locator17 19
+    400442: locator17 2
+    400444: locator17 20
+    400446: locator17 21
+    400448: locator17 22
+    400450: locator17 23
+    400452: locator17 24
+    400454: locator17 25
+    400456: locator17 26
+    400458: locator17 27
+    400460: locator17 28
+    400462: locator17 29
+    400464: locator17 3
+    400466: locator17 30
+    400468: locator17 31
+    400470: locator17 32
+    400472: locator17 33
+    400474: locator17 34
+    400476: locator17 35
+    400478: locator17 36
+    400480: locator17 37
+    400482: locator17 38
+    400484: locator17 39
+    400486: locator17 4
+    400488: locator17 40
+    400490: locator17 41
+    400492: locator17 42
+    400494: locator17 43
+    400496: locator17 44
+    400498: locator17 45
+    400500: locator17 46
+    400502: locator17 47
+    400504: locator17 5
+    400506: locator17 6
+    400508: locator17 7
+    400510: locator17 8
+    400512: locator17 9
+    400514: locator18
+    400516: locator18 1
+    400518: locator18 10
+    400520: locator18 11
+    400522: locator18 12
+    400524: locator18 13
+    400526: locator18 14
+    400528: locator18 15
+    400530: locator18 16
+    400532: locator18 17
+    400534: locator18 18
+    400536: locator18 19
+    400538: locator18 2
+    400540: locator18 20
+    400542: locator18 21
+    400544: locator18 22
+    400546: locator18 23
+    400548: locator18 24
+    400550: locator18 25
+    400552: locator18 26
+    400554: locator18 27
+    400556: locator18 28
+    400558: locator18 29
+    400560: locator18 3
+    400562: locator18 30
+    400564: locator18 31
+    400566: locator18 32
+    400568: locator18 33
+    400570: locator18 34
+    400572: locator18 35
+    400574: locator18 36
+    400576: locator18 37
+    400578: locator18 38
+    400580: locator18 39
+    400582: locator18 4
+    400584: locator18 40
+    400586: locator18 41
+    400588: locator18 42
+    400590: locator18 43
+    400592: locator18 44
+    400594: locator18 45
+    400596: locator18 46
+    400598: locator18 47
+    400600: locator18 5
+    400602: locator18 6
+    400604: locator18 7
+    400606: locator18 8
+    400608: locator18 9
+    400610: locator19
+    400612: locator19 1
+    400614: locator19 10
+    400616: locator19 11
+    400618: locator19 12
+    400620: locator19 13
+    400622: locator19 14
+    400624: locator19 15
+    400626: locator19 16
+    400628: locator19 17
+    400630: locator19 18
+    400632: locator19 19
+    400634: locator19 2
+    400636: locator19 20
+    400638: locator19 21
+    400640: locator19 22
+    400642: locator19 23
+    400644: locator19 24
+    400646: locator19 25
+    400648: locator19 26
+    400650: locator19 27
+    400652: locator19 28
+    400654: locator19 29
+    400656: locator19 3
+    400658: locator19 30
+    400660: locator19 31
+    400662: locator19 32
+    400664: locator19 33
+    400666: locator19 34
+    400668: locator19 35
+    400670: locator19 36
+    400672: locator19 37
+    400674: locator19 38
+    400676: locator19 39
+    400678: locator19 4
+    400680: locator19 40
+    400682: locator19 41
+    400684: locator19 42
+    400686: locator19 43
+    400688: locator19 44
+    400690: locator19 45
+    400692: locator19 46
+    400694: locator19 47
+    400696: locator19 5
+    400698: locator19 6
+    400700: locator19 7
+    400702: locator19 8
+    400704: locator19 9
+    400706: Orange_Sun
+    400708: pCube1
+    400710: Pillar
+    400712: Pillar1
+    400714: pointLight1
+    400716: pointLight2
+    400718: Porch
+    400720: Porch_Roof
+    400722: //RootNode
+    400724: Shadow
+    400726: StairCase
+    400728: terrain
+    400730: transform1
+    400732: transform10
+    400734: transform11
+    400736: transform12
+    400738: transform13
+    400740: transform14
+    400742: transform15
+    400744: transform16
+    400746: transform17
+    400748: transform18
+    400750: transform19
+    400752: transform2
+    400754: transform20
+    400756: transform21
+    400758: transform22
+    400760: transform23
+    400762: transform24
+    400764: transform25
+    400766: transform26
+    400768: transform27
+    400770: transform3
+    400772: transform4
+    400774: transform5
+    400776: transform6
+    400778: transform7
+    400780: transform8
+    400782: transform9
+    400784: Wall_Panel
+    400786: Wall_Panel1
+    400788: Wall_Panel2
+    400790: Wall_Panel3
+    400792: Wall_Panel4
+    400794: Wall_Panel5
+    400796: Wall_Panel6
+    400798: Window
+    400800: Window1
+    400802: Window2
+    400804: Window3
+    400806: Window4
+    400808: Window5
+    400810: Window6
+    400812: Window7
+    400814: Window8
+    400816: Window9
+    2100000: Grass_MAT
+    2100002: Windows_Bales_MAT
+    2100004: Barn_MAT
+    2300000: Fence_Post5
+    2300002: Fence_Post6
+    2300004: Fence_Post7
+    2300006: HayBale
+    2300008: HayBale 1
+    2300010: HayBale 2
+    2300012: HayBale 3
+    2300014: HayBale1
+    2300016: HayBale1 1
+    2300018: HayBale1 2
+    2300020: HayBale1 3
+    2300022: Haybale2
+    2300024: Haybale2 1
+    2300026: Haybale2 2
+    2300028: Haybale2 3
+    2300030: HayBale3
+    2300032: Haybale3
+    2300034: HayBale3 1
+    2300036: Haybale3 1
+    2300038: HayBale3 2
+    2300040: Haybale3 2
+    2300042: HayBale3 3
+    2300044: Haybale3 3
+    2300046: HayBale4
+    2300048: Haybale4
+    2300050: HayBale4 1
+    2300052: Haybale4 1
+    2300054: HayBale4 2
+    2300056: Haybale4 2
+    2300058: HayBale4 3
+    2300060: Haybale4 3
+    2300062: HayBale5
+    2300064: HayBale5 1
+    2300066: HayBale5 2
+    2300068: HayBale5 3
+    2300070: HayBale6
+    2300072: HayBale6 1
+    2300074: HayBale6 2
+    2300076: HayBale6 3
+    2300078: HayBale7
+    2300080: HayBale7 1
+    2300082: HayBale7 2
+    2300084: HayBale7 3
+    2300086: HayBale8
+    2300088: HayBale8 1
+    2300090: HayBale8 2
+    2300092: HayBale8 3
+    2300094: HayBale9
+    2300096: HayBale9 1
+    2300098: HayBale9 2
+    2300100: HayBale9 3
+    2300102: House1
+    2300104: Lamp
+    2300106: Lantern
+    2300108: pCube1
+    2300110: terrain
+    3300000: Fence_Post5
+    3300002: Fence_Post6
+    3300004: Fence_Post7
+    3300006: HayBale
+    3300008: HayBale 1
+    3300010: HayBale 2
+    3300012: HayBale 3
+    3300014: HayBale1
+    3300016: HayBale1 1
+    3300018: HayBale1 2
+    3300020: HayBale1 3
+    3300022: Haybale2
+    3300024: Haybale2 1
+    3300026: Haybale2 2
+    3300028: Haybale2 3
+    3300030: HayBale3
+    3300032: Haybale3
+    3300034: HayBale3 1
+    3300036: Haybale3 1
+    3300038: HayBale3 2
+    3300040: Haybale3 2
+    3300042: HayBale3 3
+    3300044: Haybale3 3
+    3300046: HayBale4
+    3300048: Haybale4
+    3300050: HayBale4 1
+    3300052: Haybale4 1
+    3300054: HayBale4 2
+    3300056: Haybale4 2
+    3300058: HayBale4 3
+    3300060: Haybale4 3
+    3300062: HayBale5
+    3300064: HayBale5 1
+    3300066: HayBale5 2
+    3300068: HayBale5 3
+    3300070: HayBale6
+    3300072: HayBale6 1
+    3300074: HayBale6 2
+    3300076: HayBale6 3
+    3300078: HayBale7
+    3300080: HayBale7 1
+    3300082: HayBale7 2
+    3300084: HayBale7 3
+    3300086: HayBale8
+    3300088: HayBale8 1
+    3300090: HayBale8 2
+    3300092: HayBale8 3
+    3300094: HayBale9
+    3300096: HayBale9 1
+    3300098: HayBale9 2
+    3300100: HayBale9 3
+    3300102: House1
+    3300104: Lamp
+    3300106: Lantern
+    3300108: pCube1
+    3300110: terrain
+    4300000: terrain
+    4300002: HayBale
+    4300004: HayBale1
+    4300006: Haybale2
+    4300008: HayBale3
+    4300010: HayBale4
+    4300012: HayBale5
+    4300014: Haybale3
+    4300016: HayBale6
+    4300018: HayBale7
+    4300020: HayBale8
+    4300022: Haybale4
+    4300024: HayBale9
+    4300026: HayBale
+    4300028: HayBale1
+    4300030: Haybale2
+    4300032: HayBale3
+    4300034: HayBale4
+    4300036: HayBale5
+    4300038: Haybale3
+    4300040: HayBale6
+    4300042: HayBale7
+    4300044: HayBale8
+    4300046: Haybale4
+    4300048: HayBale9
+    4300050: HayBale
+    4300052: HayBale1
+    4300054: Haybale2
+    4300056: HayBale3
+    4300058: HayBale4
+    4300060: HayBale5
+    4300062: Haybale3
+    4300064: HayBale6
+    4300066: HayBale7
+    4300068: HayBale8
+    4300070: Haybale4
+    4300072: HayBale9
+    4300074: HayBale
+    4300076: HayBale1
+    4300078: Haybale2
+    4300080: HayBale3
+    4300082: HayBale4
+    4300084: HayBale5
+    4300086: Haybale3
+    4300088: HayBale6
+    4300090: HayBale7
+    4300092: HayBale8
+    4300094: Haybale4
+    4300096: HayBale9
+    4300098: Lamp
+    4300100: Lantern
+    4300102: Fence_Post5
+    4300104: pCube1
+    4300106: Fence_Post6
+    4300108: Fence_Post7
+    4300110: House1
+    10800000: Orange_Sun
+    10800002: pointLight1
+    10800004: pointLight2
+    10800006: Shadow
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Barn_MAT
+    second: {fileID: 2100000, guid: 03a6e6e99c185044a818a7e70a3e4efd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grass_MAT
+    second: {fileID: 2100000, guid: 75b6c305e69b8c74589bbcb5f29fa187, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Windows_Bales_MAT
+    second: {fileID: 2100000, guid: fcccd9881ec4bf3499f24f1f80d0015c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
