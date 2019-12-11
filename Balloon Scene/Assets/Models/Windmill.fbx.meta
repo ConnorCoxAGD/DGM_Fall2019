@@ -3,48 +3,26 @@ guid: 60cc1435c52d2be43ba6a45a5175f775
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: terrain
-    100002: //RootNode
-    100004: Windmill
-    100006: Windmill1
-    100008: Windmill2
-    100010: Windmill3
-    100012: Windmill4
-    100014: Windmill5
-    400000: terrain
-    400002: //RootNode
-    400004: Windmill
-    400006: Windmill1
-    400008: Windmill2
-    400010: Windmill3
-    400012: Windmill4
-    400014: Windmill5
-    2100000: No Name
-    2100002: Legs_MAT
+    100000: Fan
+    100002: Gearbox
+    100004: Legs
+    100006: //RootNode
+    400000: Fan
+    400002: Gearbox
+    400004: Legs
+    400006: //RootNode
+    2100000: Legs_MAT
+    2100002: Gearbox_MAT
     2100004: Fan_MAT
-    2100006: Gearbox_MAT
-    2300000: terrain
-    2300002: Windmill
-    2300004: Windmill1
-    2300006: Windmill2
-    2300008: Windmill3
-    2300010: Windmill4
-    2300012: Windmill5
-    3300000: terrain
-    3300002: Windmill
-    3300004: Windmill1
-    3300006: Windmill2
-    3300008: Windmill3
-    3300010: Windmill4
-    3300012: Windmill5
-    4300000: terrain
-    4300002: Windmill1
-    4300004: Windmill2
-    4300006: Windmill3
-    4300008: Windmill4
-    4300010: Windmill5
-    4300012: Windmill
-    2186277476908879412: ImportLogs
+    2300000: Fan
+    2300002: Gearbox
+    2300004: Legs
+    3300000: Fan
+    3300002: Gearbox
+    3300004: Legs
+    4300000: Legs
+    4300002: Gearbox
+    4300004: Fan
   externalObjects: {}
   materials:
     importMaterials: 1
