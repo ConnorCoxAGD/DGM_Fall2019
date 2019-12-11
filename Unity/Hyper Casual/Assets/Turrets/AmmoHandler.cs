@@ -6,7 +6,7 @@ public class AmmoHandler : MonoBehaviour
     private Rigidbody _rigidbodyObj;
     public Vector3 Forces;
     
-    void Start()
+    void Update()
     {
         _rigidbodyObj = GetComponent<Rigidbody>();
         _rigidbodyObj.AddForce(Forces);

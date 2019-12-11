@@ -5,13 +5,13 @@ public class TurretAim : TriggerArray
 {
     public GameObject ammoObj;
     public GameObject turretGun;
-    public bool isFiring = false;
     public int _wfs = 1;
+    public bool isFiring;
 
     private Vector3 _bulletSpawn;
     private Vector3 _targetPos;
 
-    public void Start()
+    public void Update()
     {
         StartCoroutine(OnFire());
     }
@@ -21,9 +21,9 @@ public class TurretAim : TriggerArray
         while (targets.Count > 0)
         {
             _targetPos = targets[0].transform.position;
+            isFiring = true;
             
             var aimTurret = new Vector3(_targetPos.x, _targetPos.y, _targetPos.z);
-            isFiring = true;
             turretGun.transform.LookAt(aimTurret);
             yield return new WaitForSeconds(_wfs);
         }
