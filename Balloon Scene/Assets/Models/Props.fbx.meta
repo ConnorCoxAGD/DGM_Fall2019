@@ -411,6 +411,7 @@ ModelImporter:
     100810: Window7
     100812: Window8
     100814: Window9
+    100816: Shadow
     400000: Barn
     400002: Chimney
     400004: distanceDimension10
@@ -819,6 +820,7 @@ ModelImporter:
     400810: Window7
     400812: Window8
     400814: Window9
+    400816: Shadow
     2100000: Grass_MAT
     2100002: Windows_Bales_MAT
     2100004: Barn_MAT
@@ -993,7 +995,23 @@ ModelImporter:
     10800000: Orange_Sun
     10800002: pointLight1
     10800004: pointLight2
-  externalObjects: {}
+    10800006: Shadow
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Barn_MAT
+    second: {fileID: 2100000, guid: d4fd3071311d1d64abad5a8929fb0257, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grass_MAT
+    second: {fileID: 2100000, guid: f6c433fce002ee541b54c4c7945aef9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Windows_Bales_MAT
+    second: {fileID: 2100000, guid: ee8d3a0bf378119428e63e4eb59004cf, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
